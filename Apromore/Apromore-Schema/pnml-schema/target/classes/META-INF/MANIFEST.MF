@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1650264571424
+Build-Jdk: 1.8.0_281
+Built-By: rose
+Bundle-License: http://www.gnu.org/licenses/lgpl-3.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: Apromore PNML Schema
+Bundle-SymbolicName: org.apromore.pnml-schema
+Bundle-Version: 1.1.0
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.apromore.pnml;uses:="javax.xml.bind.annotation,javax
+ .xml.bind.annotation.adapters,org.xml.sax.helpers,org.xml.sax,javax.xml
+ .namespace,javax.xml.bind,javax.xml,javax.xml.validation,javax.xml.tran
+ sform.sax,javax.xml.transform,org.apromore.pnml.cache,javax.xml.datatyp
+ e";version="1.1.0",org.apromore.pnml.cache;uses:="javax.xml.bind";versi
+ on="1.1.0"
+Import-Package: javax.xml,javax.xml.bind,javax.xml.bind.annotation,javax
+ .xml.bind.annotation.adapters,javax.xml.datatype,javax.xml.namespace,ja
+ vax.xml.transform,javax.xml.transform.sax,javax.xml.validation,org.xml.
+ sax,org.xml.sax.helpers
+Tool: Bnd-1.50.0

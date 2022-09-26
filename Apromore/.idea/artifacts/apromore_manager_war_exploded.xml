@@ -1,0 +1,46 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="apromore-manager:war exploded">
+    <output-path>$PROJECT_DIR$/Apromore-Manager/target/manager</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>apromore-manager</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="apromore-manager" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="filestore-client-1.0.jar">
+            <element id="module-output" name="filestore-client" />
+          </element>
+          <element id="library" level="project" name="Maven: com.github.lookfirst:sardine:5.0.1" />
+          <element id="archive" name="annotation-api-1.1.jar">
+            <element id="module-output" name="annotation-api" />
+          </element>
+          <element id="archive" name="bpmn-schema-1.1.jar">
+            <element id="module-output" name="bpmn-schema" />
+          </element>
+          <element id="library" level="project" name="Maven: tu:taskmapping:0.1" />
+          <element id="library" level="project" name="Maven: mathCollection:mathCollection:0.1" />
+          <element id="library" level="project" name="Maven: lpsolve:lpsolve:55j" />
+          <element id="library" level="project" name="Maven: org.apache.ws.xmlschema:xmlschema-core:2.0.2" />
+          <element id="library" level="project" name="Maven: org.jvnet.jaxb2_commons:jaxb2-basics-runtime:0.5.3" />
+          <element id="library" level="project" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.20-RC" />
+          <element id="library" level="project" name="Maven: org.jetbrains.kotlin:kotlin-stdlib:1.5.20-RC" />
+          <element id="library" level="project" name="Maven: org.jetbrains:annotations:13.0" />
+          <element id="library" level="project" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-common:1.5.20-RC" />
+          <element id="library" level="project" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.5.20-RC" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/Apromore-Manager/target/manager/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="apromore-manager/web/Web" />
+    </root>
+  </artifact>
+</component>

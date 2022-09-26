@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<rss version="0.91">
+  <channel>
+    <title>Apromore Manager Security Handler - Checkstyle report</title>
+    <link>http://apromore.org/</link>
+    <description>Apromore Manager Security Handler - Checkstyle report</description>
+    <language>en-us</language>
+    <copyright>&#169;2022</copyright>
+    <item>
+      <title>File: 15,
+             Errors: 125,
+             Warnings: 0,
+             Infos: 0
+      </title>
+            <link>http://apromore.org//checkstyle.html</link>
+      <description>
+        <p>Click <a href="http://apromore.org//checkstyle.html">here</a> for the full Checkstyle report.</p>
+
+        <table summary="Files" boder="1">
+          <thead>
+            <tr>
+              <th>Files</th>
+              <th style="width:30px;"><abbr title="Info">I</abbr></th>
+              <th style="width:30px;"><abbr title="Warning">W</abbr></th>
+              <th style="width:30px;"><abbr title="Error">E</abbr></th>
+            </tr>
+          </thead>
+          <tbody>
+                          <tr>
+                <td>
+                  <a href="http://apromore.org//checkstyle.html#org.apromore.security.exception.ApromoreRemoteAuthenticationException.java">org/apromore/security/exception/ApromoreRemoteAuthenticationException.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://apromore.org//checkstyle.html#org.apromore.security.provider.ApromoreTokenBasedRememberMeServices.java">org/apromore/security/provider/ApromoreTokenBasedRememberMeServices.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  7
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://apromore.org//checkstyle.html#org.apromore.security.provider.ApromoreRemoteAuthenticationProvider.java">org/apromore/security/provider/ApromoreRemoteAuthenticationProvider.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  9
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://apromore.org//checkstyle.html#org.apromore.security.model.ApromoreUserDetails.java">org/apromore/security/model/ApromoreUserDetails.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  55
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://apromore.org//checkstyle.html#org.apromore.security.util.SecurityUtil.java">org/apromore/security/util/SecurityUtil.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://apromore.org//checkstyle.html#org.apromore.security.ApromoreRemoteAuthenticationManagerImpl.java">org/apromore/security/ApromoreRemoteAuthenticationManagerImpl.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  8
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://apromore.org//checkstyle.html#org.apromore.security.ApromoreRemoteAuthenticationManager.java">org/apromore/security/ApromoreRemoteAuthenticationManager.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://apromore.org//checkstyle.html#org.apromore.security.ApromoreAuthenticationDetailsSource.java">org/apromore/security/ApromoreAuthenticationDetailsSource.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://apromore.org//checkstyle.html#org.apromore.security.ApromoreWebAuthenticationDetailsSource.java">org/apromore/security/ApromoreWebAuthenticationDetailsSource.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://apromore.org//checkstyle.html#org.apromore.security.model.ApromorePermissionDetails.java">org/apromore/security/model/ApromorePermissionDetails.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  12
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://apromore.org//checkstyle.html#org.apromore.security.filter.ApromoreUsernamePasswordAuthenticationFilter.java">org/apromore/security/filter/ApromoreUsernamePasswordAuthenticationFilter.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://apromore.org//checkstyle.html#org.apromore.security.ApromoreWebAuthenticationDetails.java">org/apromore/security/ApromoreWebAuthenticationDetails.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://apromore.org//checkstyle.html#org.apromore.security.exception.ApromoreRemoteResetException.java">org/apromore/security/exception/ApromoreRemoteResetException.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://apromore.org//checkstyle.html#org.apromore.security.model.ApromoreRoleDetails.java">org/apromore/security/model/ApromoreRoleDetails.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  12
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://apromore.org//checkstyle.html#org.apromore.security.model.ApromoreSearchHistoryDetails.java">org/apromore/security/model/ApromoreSearchHistoryDetails.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  8
+                </td>
+              </tr>
+                      </tbody>
+        </table>
+        
+      </description>
+    </item>
+  </channel>
+</rss>
+

@@ -1,0 +1,33 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1650264608227
+Build-Jdk: 1.8.0_281
+Built-By: rose
+Bundle-Description: Responsible for (de)canonising YAWL 2.2.
+Bundle-License: http://www.gnu.org/licenses/lgpl-3.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: Apromore YAWL Canoniser
+Bundle-SymbolicName: org.apromore.plugin.canoniser-yawl
+Bundle-Version: 1.1.0
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.apromore.canoniser.yawl;uses:="org.slf4j,org.apromor
+ e.canoniser,org.apache.commons.io,org.apromore.plugin.property,org.yawl
+ foundation.yawlschema,org.xml.sax,org.apromore.plugin.exception,javax.x
+ ml.bind,org.apromore.canoniser.exception,org.xml.sax.helpers,org.apromo
+ re.canoniser.result,javax.xml.transform.sax,org.apromore.plugin,org.apr
+ omore.anf,org.apromore.cpf,javax.xml.transform,javax.xml.datatype,org.s
+ pringframework.stereotype,org.yawlfoundation.yawlschema.orgdata";versio
+ n="1.1.0"
+Import-Package: javax.xml.bind;version="[2.2,3)",javax.xml.datatype,java
+ x.xml.namespace,javax.xml.parsers,javax.xml.transform,javax.xml.transfo
+ rm.dom,javax.xml.transform.sax,javax.xml.transform.stream,org.apache.co
+ mmons.io;version="[1.4,2)",org.apache.commons.lang.builder;version="[2.
+ 6,3)",org.apromore.anf;version="[1.1,2)",org.apromore.canoniser;version
+ ="[1.1,2)",org.apromore.canoniser.exception;version="[1.1,2)",org.aprom
+ ore.canoniser.result;version="[1.1,2)",org.apromore.canoniser.utils;ver
+ sion="[1.1,2)",org.apromore.cpf;version="[1.1,2)",org.apromore.plugin;v
+ ersion="[1.1,2)",org.apromore.plugin.exception;version="[1.1,2)",org.ap
+ romore.plugin.property;version="[1.1,2)",org.slf4j;version="[1.7,2)",or
+ g.springframework.stereotype;version="[3.1,4)",org.w3c.dom,org.xml.sax,
+ org.xml.sax.helpers,org.yawlfoundation.yawlschema;version="[1.1,2)",org
+ .yawlfoundation.yawlschema.orgdata;version="[1.1,2)"
+Tool: Bnd-1.50.0

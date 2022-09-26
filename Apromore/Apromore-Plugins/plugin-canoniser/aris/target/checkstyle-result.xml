@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.6">
+<file name="D:\Apromore\Apromore-Plugins\plugin-canoniser\aris\src\main\java\org\apromore\canoniser\aris\ArisCanoniser.java">
+<error line="82" severity="error" message="Line is longer than 150 characters (found 164)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="83" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="90" severity="error" message="Line is longer than 150 characters (found 160)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="D:\Apromore\Apromore-Plugins\plugin-canoniser\aris\src\main\java\org\apromore\canoniser\aris\package-info.java">
+</file>
+<file name="D:\Apromore\Apromore-Plugins\plugin-canoniser\aris\src\test\java\org\apromore\canoniser\aris\ArisCanoniserUnitTest.java">
+<error line="49" column="25" severity="error" message="Name &apos;AML_DIRECTORY&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.StaticVariableNameCheck"/>
+<error line="52" column="25" severity="error" message="Name &apos;OUTPUT_DIRECTORY&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.StaticVariableNameCheck"/>
+<error line="60" column="17" severity="error" message="Name &apos;testCanonise_GI&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MethodNameCheck"/>
+<error line="60" column="42" severity="error" message="Expected @throws tag for &apos;Exception&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="82" column="17" severity="error" message="Name &apos;testCanoniseFragment_gp2&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MethodNameCheck"/>
+<error line="82" column="51" severity="error" message="Expected @throws tag for &apos;Exception&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+</checkstyle>

@@ -1,0 +1,4 @@
+org\apromore\annotation\yawl2pnml\Yawl2PnmlPreProcessor.class
+org\apromore\annotation\epml2pnml\Epml2PnmlPreProcessor.class
+org\apromore\annotation\bpmn2pnml\Bpmn2PnmlPreProcessor.class
+org\apromore\annotation\xpdl2pnml\Xpdl2PnmlPreProcessor.class

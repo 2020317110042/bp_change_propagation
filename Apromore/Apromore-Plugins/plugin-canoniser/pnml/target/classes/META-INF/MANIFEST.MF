@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1650264603163
+Build-Jdk: 1.8.0_281
+Built-By: rose
+Bundle-Description: Apromore Plugin API's and core Plugins
+Bundle-License: http://www.gnu.org/licenses/lgpl-3.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: Apromore PNML Canoniser
+Bundle-SymbolicName: org.apromore.plugin.canoniser-pnml
+Bundle-Version: 1.1.0
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.apromore.canoniser.pnml;uses:="org.apromore.canonise
+ r.exception,org.xml.sax.helpers,org.slf4j,javax.xml.transform.sax,org.a
+ promore.canoniser.result,org.apromore.plugin,org.apromore.canoniser,org
+ .apromore.anf,org.apromore.cpf,org.apromore.pnml,javax.xml.transform,or
+ g.apromore.plugin.property,org.springframework.stereotype,org.xml.sax,o
+ rg.apromore.plugin.exception,javax.xml.bind";version="1.1.0"
+Import-Package: com.google.common.collect;version="[14.0,15)",javax.xml.
+ bind;version="[2.2,3)",javax.xml.transform,javax.xml.transform.sax,org.
+ apromore.anf;version="[1.1,2)",org.apromore.canoniser;version="[1.1,2)"
+ ,org.apromore.canoniser.exception;version="[1.1,2)",org.apromore.canoni
+ ser.result;version="[1.1,2)",org.apromore.cpf;version="[1.1,2)",org.apr
+ omore.plugin;version="[1.1,2)",org.apromore.plugin.exception;version="[
+ 1.1,2)",org.apromore.plugin.property;version="[1.1,2)",org.apromore.pnm
+ l;version="[1.1,2)",org.slf4j;version="[1.7,2)",org.springframework.ste
+ reotype;version="[3.1,4)",org.xml.sax,org.xml.sax.helpers
+Tool: Bnd-1.50.0

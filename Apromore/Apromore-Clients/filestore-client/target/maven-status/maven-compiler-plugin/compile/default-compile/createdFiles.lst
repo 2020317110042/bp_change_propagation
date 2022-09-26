@@ -1,0 +1,4 @@
+org\apromore\filestore\client\FileStoreService.class
+org\apromore\filestore\client\DavFileSystemView.class
+org\apromore\filestore\client\DavFile.class
+org\apromore\filestore\client\FileStoreServiceClient.class

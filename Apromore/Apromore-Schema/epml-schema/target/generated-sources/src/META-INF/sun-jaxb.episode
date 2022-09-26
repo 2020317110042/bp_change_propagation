@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bindings version="2.1" xmlns="http://java.sun.com/xml/ns/jaxb">
+  <!--
+
+此文件是由 JavaTM Architecture for XML Binding (JAXB) 引用实现 v2.2.7 生成的
+请访问 <a href="http://java.sun.com/xml/jaxb">http://java.sun.com/xml/jaxb</a> 
+在重新编译源模式时, 对此文件的所有修改都将丢失。
+生成时间: 2022.04.18 时间 02:49:26 PM CST 
+
+  -->
+  <bindings scd="x-schema::tns" xmlns:tns="http://www.epml.de">
+    <schemaBindings map="false">
+      <package name="de.epml"/>
+    </schemaBindings>
+    <bindings scd="~tns:typeCXOR">
+      <class ref="de.epml.TypeCXOR"/>
+    </bindings>
+    <bindings scd="~tns:typeCFunction">
+      <class ref="de.epml.TypeCFunction"/>
+    </bindings>
+    <bindings scd="~tns:typeCObject">
+      <class ref="de.epml.TypeCObject"/>
+    </bindings>
+    <bindings scd="~tns:typeCAnd">
+      <class ref="de.epml.TypeCAnd"/>
+    </bindings>
+    <bindings scd="~tns:typeCRange">
+      <class ref="de.epml.TypeCRange"/>
+    </bindings>
+    <bindings scd="~tns:typeCOR">
+      <class ref="de.epml.TypeCOR"/>
+    </bindings>
+    <bindings scd="~tns:typeCRole">
+      <class ref="de.epml.TypeCRole"/>
+    </bindings>
+    <bindings scd="~tns:typeEPML">
+      <class ref="de.epml.TypeEPML"/>
+    </bindings>
+    <bindings scd="~tns:typeFont">
+      <class ref="de.epml.TypeFont"/>
+    </bindings>
+    <bindings scd="~tns:typeRANGE">
+      <class ref="de.epml.TypeRANGE"/>
+    </bindings>
+    <bindings scd="~tns:typeMove">
+      <class ref="de.epml.TypeMove"/>
+    </bindings>
+    <bindings scd="~tns:typeCoordinates">
+      <class ref="de.epml.TypeCoordinates"/>
+    </bindings>
+    <bindings scd="~tns:typeEvent">
+      <class ref="de.epml.TypeEvent"/>
+    </bindings>
+    <bindings scd="~tns:typeObject">
+      <class ref="de.epml.TypeObject"/>
+    </bindings>
+    <bindings scd="~tns:typeFunction">
+      <class ref="de.epml.TypeFunction"/>
+    </bindings>
+    <bindings scd="~tns:typeRelation">
+      <class ref="de.epml.TypeRelation"/>
+    </bindings>
+    <bindings scd="~tns:typeOR">
+      <class ref="de.epml.TypeOR"/>
+    </bindings>
+    <bindings scd="~tns:typeMove2">
+      <class ref="de.epml.TypeMove2"/>
+    </bindings>
+    <bindings scd="~tns:typeAttrTypes">
+      <class ref="de.epml.TypeAttrTypes"/>
+    </bindings>
+    <bindings scd="~tns:tEpcElement">
+      <class ref="de.epml.TEpcElement"/>
+    </bindings>
+    <bindings scd="~tns:typeAttribute">
+      <class ref="de.epml.TypeAttribute"/>
+    </bindings>
+    <bindings scd="~tns:typeDefinitions">
+      <class ref="de.epml.TypeDefinitions"/>
+    </bindings>
+    <bindings scd="~tns:typeDefinition">
+      <class ref="de.epml.TypeDefinition"/>
+    </bindings>
+    <bindings scd="~tns:typeEPC">
+      <class ref="de.epml.TypeEPC"/>
+    </bindings>
+    <bindings scd="~tns:typeCOrder">
+      <class ref="de.epml.TypeCOrder"/>
+    </bindings>
+    <bindings scd="~tns:typeAND">
+      <class ref="de.epml.TypeAND"/>
+    </bindings>
+    <bindings scd="~tns:tExtensibleElements">
+      <class ref="de.epml.TExtensibleElements"/>
+    </bindings>
+    <bindings scd="~tns:typeArc">
+      <class ref="de.epml.TypeArc"/>
+    </bindings>
+    <bindings scd="~tns:typeToProcess">
+      <class ref="de.epml.TypeToProcess"/>
+    </bindings>
+    <bindings scd="~tns:typeFlow">
+      <class ref="de.epml.TypeFlow"/>
+    </bindings>
+    <bindings scd="~tns:typeLine">
+      <class ref="de.epml.TypeLine"/>
+    </bindings>
+    <bindings scd="~tns:typeDirectory">
+      <class ref="de.epml.TypeDirectory"/>
+    </bindings>
+    <bindings scd="~tns:typeSpecialization">
+      <class ref="de.epml.TypeSpecialization"/>
+    </bindings>
+    <bindings scd="~tns:typePosition">
+      <class ref="de.epml.TypePosition"/>
+    </bindings>
+    <bindings scd="~tns:typeXOR">
+      <class ref="de.epml.TypeXOR"/>
+    </bindings>
+    <bindings scd="~tns:typeGraphicsDefault">
+      <class ref="de.epml.TypeGraphicsDefault"/>
+    </bindings>
+    <bindings scd="~tns:typeProcessInterface">
+      <class ref="de.epml.TypeProcessInterface"/>
+    </bindings>
+    <bindings scd="~tns:typeFill">
+      <class ref="de.epml.TypeFill"/>
+    </bindings>
+    <bindings scd="~tns:typeGraphics">
+      <class ref="de.epml.TypeGraphics"/>
+    </bindings>
+    <bindings scd="~tns:typeAttrType">
+      <class ref="de.epml.TypeAttrType"/>
+    </bindings>
+    <bindings scd="~tns:typeCReq">
+      <class ref="de.epml.TypeCReq"/>
+    </bindings>
+    <bindings scd="~tns:typeRole">
+      <class ref="de.epml.TypeRole"/>
+    </bindings>
+  </bindings>
+</bindings>
+

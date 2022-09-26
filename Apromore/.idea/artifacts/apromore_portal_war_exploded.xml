@@ -1,0 +1,55 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="apromore-portal:war exploded">
+    <output-path>$PROJECT_DIR$/Apromore-Portal/target/portal</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>apromore-portal</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="apromore-portal" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="filestore-client-1.0.jar">
+            <element id="module-output" name="filestore-client" />
+          </element>
+          <element id="library" level="project" name="Maven: com.github.lookfirst:sardine:5.0.1" />
+          <element id="library" level="project" name="Maven: org.jvnet.jaxb2_commons:jaxb2-basics-runtime:0.5.3" />
+          <element id="archive" name="cmap-schema-1.1.jar">
+            <element id="module-output" name="cmap-schema" />
+          </element>
+          <element id="library" level="project" name="Maven: org.json:json:20090211" />
+          <element id="library" level="project" name="Maven: org.zkoss.zk:zkbind:6.5.3" />
+          <element id="library" level="project" name="Maven: org.zkoss.zk:zul:6.5.3" />
+          <element id="library" level="project" name="Maven: org.zkoss.zk:zk:6.5.3" />
+          <element id="library" level="project" name="Maven: org.zkoss.common:zweb:6.5.3" />
+          <element id="library" level="project" name="Maven: org.zkoss.common:zcommon:6.5.3" />
+          <element id="library" level="project" name="Maven: org.zkoss.common:zel:6.5.3" />
+          <element id="library" level="project" name="Maven: org.beanshell:bsh:2.0b4" />
+          <element id="library" level="project" name="Maven: org.zkoss.zk:zkplus:6.5.3" />
+          <element id="library" level="project" name="Maven: org.zkoss.zk:zhtml:6.5.3" />
+          <element id="library" level="project" name="Maven: org.zkoss.zk:zkspring-core:3.1" />
+          <element id="library" level="project" name="Maven: org.javassist:javassist:3.14.0-GA" />
+          <element id="library" level="project" name="Maven: org.reflections:reflections:0.9.5-RC2" />
+          <element id="library" level="project" name="Maven: com.google.collections:google-collections:1.0" />
+          <element id="library" level="project" name="Maven: dom4j:dom4j:1.6.1" />
+          <element id="library" level="project" name="Maven: xml-apis:xml-apis:1.0.b2" />
+          <element id="library" level="project" name="Maven: com.google.code.gson:gson:1.4" />
+          <element id="library" level="project" name="Maven: javax.servlet:servlet-api:2.5" />
+          <element id="library" level="project" name="Maven: org.springframework.social:spring-social-facebook:1.0.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.social:spring-social-core:1.0.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.social:spring-social-twitter:1.0.2.RELEASE" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/Apromore-Portal/target/portal/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="apromore-portal/web/Web" />
+    </root>
+  </artifact>
+</component>

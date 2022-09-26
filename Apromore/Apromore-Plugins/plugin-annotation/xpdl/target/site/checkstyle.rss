@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<rss version="0.91">
+  <channel>
+    <title>Apromore XPDL Annotation Pre Processor - Checkstyle report</title>
+    <link>http://www.apromore.org/plugin-canoniser/annotation-xpdl/</link>
+    <description>Apromore XPDL Annotation Pre Processor - Checkstyle report</description>
+    <language>en-us</language>
+    <copyright>&#169;2022</copyright>
+    <item>
+      <title>File: 3,
+             Errors: 62,
+             Warnings: 0,
+             Infos: 0
+      </title>
+            <link>http://www.apromore.org/plugin-canoniser/annotation-xpdl//checkstyle.html</link>
+      <description>
+        <p>Click <a href="http://www.apromore.org/plugin-canoniser/annotation-xpdl//checkstyle.html">here</a> for the full Checkstyle report.</p>
+
+        <table summary="Files" boder="1">
+          <thead>
+            <tr>
+              <th>Files</th>
+              <th style="width:30px;"><abbr title="Info">I</abbr></th>
+              <th style="width:30px;"><abbr title="Warning">W</abbr></th>
+              <th style="width:30px;"><abbr title="Error">E</abbr></th>
+            </tr>
+          </thead>
+          <tbody>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-canoniser/annotation-xpdl//checkstyle.html#org.apromore.annotation.epml2xpdl.Epml2xpdlPreProcessorUnitTest.java">org/apromore/annotation/epml2xpdl/Epml2xpdlPreProcessorUnitTest.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  22
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-canoniser/annotation-xpdl//checkstyle.html#org.apromore.annotation.epml2xpdl.package-info.java">org/apromore/annotation/epml2xpdl/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-canoniser/annotation-xpdl//checkstyle.html#org.apromore.annotation.epml2xpdl.Epml2XpdlPreProcessor.java">org/apromore/annotation/epml2xpdl/Epml2XpdlPreProcessor.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  40
+                </td>
+              </tr>
+                      </tbody>
+        </table>
+        
+      </description>
+    </item>
+  </channel>
+</rss>
+

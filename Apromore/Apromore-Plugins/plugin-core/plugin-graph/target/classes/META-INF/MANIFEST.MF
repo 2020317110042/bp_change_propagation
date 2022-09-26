@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1650264592856
+Build-Jdk: 1.8.0_281
+Built-By: rose
+Bundle-Description: Apromore Plugin API's and core Plugins
+Bundle-License: http://www.gnu.org/licenses/lgpl-3.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: Apromore Canonical Graph Plugin
+Bundle-SymbolicName: org.apromore.plugin.graph
+Bundle-Version: 1.1.0
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.apromore.graph.canonical;uses:="org.jbpt.graph.abs,o
+ rg.jbpt.hypergraph.abs,org.jbpt.algo.graph,org.apromore.cpf";version="1
+ .1.0",org.apromore.graph.canonical.converter;uses:="org.apromore.graph.
+ canonical,org.slf4j,javax.xml.datatype,org.apromore.cpf,org.apromore.gr
+ aph.util,org.jbpt.hypergraph.abs";version="1.1.0",org.apromore.graph.ut
+ il;uses:="org.apromore.graph.canonical,org.slf4j";version="1.1.0"
+Import-Package: javax.xml.datatype,org.apromore.cpf;version="[1.1,2)",or
+ g.jbpt.algo.graph;version="[0.2,1)",org.jbpt.graph.abs;version="[0.2,1)
+ ",org.jbpt.hypergraph.abs;version="[0.2,1)",org.slf4j;version="[1.7,2)"
+Tool: Bnd-1.50.0

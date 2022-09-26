@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1650264594083
+Build-Jdk: 1.8.0_281
+Built-By: rose
+Bundle-Description: API for Metric Plugins
+Bundle-License: http://www.gnu.org/licenses/lgpl-3.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: Apromore Metric API
+Bundle-SymbolicName: org.apromore.plugin.metric-api
+Bundle-Version: 1.1.0
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.apromore.plugin.metric;uses:="org.apromore.plugin,or
+ g.apromore.graph.canonical,org.apromore.plugin.metric.result";version="
+ 1.1.0",org.apromore.plugin.metric.provider;uses:="org.apromore.plugin.m
+ etric,org.apromore.plugin.exception";version="1.1.0",org.apromore.plugi
+ n.metric.result;uses:="org.apromore.plugin";version="1.1.0"
+Import-Package: org.apromore.graph.canonical;version="[1.1,2)",org.aprom
+ ore.plugin;version="[1.1,2)",org.apromore.plugin.exception;version="[1.
+ 1,2)"
+Tool: Bnd-1.50.0

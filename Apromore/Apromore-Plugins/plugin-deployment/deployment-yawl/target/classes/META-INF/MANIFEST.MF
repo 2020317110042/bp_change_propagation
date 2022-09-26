@@ -1,0 +1,40 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1650264617929
+Build-Jdk: 1.8.0_281
+Built-By: rose
+Bundle-ClassPath: .,fluent-hc-4.2.1.jar,httpclient-4.2.1.jar,httpcore-4.
+ 2.1.jar
+Bundle-Description: Deploys processes from Apromore to a running YAWL en
+ gine.
+Bundle-License: http://www.gnu.org/licenses/lgpl-3.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: YAWL Deployment Plugin
+Bundle-SymbolicName: org.apromore.plugin.deployment-yawl
+Bundle-Version: 1.1.0
+Created-By: Apache Maven Bundle Plugin
+Embed-Dependency: scope=!test;artifactId=fluent-hc|httpclient|httpcore
+Embed-Transitive: true
+Embedded-Artifacts: fluent-hc-4.2.1.jar;g="org.apache.httpcomponents";a=
+ "fluent-hc";v="4.2.1",httpclient-4.2.1.jar;g="org.apache.httpcomponents
+ ";a="httpclient";v="4.2.1",httpcore-4.2.1.jar;g="org.apache.httpcompone
+ nts";a="httpcore";v="4.2.1"
+Export-Package: org.apromore.plugin.deployment.yawl;uses:="org.apromore.
+ canoniser.exception,org.slf4j,org.w3c.dom,org.apromore.plugin,org.aprom
+ ore.plugin.deployment.exception,org.apromore.cpf,org.apromore.anf,org.a
+ promore.plugin.deployment,org.apromore.plugin.property,org.springframew
+ ork.stereotype,org.apromore.canoniser.yawl,org.apromore.plugin.exceptio
+ n,javax.xml.parsers,org.xml.sax,org.apache.commons.codec.binary";versio
+ n="1.1.0"
+Import-Bundle: org.apache.commons.codec;version="[1.7.0,2.0.0]"
+Import-Package: com.sun.jndi.ldap,javassist,javax.crypto,javax.crypto.sp
+ ec,javax.net.ssl,javax.security.auth.x500,javax.xml.parsers,org.apache.
+ commons.codec.binary;version="[1.7,2)",org.apache.commons.logging;versi
+ on="[1.1,2)",org.apromore.anf;version="[1.1,2)",org.apromore.canoniser.
+ exception;version="[1.1,2)",org.apromore.canoniser.yawl;version="[1.1,2
+ )",org.apromore.cpf;version="[1.1,2)",org.apromore.plugin;version="[1.1
+ ,2)",org.apromore.plugin.deployment;version="[1.1,2)",org.apromore.plug
+ in.deployment.exception;version="[1.1,2)",org.apromore.plugin.exception
+ ;version="[1.1,2)",org.apromore.plugin.property;version="[1.1,2)",org.i
+ etf.jgss,org.slf4j;version="[1.7,2)",org.springframework.stereotype;ver
+ sion="[3.1,4)",org.w3c.dom,org.xml.sax
+Tool: Bnd-1.50.0

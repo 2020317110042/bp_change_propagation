@@ -1,0 +1,31 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1650264612650
+Build-Jdk: 1.8.0_281
+Built-By: rose
+Bundle-Description: Apromore Plugin API's and core Plugins
+Bundle-License: http://www.gnu.org/licenses/lgpl-3.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: Apromore EPML Annotation Pre Processor
+Bundle-SymbolicName: org.apromore.plugin.annotation-epml
+Bundle-Version: 1.1.0
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.apromore.annotation.bpmn2epml;uses:="org.apromore.an
+ notation.exception,org.apromore.plugin,org.apromore.cpf,org.apromore.an
+ f,org.apromore.annotation.result,org.apromore.annotation.model,org.apro
+ more.annotation,org.springframework.stereotype,org.apromore.plugin.mess
+ age";version="1.1.0",org.apromore.annotation.xpdl2epml;uses:="org.aprom
+ ore.annotation.exception,org.apromore.plugin,org.apromore.cpf,org.aprom
+ ore.anf,org.apromore.annotation.result,org.apromore.annotation.model,or
+ g.apromore.annotation,org.springframework.stereotype,org.apromore.plugi
+ n.message";version="1.1.0",org.apromore.annotation.yawl2epml;uses:="org
+ .apromore.annotation.exception,org.apromore.plugin,org.apromore.cpf,org
+ .apromore.anf,org.apromore.annotation.result,org.apromore.annotation.mo
+ del,org.apromore.annotation,org.springframework.stereotype,org.apromore
+ .plugin.message";version="1.1.0"
+Import-Package: org.apromore.anf;version="[1.1,2)",org.apromore.annotati
+ on;version="[1.1,2)",org.apromore.annotation.exception;version="[1.1,2)
+ ",org.apromore.annotation.model;version="[1.1,2)",org.apromore.annotati
+ on.result;version="[1.1,2)",org.apromore.cpf;version="[1.1,2)",org.apro
+ more.plugin;version="[1.1,2)",org.apromore.plugin.message;version="[1.1
+ ,2)",org.springframework.stereotype;version="[3.1,4)"
+Tool: Bnd-1.50.0

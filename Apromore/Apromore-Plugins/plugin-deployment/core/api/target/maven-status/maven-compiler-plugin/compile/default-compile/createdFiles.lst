@@ -1,0 +1,4 @@
+org\apromore\plugin\deployment\DeploymentPlugin.class
+org\apromore\plugin\deployment\exception\DeploymentException.class
+org\apromore\plugin\deployment\provider\DeploymentPluginProvider.class
+org\apromore\plugin\deployment\DefaultDeploymentPlugin.class

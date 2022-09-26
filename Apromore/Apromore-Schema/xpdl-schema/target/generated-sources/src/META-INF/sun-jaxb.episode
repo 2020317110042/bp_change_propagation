@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bindings version="2.1" xmlns="http://java.sun.com/xml/ns/jaxb">
+  <!--
+
+此文件是由 JavaTM Architecture for XML Binding (JAXB) 引用实现 v2.2.7 生成的
+请访问 <a href="http://java.sun.com/xml/jaxb">http://java.sun.com/xml/jaxb</a> 
+在重新编译源模式时, 对此文件的所有修改都将丢失。
+生成时间: 2022.04.18 时间 02:49:32 PM CST 
+
+  -->
+  <bindings scd="x-schema::tns" xmlns:tns="http://www.wfmc.org/2002/XPDL1.0">
+    <schemaBindings map="false">
+      <package name="org.wfmc._2002.xpdl1"/>
+    </schemaBindings>
+    <bindings scd="tns:Tool">
+      <class ref="org.wfmc._2002.xpdl1.Tool"/>
+    </bindings>
+    <bindings scd="tns:ActualParameters">
+      <class ref="org.wfmc._2002.xpdl1.ActualParameters"/>
+    </bindings>
+    <bindings scd="tns:ExtendedAttributes">
+      <class ref="org.wfmc._2002.xpdl1.ExtendedAttributes"/>
+    </bindings>
+    <bindings scd="tns:ExtendedAttribute">
+      <class ref="org.wfmc._2002.xpdl1.ExtendedAttribute"/>
+    </bindings>
+    <bindings scd="tns:BlockActivity">
+      <class ref="org.wfmc._2002.xpdl1.BlockActivity"/>
+    </bindings>
+    <bindings scd="tns:StartMode">
+      <class ref="org.wfmc._2002.xpdl1.StartMode"/>
+    </bindings>
+    <bindings scd="tns:Automatic">
+      <class ref="org.wfmc._2002.xpdl1.Automatic"/>
+    </bindings>
+    <bindings scd="tns:Manual">
+      <class ref="org.wfmc._2002.xpdl1.Manual"/>
+    </bindings>
+    <bindings scd="tns:FinishMode">
+      <class ref="org.wfmc._2002.xpdl1.FinishMode"/>
+    </bindings>
+    <bindings scd="tns:Deadline">
+      <class ref="org.wfmc._2002.xpdl1.Deadline"/>
+    </bindings>
+    <bindings scd="tns:FormalParameter">
+      <class ref="org.wfmc._2002.xpdl1.FormalParameter"/>
+    </bindings>
+    <bindings scd="tns:DataType">
+      <class ref="org.wfmc._2002.xpdl1.DataType"/>
+    </bindings>
+    <bindings scd="tns:BasicType">
+      <class ref="org.wfmc._2002.xpdl1.BasicType"/>
+    </bindings>
+    <bindings scd="tns:DeclaredType">
+      <class ref="org.wfmc._2002.xpdl1.DeclaredType"/>
+    </bindings>
+    <bindings scd="tns:SchemaType">
+      <class ref="org.wfmc._2002.xpdl1.SchemaType"/>
+    </bindings>
+    <bindings scd="tns:ExternalReference">
+      <class ref="org.wfmc._2002.xpdl1.ExternalReference"/>
+    </bindings>
+    <bindings scd="tns:RecordType">
+      <class ref="org.wfmc._2002.xpdl1.RecordType"/>
+    </bindings>
+    <bindings scd="tns:Member">
+      <class ref="org.wfmc._2002.xpdl1.Member"/>
+    </bindings>
+    <bindings scd="tns:UnionType">
+      <class ref="org.wfmc._2002.xpdl1.UnionType"/>
+    </bindings>
+    <bindings scd="tns:EnumerationType">
+      <class ref="org.wfmc._2002.xpdl1.EnumerationType"/>
+    </bindings>
+    <bindings scd="tns:EnumerationValue">
+      <class ref="org.wfmc._2002.xpdl1.EnumerationValue"/>
+    </bindings>
+    <bindings scd="tns:ArrayType">
+      <class ref="org.wfmc._2002.xpdl1.ArrayType"/>
+    </bindings>
+    <bindings scd="tns:ListType">
+      <class ref="org.wfmc._2002.xpdl1.ListType"/>
+    </bindings>
+    <bindings scd="tns:Xpression">
+      <class ref="org.wfmc._2002.xpdl1.Xpression"/>
+    </bindings>
+    <bindings scd="tns:Transitions">
+      <class ref="org.wfmc._2002.xpdl1.Transitions"/>
+    </bindings>
+    <bindings scd="tns:Transition">
+      <class ref="org.wfmc._2002.xpdl1.Transition"/>
+    </bindings>
+    <bindings scd="tns:Condition">
+      <class ref="org.wfmc._2002.xpdl1.Condition"/>
+    </bindings>
+    <bindings scd="tns:PackageHeader">
+      <class ref="org.wfmc._2002.xpdl1.PackageHeader"/>
+    </bindings>
+    <bindings scd="tns:Activity">
+      <class ref="org.wfmc._2002.xpdl1.Activity"/>
+    </bindings>
+    <bindings scd="tns:Route">
+      <class ref="org.wfmc._2002.xpdl1.Route"/>
+    </bindings>
+    <bindings scd="tns:Implementation">
+      <class ref="org.wfmc._2002.xpdl1.Implementation"/>
+    </bindings>
+    <bindings scd="tns:No">
+      <class ref="org.wfmc._2002.xpdl1.No"/>
+    </bindings>
+    <bindings scd="tns:SubFlow">
+      <class ref="org.wfmc._2002.xpdl1.SubFlow"/>
+    </bindings>
+    <bindings scd="tns:SimulationInformation">
+      <class ref="org.wfmc._2002.xpdl1.SimulationInformation"/>
+    </bindings>
+    <bindings scd="tns:TimeEstimation">
+      <class ref="org.wfmc._2002.xpdl1.TimeEstimation"/>
+    </bindings>
+    <bindings scd="tns:TransitionRestrictions">
+      <class ref="org.wfmc._2002.xpdl1.TransitionRestrictions"/>
+    </bindings>
+    <bindings scd="tns:TransitionRestriction">
+      <class ref="org.wfmc._2002.xpdl1.TransitionRestriction"/>
+    </bindings>
+    <bindings scd="tns:Join">
+      <class ref="org.wfmc._2002.xpdl1.Join"/>
+    </bindings>
+    <bindings scd="tns:Split">
+      <class ref="org.wfmc._2002.xpdl1.Split"/>
+    </bindings>
+    <bindings scd="tns:TransitionRefs">
+      <class ref="org.wfmc._2002.xpdl1.TransitionRefs"/>
+    </bindings>
+    <bindings scd="tns:TransitionRef">
+      <class ref="org.wfmc._2002.xpdl1.TransitionRef"/>
+    </bindings>
+    <bindings scd="tns:Participants">
+      <class ref="org.wfmc._2002.xpdl1.Participants"/>
+    </bindings>
+    <bindings scd="tns:Participant">
+      <class ref="org.wfmc._2002.xpdl1.Participant"/>
+    </bindings>
+    <bindings scd="tns:ParticipantType">
+      <class ref="org.wfmc._2002.xpdl1.ParticipantType"/>
+    </bindings>
+    <bindings scd="tns:ActivitySet">
+      <class ref="org.wfmc._2002.xpdl1.ActivitySet"/>
+    </bindings>
+    <bindings scd="tns:Activities">
+      <class ref="org.wfmc._2002.xpdl1.Activities"/>
+    </bindings>
+    <bindings scd="tns:Responsibles">
+      <class ref="org.wfmc._2002.xpdl1.Responsibles"/>
+    </bindings>
+    <bindings scd="tns:WorkflowProcess">
+      <class ref="org.wfmc._2002.xpdl1.WorkflowProcess"/>
+    </bindings>
+    <bindings scd="tns:ProcessHeader">
+      <class ref="org.wfmc._2002.xpdl1.ProcessHeader"/>
+    </bindings>
+    <bindings scd="tns:RedefinableHeader">
+      <class ref="org.wfmc._2002.xpdl1.RedefinableHeader"/>
+    </bindings>
+    <bindings scd="tns:FormalParameters">
+      <class ref="org.wfmc._2002.xpdl1.FormalParameters"/>
+    </bindings>
+    <bindings scd="tns:DataFields">
+      <class ref="org.wfmc._2002.xpdl1.DataFields"/>
+    </bindings>
+    <bindings scd="tns:DataField">
+      <class ref="org.wfmc._2002.xpdl1.DataField"/>
+    </bindings>
+    <bindings scd="tns:Applications">
+      <class ref="org.wfmc._2002.xpdl1.Applications"/>
+    </bindings>
+    <bindings scd="tns:Application">
+      <class ref="org.wfmc._2002.xpdl1.Application"/>
+    </bindings>
+    <bindings scd="tns:ActivitySets">
+      <class ref="org.wfmc._2002.xpdl1.ActivitySets"/>
+    </bindings>
+    <bindings scd="tns:Script">
+      <class ref="org.wfmc._2002.xpdl1.Script"/>
+    </bindings>
+    <bindings scd="tns:WorkflowProcesses">
+      <class ref="org.wfmc._2002.xpdl1.WorkflowProcesses"/>
+    </bindings>
+    <bindings scd="tns:Package">
+      <class ref="org.wfmc._2002.xpdl1.Package"/>
+    </bindings>
+    <bindings scd="tns:ConformanceClass">
+      <class ref="org.wfmc._2002.xpdl1.ConformanceClass"/>
+    </bindings>
+    <bindings scd="tns:ExternalPackages">
+      <class ref="org.wfmc._2002.xpdl1.ExternalPackages"/>
+    </bindings>
+    <bindings scd="tns:ExternalPackage">
+      <class ref="org.wfmc._2002.xpdl1.ExternalPackage"/>
+    </bindings>
+    <bindings scd="tns:TypeDeclarations">
+      <class ref="org.wfmc._2002.xpdl1.TypeDeclarations"/>
+    </bindings>
+    <bindings scd="tns:TypeDeclaration">
+      <class ref="org.wfmc._2002.xpdl1.TypeDeclaration"/>
+    </bindings>
+  </bindings>
+  <bindings scd="x-schema::tns" xmlns:tns="http://www.wfmc.org/2009/XPDL2.2">
+    <schemaBindings map="false">
+      <package name="org.wfmc._2009.xpdl2"/>
+    </schemaBindings>
+    <bindings scd="tns:WebServiceOperation">
+      <class ref="org.wfmc._2009.xpdl2.WebServiceOperation"/>
+    </bindings>
+    <bindings scd="tns:Deadline">
+      <class ref="org.wfmc._2009.xpdl2.Deadline"/>
+    </bindings>
+    <bindings scd="tns:DataObject">
+      <class ref="org.wfmc._2009.xpdl2.DataObject"/>
+    </bindings>
+    <bindings scd="tns:Group">
+      <class ref="org.wfmc._2009.xpdl2.Group"/>
+    </bindings>
+    <bindings scd="tns:Lane">
+      <class ref="org.wfmc._2009.xpdl2.Lane"/>
+    </bindings>
+    <bindings scd="tns:PartnerLinkType">
+      <class ref="org.wfmc._2009.xpdl2.PartnerLinkType"/>
+    </bindings>
+    <bindings scd="tns:PartnerLink">
+      <class ref="org.wfmc._2009.xpdl2.PartnerLink"/>
+    </bindings>
+    <bindings scd="~tns:DataInputOutput">
+      <class ref="org.wfmc._2009.xpdl2.DataInputOutput"/>
+    </bindings>
+    <bindings scd="~tns:ApplicationType">
+      <class ref="org.wfmc._2009.xpdl2.ApplicationType"/>
+    </bindings>
+    <bindings scd="tns:ConnectorGraphicsInfo">
+      <class ref="org.wfmc._2009.xpdl2.ConnectorGraphicsInfo"/>
+    </bindings>
+    <bindings scd="tns:Coordinates">
+      <class ref="org.wfmc._2009.xpdl2.Coordinates"/>
+    </bindings>
+    <bindings scd="tns:GlobalActivities">
+      <class ref="org.wfmc._2009.xpdl2.GlobalActivities"/>
+    </bindings>
+    <bindings scd="tns:Activity">
+      <class ref="org.wfmc._2009.xpdl2.Activity"/>
+    </bindings>
+    <bindings scd="tns:Description">
+      <class ref="org.wfmc._2009.xpdl2.Description"/>
+    </bindings>
+    <bindings scd="tns:Limit">
+      <class ref="org.wfmc._2009.xpdl2.Limit"/>
+    </bindings>
+    <bindings scd="tns:Route">
+      <class ref="org.wfmc._2009.xpdl2.Route"/>
+    </bindings>
+    <bindings scd="tns:Implementation">
+      <class ref="org.wfmc._2009.xpdl2.Implementation"/>
+    </bindings>
+    <bindings scd="tns:No">
+      <class ref="org.wfmc._2009.xpdl2.No"/>
+    </bindings>
+    <bindings scd="tns:Task">
+      <class ref="org.wfmc._2009.xpdl2.Task"/>
+    </bindings>
+    <bindings scd="tns:TaskService">
+      <class ref="org.wfmc._2009.xpdl2.TaskService"/>
+    </bindings>
+    <bindings scd="~tns:MessageType">
+      <class ref="org.wfmc._2009.xpdl2.MessageType"/>
+    </bindings>
+    <bindings scd="tns:WebServiceFaultCatch">
+      <class ref="org.wfmc._2009.xpdl2.WebServiceFaultCatch"/>
+    </bindings>
+    <bindings scd="tns:BlockActivity">
+      <class ref="org.wfmc._2009.xpdl2.BlockActivity"/>
+    </bindings>
+    <bindings scd="tns:TransitionRef">
+      <class ref="org.wfmc._2009.xpdl2.TransitionRef"/>
+    </bindings>
+    <bindings scd="tns:TaskReceive">
+      <class ref="org.wfmc._2009.xpdl2.TaskReceive"/>
+    </bindings>
+    <bindings scd="tns:TaskManual">
+      <class ref="org.wfmc._2009.xpdl2.TaskManual"/>
+    </bindings>
+    <bindings scd="tns:Performers">
+      <class ref="org.wfmc._2009.xpdl2.Performers"/>
+    </bindings>
+    <bindings scd="tns:Performer">
+      <class ref="org.wfmc._2009.xpdl2.Performer"/>
+    </bindings>
+    <bindings scd="tns:TaskReference">
+      <class ref="org.wfmc._2009.xpdl2.TaskReference"/>
+    </bindings>
+    <bindings scd="tns:TaskScript">
+      <class ref="org.wfmc._2009.xpdl2.TaskScript"/>
+    </bindings>
+    <bindings scd="~tns:ExpressionType">
+      <class ref="org.wfmc._2009.xpdl2.ExpressionType"/>
+    </bindings>
+    <bindings scd="tns:TaskSend">
+      <class ref="org.wfmc._2009.xpdl2.TaskSend"/>
+    </bindings>
+    <bindings scd="tns:TaskUser">
+      <class ref="org.wfmc._2009.xpdl2.TaskUser"/>
+    </bindings>
+    <bindings scd="tns:TaskApplication">
+      <class ref="org.wfmc._2009.xpdl2.TaskApplication"/>
+    </bindings>
+    <bindings scd="tns:ActualParameters">
+      <class ref="org.wfmc._2009.xpdl2.ActualParameters"/>
+    </bindings>
+    <bindings scd="tns:ActualParameter">
+      <class ref="org.wfmc._2009.xpdl2.ActualParameter"/>
+    </bindings>
+    <bindings scd="tns:Assignments">
+      <class ref="org.wfmc._2009.xpdl2.Assignments"/>
+    </bindings>
+    <bindings scd="tns:Assignment">
+      <class ref="org.wfmc._2009.xpdl2.Assignment"/>
+    </bindings>
+    <bindings scd="tns:DataMappings">
+      <class ref="org.wfmc._2009.xpdl2.DataMappings"/>
+    </bindings>
+    <bindings scd="tns:DataMapping">
+      <class ref="org.wfmc._2009.xpdl2.DataMapping"/>
+    </bindings>
+    <bindings scd="tns:TaskBusinessRule">
+      <class ref="org.wfmc._2009.xpdl2.TaskBusinessRule"/>
+    </bindings>
+    <bindings scd="tns:SubFlow">
+      <class ref="org.wfmc._2009.xpdl2.SubFlow"/>
+    </bindings>
+    <bindings scd="tns:EndPoint">
+      <class ref="org.wfmc._2009.xpdl2.EndPoint"/>
+    </bindings>
+    <bindings scd="tns:ExternalReference">
+      <class ref="org.wfmc._2009.xpdl2.ExternalReference"/>
+    </bindings>
+    <bindings scd="tns:Reference">
+      <class ref="org.wfmc._2009.xpdl2.Reference"/>
+    </bindings>
+    <bindings scd="tns:GlobalActivityReference">
+      <class ref="org.wfmc._2009.xpdl2.GlobalActivityReference"/>
+    </bindings>
+    <bindings scd="tns:Event">
+      <class ref="org.wfmc._2009.xpdl2.Event"/>
+    </bindings>
+    <bindings scd="tns:StartEvent">
+      <class ref="org.wfmc._2009.xpdl2.StartEvent"/>
+    </bindings>
+    <bindings scd="tns:TriggerResultMessage">
+      <class ref="org.wfmc._2009.xpdl2.TriggerResultMessage"/>
+    </bindings>
+    <bindings scd="tns:TriggerTimer">
+      <class ref="org.wfmc._2009.xpdl2.TriggerTimer"/>
+    </bindings>
+    <bindings scd="tns:ResultError">
+      <class ref="org.wfmc._2009.xpdl2.ResultError"/>
+    </bindings>
+    <bindings scd="tns:TriggerEscalation">
+      <class ref="org.wfmc._2009.xpdl2.TriggerEscalation"/>
+    </bindings>
+    <bindings scd="tns:TriggerResultCompensation">
+      <class ref="org.wfmc._2009.xpdl2.TriggerResultCompensation"/>
+    </bindings>
+    <bindings scd="tns:TriggerConditional">
+      <class ref="org.wfmc._2009.xpdl2.TriggerConditional"/>
+    </bindings>
+    <bindings scd="tns:TriggerResultSignal">
+      <class ref="org.wfmc._2009.xpdl2.TriggerResultSignal"/>
+    </bindings>
+    <bindings scd="tns:TriggerMultiple">
+      <class ref="org.wfmc._2009.xpdl2.TriggerMultiple"/>
+    </bindings>
+    <bindings scd="tns:IntermediateEvent">
+      <class ref="org.wfmc._2009.xpdl2.IntermediateEvent"/>
+    </bindings>
+    <bindings scd="tns:TriggerResultLink">
+      <class ref="org.wfmc._2009.xpdl2.TriggerResultLink"/>
+    </bindings>
+    <bindings scd="tns:TriggerIntermediateMultiple">
+      <class ref="org.wfmc._2009.xpdl2.TriggerIntermediateMultiple"/>
+    </bindings>
+    <bindings scd="tns:EndEvent">
+      <class ref="org.wfmc._2009.xpdl2.EndEvent"/>
+    </bindings>
+    <bindings scd="tns:ResultMultiple">
+      <class ref="org.wfmc._2009.xpdl2.ResultMultiple"/>
+    </bindings>
+    <bindings scd="tns:Transaction">
+      <class ref="org.wfmc._2009.xpdl2.Transaction"/>
+    </bindings>
+    <bindings scd="tns:Priority">
+      <class ref="org.wfmc._2009.xpdl2.Priority"/>
+    </bindings>
+    <bindings scd="tns:SimulationInformation">
+      <class ref="org.wfmc._2009.xpdl2.SimulationInformation"/>
+    </bindings>
+    <bindings scd="tns:Cost">
+      <class ref="org.wfmc._2009.xpdl2.Cost"/>
+    </bindings>
+    <bindings scd="tns:CostStructure">
+      <class ref="org.wfmc._2009.xpdl2.CostStructure"/>
+    </bindings>
+    <bindings scd="tns:ResourceCosts">
+      <class ref="org.wfmc._2009.xpdl2.ResourceCosts"/>
+    </bindings>
+    <bindings scd="tns:TimeEstimation">
+      <class ref="org.wfmc._2009.xpdl2.TimeEstimation"/>
+    </bindings>
+    <bindings scd="tns:WaitingTime">
+      <class ref="org.wfmc._2009.xpdl2.WaitingTime"/>
+    </bindings>
+    <bindings scd="tns:WorkingTime">
+      <class ref="org.wfmc._2009.xpdl2.WorkingTime"/>
+    </bindings>
+    <bindings scd="tns:Duration">
+      <class ref="org.wfmc._2009.xpdl2.Duration"/>
+    </bindings>
+    <bindings scd="tns:Icon">
+      <class ref="org.wfmc._2009.xpdl2.Icon"/>
+    </bindings>
+    <bindings scd="tns:Documentation">
+      <class ref="org.wfmc._2009.xpdl2.Documentation"/>
+    </bindings>
+    <bindings scd="tns:TransitionRestrictions">
+      <class ref="org.wfmc._2009.xpdl2.TransitionRestrictions"/>
+    </bindings>
+    <bindings scd="tns:TransitionRestriction">
+      <class ref="org.wfmc._2009.xpdl2.TransitionRestriction"/>
+    </bindings>
+    <bindings scd="tns:Join">
+      <class ref="org.wfmc._2009.xpdl2.Join"/>
+    </bindings>
+    <bindings scd="tns:Split">
+      <class ref="org.wfmc._2009.xpdl2.Split"/>
+    </bindings>
+    <bindings scd="tns:TransitionRefs">
+      <class ref="org.wfmc._2009.xpdl2.TransitionRefs"/>
+    </bindings>
+    <bindings scd="tns:ExtendedAttributes">
+      <class ref="org.wfmc._2009.xpdl2.ExtendedAttributes"/>
+    </bindings>
+    <bindings scd="tns:ExtendedAttribute">
+      <class ref="org.wfmc._2009.xpdl2.ExtendedAttribute"/>
+    </bindings>
+    <bindings scd="tns:DataFields">
+      <class ref="org.wfmc._2009.xpdl2.DataFields"/>
+    </bindings>
+    <bindings scd="tns:DataField">
+      <class ref="org.wfmc._2009.xpdl2.DataField"/>
+    </bindings>
+    <bindings scd="tns:DataType">
+      <class ref="org.wfmc._2009.xpdl2.DataType"/>
+    </bindings>
+    <bindings scd="tns:BasicType">
+      <class ref="org.wfmc._2009.xpdl2.BasicType"/>
+    </bindings>
+    <bindings scd="tns:Length">
+      <class ref="org.wfmc._2009.xpdl2.Length"/>
+    </bindings>
+    <bindings scd="tns:Precision">
+      <class ref="org.wfmc._2009.xpdl2.Precision"/>
+    </bindings>
+    <bindings scd="tns:Scale">
+      <class ref="org.wfmc._2009.xpdl2.Scale"/>
+    </bindings>
+    <bindings scd="tns:DeclaredType">
+      <class ref="org.wfmc._2009.xpdl2.DeclaredType"/>
+    </bindings>
+    <bindings scd="tns:SchemaType">
+      <class ref="org.wfmc._2009.xpdl2.SchemaType"/>
+    </bindings>
+    <bindings scd="tns:RecordType">
+      <class ref="org.wfmc._2009.xpdl2.RecordType"/>
+    </bindings>
+    <bindings scd="tns:Member">
+      <class ref="org.wfmc._2009.xpdl2.Member"/>
+    </bindings>
+    <bindings scd="tns:UnionType">
+      <class ref="org.wfmc._2009.xpdl2.UnionType"/>
+    </bindings>
+    <bindings scd="tns:EnumerationType">
+      <class ref="org.wfmc._2009.xpdl2.EnumerationType"/>
+    </bindings>
+    <bindings scd="tns:EnumerationValue">
+      <class ref="org.wfmc._2009.xpdl2.EnumerationValue"/>
+    </bindings>
+    <bindings scd="tns:ArrayType">
+      <class ref="org.wfmc._2009.xpdl2.ArrayType"/>
+    </bindings>
+    <bindings scd="tns:ListType">
+      <class ref="org.wfmc._2009.xpdl2.ListType"/>
+    </bindings>
+    <bindings scd="tns:FormalParameters">
+      <class ref="org.wfmc._2009.xpdl2.FormalParameters"/>
+    </bindings>
+    <bindings scd="tns:FormalParameter">
+      <class ref="org.wfmc._2009.xpdl2.FormalParameter"/>
+    </bindings>
+    <bindings scd="tns:InputSets">
+      <class ref="org.wfmc._2009.xpdl2.InputSets"/>
+    </bindings>
+    <bindings scd="tns:InputSet">
+      <class ref="org.wfmc._2009.xpdl2.InputSet"/>
+    </bindings>
+    <bindings scd="tns:Input">
+      <class ref="org.wfmc._2009.xpdl2.Input"/>
+    </bindings>
+    <bindings scd="tns:ArtifactInput">
+      <class ref="org.wfmc._2009.xpdl2.ArtifactInput"/>
+    </bindings>
+    <bindings scd="tns:PropertyInput">
+      <class ref="org.wfmc._2009.xpdl2.PropertyInput"/>
+    </bindings>
+    <bindings scd="tns:OutputSets">
+      <class ref="org.wfmc._2009.xpdl2.OutputSets"/>
+    </bindings>
+    <bindings scd="tns:OutputSet">
+      <class ref="org.wfmc._2009.xpdl2.OutputSet"/>
+    </bindings>
+    <bindings scd="tns:Output">
+      <class ref="org.wfmc._2009.xpdl2.Output"/>
+    </bindings>
+    <bindings scd="tns:IORules">
+      <class ref="org.wfmc._2009.xpdl2.IORules"/>
+    </bindings>
+    <bindings scd="tns:Loop">
+      <class ref="org.wfmc._2009.xpdl2.Loop"/>
+    </bindings>
+    <bindings scd="tns:LoopStandard">
+      <class ref="org.wfmc._2009.xpdl2.LoopStandard"/>
+    </bindings>
+    <bindings scd="tns:LoopMultiInstance">
+      <class ref="org.wfmc._2009.xpdl2.LoopMultiInstance"/>
+    </bindings>
+    <bindings scd="tns:Object">
+      <class ref="org.wfmc._2009.xpdl2.Object"/>
+    </bindings>
+    <bindings scd="tns:Categories">
+      <class ref="org.wfmc._2009.xpdl2.Categories"/>
+    </bindings>
+    <bindings scd="tns:Category">
+      <class ref="org.wfmc._2009.xpdl2.Category"/>
+    </bindings>
+    <bindings scd="tns:NodeGraphicsInfos">
+      <class ref="org.wfmc._2009.xpdl2.NodeGraphicsInfos"/>
+    </bindings>
+    <bindings scd="tns:NodeGraphicsInfo">
+      <class ref="org.wfmc._2009.xpdl2.NodeGraphicsInfo"/>
+    </bindings>
+    <bindings scd="tns:VendorExtension">
+      <class ref="org.wfmc._2009.xpdl2.VendorExtension"/>
+    </bindings>
+    <bindings scd="tns:Countrykey">
+      <class ref="org.wfmc._2009.xpdl2.Countrykey"/>
+    </bindings>
+    <bindings scd="tns:Transitions">
+      <class ref="org.wfmc._2009.xpdl2.Transitions"/>
+    </bindings>
+    <bindings scd="tns:Transition">
+      <class ref="org.wfmc._2009.xpdl2.Transition"/>
+    </bindings>
+    <bindings scd="tns:Condition">
+      <class ref="org.wfmc._2009.xpdl2.Condition"/>
+    </bindings>
+    <bindings scd="tns:ConnectorGraphicsInfos">
+      <class ref="org.wfmc._2009.xpdl2.ConnectorGraphicsInfos"/>
+    </bindings>
+    <bindings scd="tns:PackageHeader">
+      <class ref="org.wfmc._2009.xpdl2.PackageHeader"/>
+    </bindings>
+    <bindings scd="tns:XPDLVersion">
+      <class ref="org.wfmc._2009.xpdl2.XPDLVersion"/>
+    </bindings>
+    <bindings scd="tns:Vendor">
+      <class ref="org.wfmc._2009.xpdl2.Vendor"/>
+    </bindings>
+    <bindings scd="tns:Created">
+      <class ref="org.wfmc._2009.xpdl2.Created"/>
+    </bindings>
+    <bindings scd="tns:ModificationDate">
+      <class ref="org.wfmc._2009.xpdl2.ModificationDate"/>
+    </bindings>
+    <bindings scd="tns:PriorityUnit">
+      <class ref="org.wfmc._2009.xpdl2.PriorityUnit"/>
+    </bindings>
+    <bindings scd="tns:CostUnit">
+      <class ref="org.wfmc._2009.xpdl2.CostUnit"/>
+    </bindings>
+    <bindings scd="tns:VendorExtensions">
+      <class ref="org.wfmc._2009.xpdl2.VendorExtensions"/>
+    </bindings>
+    <bindings scd="tns:LayoutInfo">
+      <class ref="org.wfmc._2009.xpdl2.LayoutInfo"/>
+    </bindings>
+    <bindings scd="tns:Participants">
+      <class ref="org.wfmc._2009.xpdl2.Participants"/>
+    </bindings>
+    <bindings scd="tns:Participant">
+      <class ref="org.wfmc._2009.xpdl2.Participant"/>
+    </bindings>
+    <bindings scd="tns:ParticipantType">
+      <class ref="org.wfmc._2009.xpdl2.ParticipantType"/>
+    </bindings>
+    <bindings scd="tns:ActivitySet">
+      <class ref="org.wfmc._2009.xpdl2.ActivitySet"/>
+    </bindings>
+    <bindings scd="tns:Activities">
+      <class ref="org.wfmc._2009.xpdl2.Activities"/>
+    </bindings>
+    <bindings scd="tns:DataObjects">
+      <class ref="org.wfmc._2009.xpdl2.DataObjects"/>
+    </bindings>
+    <bindings scd="tns:DataStoreReferences">
+      <class ref="org.wfmc._2009.xpdl2.DataStoreReferences"/>
+    </bindings>
+    <bindings scd="tns:DataStoreReference">
+      <class ref="org.wfmc._2009.xpdl2.DataStoreReference"/>
+    </bindings>
+    <bindings scd="tns:DataAssociations">
+      <class ref="org.wfmc._2009.xpdl2.DataAssociations"/>
+    </bindings>
+    <bindings scd="tns:DataAssociation">
+      <class ref="org.wfmc._2009.xpdl2.DataAssociation"/>
+    </bindings>
+    <bindings scd="tns:Associations">
+      <class ref="org.wfmc._2009.xpdl2.Associations"/>
+    </bindings>
+    <bindings scd="tns:Association">
+      <class ref="org.wfmc._2009.xpdl2.Association"/>
+    </bindings>
+    <bindings scd="tns:Artifacts">
+      <class ref="org.wfmc._2009.xpdl2.Artifacts"/>
+    </bindings>
+    <bindings scd="tns:Artifact">
+      <class ref="org.wfmc._2009.xpdl2.Artifact"/>
+    </bindings>
+    <bindings scd="tns:DataStore">
+      <class ref="org.wfmc._2009.xpdl2.DataStore"/>
+    </bindings>
+    <bindings scd="tns:Pool">
+      <class ref="org.wfmc._2009.xpdl2.Pool"/>
+    </bindings>
+    <bindings scd="tns:Lanes">
+      <class ref="org.wfmc._2009.xpdl2.Lanes"/>
+    </bindings>
+    <bindings scd="~tns:ProcessType">
+      <class ref="org.wfmc._2009.xpdl2.ProcessType"/>
+    </bindings>
+    <bindings scd="tns:Pools">
+      <class ref="org.wfmc._2009.xpdl2.Pools"/>
+    </bindings>
+    <bindings scd="tns:Pages">
+      <class ref="org.wfmc._2009.xpdl2.Pages"/>
+    </bindings>
+    <bindings scd="tns:Page">
+      <class ref="org.wfmc._2009.xpdl2.Page"/>
+    </bindings>
+    <bindings scd="tns:Codepage">
+      <class ref="org.wfmc._2009.xpdl2.Codepage"/>
+    </bindings>
+    <bindings scd="tns:Author">
+      <class ref="org.wfmc._2009.xpdl2.Author"/>
+    </bindings>
+    <bindings scd="tns:WorkflowProcesses">
+      <class ref="org.wfmc._2009.xpdl2.WorkflowProcesses"/>
+    </bindings>
+    <bindings scd="~tns:PackageType">
+      <class ref="org.wfmc._2009.xpdl2.PackageType"/>
+    </bindings>
+    <bindings scd="tns:Rule">
+      <class ref="org.wfmc._2009.xpdl2.Rule"/>
+    </bindings>
+    <bindings scd="tns:Application">
+      <class ref="org.wfmc._2009.xpdl2.Application"/>
+    </bindings>
+    <bindings scd="tns:Responsible">
+      <class ref="org.wfmc._2009.xpdl2.Responsible"/>
+    </bindings>
+    <bindings scd="tns:TypeDeclarations">
+      <class ref="org.wfmc._2009.xpdl2.TypeDeclarations"/>
+    </bindings>
+    <bindings scd="tns:TypeDeclaration">
+      <class ref="org.wfmc._2009.xpdl2.TypeDeclaration"/>
+    </bindings>
+    <bindings scd="tns:TriggerRule">
+      <class ref="org.wfmc._2009.xpdl2.TriggerRule"/>
+    </bindings>
+    <bindings scd="tns:ValidTo">
+      <class ref="org.wfmc._2009.xpdl2.ValidTo"/>
+    </bindings>
+    <bindings scd="tns:ProcessHeader">
+      <class ref="org.wfmc._2009.xpdl2.ProcessHeader"/>
+    </bindings>
+    <bindings scd="tns:ValidFrom">
+      <class ref="org.wfmc._2009.xpdl2.ValidFrom"/>
+    </bindings>
+    <bindings scd="tns:Responsibles">
+      <class ref="org.wfmc._2009.xpdl2.Responsibles"/>
+    </bindings>
+    <bindings scd="tns:PartnerLinks">
+      <class ref="org.wfmc._2009.xpdl2.PartnerLinks"/>
+    </bindings>
+    <bindings scd="tns:Version">
+      <class ref="org.wfmc._2009.xpdl2.Version"/>
+    </bindings>
+    <bindings scd="tns:Script">
+      <class ref="org.wfmc._2009.xpdl2.Script"/>
+    </bindings>
+    <bindings scd="tns:ActivitySets">
+      <class ref="org.wfmc._2009.xpdl2.ActivitySets"/>
+    </bindings>
+    <bindings scd="tns:RedefinableHeader">
+      <class ref="org.wfmc._2009.xpdl2.RedefinableHeader"/>
+    </bindings>
+    <bindings scd="tns:ExternalPackage">
+      <class ref="org.wfmc._2009.xpdl2.ExternalPackage"/>
+    </bindings>
+    <bindings scd="tns:MessageFlows">
+      <class ref="org.wfmc._2009.xpdl2.MessageFlows"/>
+    </bindings>
+    <bindings scd="tns:MessageFlow">
+      <class ref="org.wfmc._2009.xpdl2.MessageFlow"/>
+    </bindings>
+    <bindings scd="tns:Applications">
+      <class ref="org.wfmc._2009.xpdl2.Applications"/>
+    </bindings>
+    <bindings scd="tns:ConformanceClass">
+      <class ref="org.wfmc._2009.xpdl2.ConformanceClass"/>
+    </bindings>
+    <bindings scd="tns:DataStores">
+      <class ref="org.wfmc._2009.xpdl2.DataStores"/>
+    </bindings>
+    <bindings scd="tns:ExternalPackages">
+      <class ref="org.wfmc._2009.xpdl2.ExternalPackages"/>
+    </bindings>
+    <bindings scd="tns:DataInputOutputs">
+      <class ref="org.wfmc._2009.xpdl2.DataInputOutputs"/>
+    </bindings>
+    <bindings scd="tns:PartnerLinkTypes">
+      <class ref="org.wfmc._2009.xpdl2.PartnerLinkTypes"/>
+    </bindings>
+  </bindings>
+</bindings>
+

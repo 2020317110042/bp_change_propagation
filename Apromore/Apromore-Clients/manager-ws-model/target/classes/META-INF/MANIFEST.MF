@@ -1,0 +1,29 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1650264629513
+Build-Jdk: 1.8.0_281
+Built-By: rose
+Bundle-ClassPath: .,jaxb2-basics-runtime-0.5.3.jar
+Bundle-License: http://www.gnu.org/licenses/lgpl-3.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: Apromore Manager WS Models
+Bundle-SymbolicName: org.apromore.manager-ws-model
+Bundle-Version: 1.1.0
+Created-By: Apache Maven Bundle Plugin
+Embed-Dependency: artifactId=!jaxb-xjc;artifactId=jaxb2-basics-runtime
+Embed-Transitive: true
+Embedded-Artifacts: jaxb2-basics-runtime-0.5.3.jar;g="org.jvnet.jaxb2_co
+ mmons";a="jaxb2-basics-runtime";v="0.5.3"
+Export-Package: org.apromore.helper;uses:="org.apromore.model,org.slf4j,
+ org.apromore.canoniser.result,javax.xml.datatype,org.apromore.plugin.pr
+ operty,org.apromore.plugin,org.apromore.plugin.message,javax.activation
+ ,org.apache.commons.lang.builder";version="1.1.0",org.apromore.model;us
+ es:="javax.xml.bind.annotation,javax.activation,javax.xml.datatype,java
+ x.xml.namespace,javax.xml.bind";version="1.1.0"
+Import-Package: javax.activation,javax.xml.bind;version="[2.2,3)",javax.
+ xml.bind.annotation;version="[2.2,3)",javax.xml.bind.annotation.adapter
+ s;version="[2.2,3)",javax.xml.datatype,javax.xml.namespace,org.apache.c
+ ommons.lang.builder;version="[2.6,3)",org.apromore.canoniser.result;ver
+ sion="[1.1,2)",org.apromore.plugin;version="[1.1,2)",org.apromore.plugi
+ n.message;version="[1.1,2)",org.apromore.plugin.property;version="[1.1,
+ 2)",org.slf4j;version="[1.7,2)",org.w3c.dom,org.xml.sax
+Tool: Bnd-1.50.0

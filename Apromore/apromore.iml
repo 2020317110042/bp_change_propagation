@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Apromore-Assembly/virgo-tomcat-server-3.6.2.RELEASE/work/deployer/s/global/62/0/apromore-portal-1.1.war/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Apromore-Assembly/virgo-tomcat-server-3.6.2.RELEASE/work/deployer/s/global/62/0/apromore-portal-1.1.war" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web3">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Apromore-Assembly/virgo-tomcat-server-3.6.2.RELEASE/work/deployer/s/global/65/0/org.eclipse.virgo.management.console_3.6.2.RELEASE.jar/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Apromore-Assembly/virgo-tomcat-server-3.6.2.RELEASE/work/deployer/s/global/65/0/org.eclipse.virgo.management.console_3.6.2.RELEASE.jar" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web2">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Apromore-Assembly/virgo-tomcat-server-3.6.2.RELEASE/work/deployer/s/global/59/0/apromore-manager-1.1.war/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Apromore-Assembly/virgo-tomcat-server-3.6.2.RELEASE/work/deployer/s/global/59/0/apromore-manager-1.1.war" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web5">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Apromore-Assembly/virgo-tomcat-server-3.6.2.RELEASE/work/deployer/s/global/41/0/apromore-filestore-1.0.war/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Apromore-Assembly/virgo-tomcat-server-3.6.2.RELEASE/work/deployer/s/global/41/0/apromore-filestore-1.0.war" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web4">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Apromore-Assembly/virgo-tomcat-server-3.6.2.RELEASE/work/deployer/s/org.eclipse.virgo.apps.repository-3.6.2.RELEASE/1/0/org.eclipse.virgo.apps.repository.web-3.6.2.RELEASE.war/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Apromore-Assembly/virgo-tomcat-server-3.6.2.RELEASE/work/deployer/s/org.eclipse.virgo.apps.repository-3.6.2.RELEASE/1/0/org.eclipse.virgo.apps.repository.web-3.6.2.RELEASE.war" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web7">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Apromore-Assembly/virgo-tomcat-server-3.6.2.RELEASE/work/deployer/s/global/64/0/org.eclipse.virgo.apps.splash_3.6.2.RELEASE.jar/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Apromore-Assembly/virgo-tomcat-server-3.6.2.RELEASE/work/deployer/s/global/64/0/org.eclipse.virgo.apps.splash_3.6.2.RELEASE.jar" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="jpa" name="JPA">
+      <configuration>
+        <setting name="validation-enabled" value="true" />
+        <datasource-mapping>
+          <factory-entry name="Apromore" />
+          <factory-entry name="apromore" />
+        </datasource-mapping>
+        <naming-strategy-map />
+        <deploymentDescriptor name="persistence.xml" url="file://$MODULE_DIR$/Apromore-Assembly/virgo-tomcat-server-3.6.2.RELEASE/work/deployer/s/global/59/0/apromore-manager-1.1.war/WEB-INF/classes/META-INF/persistence.xml" />
+      </configuration>
+    </facet>
+    <facet type="web" name="Web6">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Apromore-Assembly/virgo-tomcat-server-3.6.2.RELEASE/work/deployer/s/global/13/0/org.eclipse.gemini.web.tomcat_2.2.2.RELEASE.jar/conf/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Apromore-Assembly/virgo-tomcat-server-3.6.2.RELEASE/work/deployer/s/global/13/0/org.eclipse.gemini.web.tomcat_2.2.2.RELEASE.jar/conf" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web8">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Apromore-Assembly/virgo-tomcat-server-3.6.2.RELEASE/work/deployer/s/global/35/0/editor.war/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Apromore-Assembly/virgo-tomcat-server-3.6.2.RELEASE/work/deployer/s/global/35/0/editor.war" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web10">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Apromore-Assembly/virgo-tomcat-server-3.6.2.RELEASE/work/deployer/s/global/68/0/org.eclipse.virgo.apps.splash_3.6.2.RELEASE.jar/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Apromore-Assembly/virgo-tomcat-server-3.6.2.RELEASE/work/deployer/s/global/68/0/org.eclipse.virgo.apps.splash_3.6.2.RELEASE.jar" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web9">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Apromore-Assembly/virgo-tomcat-server-3.6.2.RELEASE/work/deployer/s/global/66/0/apromore-portal-1.1.war/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Apromore-Assembly/virgo-tomcat-server-3.6.2.RELEASE/work/deployer/s/global/66/0/apromore-portal-1.1.war" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web11">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Apromore-Assembly/virgo-tomcat-server-3.6.2.RELEASE/work/deployer/s/global/69/0/org.eclipse.virgo.management.console_3.6.2.RELEASE.jar/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Apromore-Assembly/virgo-tomcat-server-3.6.2.RELEASE/work/deployer/s/global/69/0/org.eclipse.virgo.management.console_3.6.2.RELEASE.jar" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

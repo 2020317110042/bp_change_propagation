@@ -1,0 +1,3 @@
+org\apromore\plugin\deployment\yawl\YAWLEngineClientFactory.class
+org\apromore\plugin\deployment\yawl\YAWLDeploymentPlugin.class
+org\apromore\plugin\deployment\yawl\YAWLEngineClient.class

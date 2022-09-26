@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<rss version="0.91">
+  <channel>
+    <title>Apromore Canonical Graph Plugin - Checkstyle report</title>
+    <link>http://www.apromore.org/plugin-core/plugin-graph/</link>
+    <description>Apromore Canonical Graph Plugin - Checkstyle report</description>
+    <language>en-us</language>
+    <copyright>&#169;2022</copyright>
+    <item>
+      <title>File: 35,
+             Errors: 439,
+             Warnings: 0,
+             Infos: 0
+      </title>
+            <link>http://www.apromore.org/plugin-core/plugin-graph//checkstyle.html</link>
+      <description>
+        <p>Click <a href="http://www.apromore.org/plugin-core/plugin-graph//checkstyle.html">here</a> for the full Checkstyle report.</p>
+
+        <table summary="Files" boder="1">
+          <thead>
+            <tr>
+              <th>Files</th>
+              <th style="width:30px;"><abbr title="Info">I</abbr></th>
+              <th style="width:30px;"><abbr title="Warning">W</abbr></th>
+              <th style="width:30px;"><abbr title="Error">E</abbr></th>
+            </tr>
+          </thead>
+          <tbody>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/plugin-graph//checkstyle.html#org.apromore.graph.canonical.ICPFObjectReference.java">org/apromore/graph/canonical/ICPFObjectReference.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/plugin-graph//checkstyle.html#org.apromore.graph.canonical.CPFAttribute.java">org/apromore/graph/canonical/CPFAttribute.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  11
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/plugin-graph//checkstyle.html#org.apromore.graph.canonical.IAttribute.java">org/apromore/graph/canonical/IAttribute.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  4
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/plugin-graph//checkstyle.html#org.apromore.graph.canonical.AbstractEdge.java">org/apromore/graph/canonical/AbstractEdge.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  4
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/plugin-graph//checkstyle.html#org.apromore.graph.canonical.ICPFResourceReference.java">org/apromore/graph/canonical/ICPFResourceReference.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/plugin-graph//checkstyle.html#org.apromore.graph.canonical.ObjectRefTypeEnum.java">org/apromore/graph/canonical/ObjectRefTypeEnum.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/plugin-graph//checkstyle.html#org.apromore.graph.canonical.CPFObject.java">org/apromore/graph/canonical/CPFObject.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  5
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/plugin-graph//checkstyle.html#org.apromore.graph.canonical.ICPFObject.java">org/apromore/graph/canonical/ICPFObject.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/plugin-graph//checkstyle.html#org.apromore.graph.canonical.Canonical.java">org/apromore/graph/canonical/Canonical.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  44
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/plugin-graph//checkstyle.html#org.apromore.graph.canonical.ICanonical.java">org/apromore/graph/canonical/ICanonical.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  12
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/plugin-graph//checkstyle.html#org.apromore.graph.canonical.CPFResourceReference.java">org/apromore/graph/canonical/CPFResourceReference.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/plugin-graph//checkstyle.html#org.apromore.graph.canonical.DirectionEnum.java">org/apromore/graph/canonical/DirectionEnum.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/plugin-graph//checkstyle.html#org.apromore.graph.canonical.HumanTypeEnum.java">org/apromore/graph/canonical/HumanTypeEnum.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  11
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/plugin-graph//checkstyle.html#org.apromore.graph.canonical.INode.java">org/apromore/graph/canonical/INode.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  28
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/plugin-graph//checkstyle.html#org.apromore.graph.canonical.IEdge.java">org/apromore/graph/canonical/IEdge.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/plugin-graph//checkstyle.html#org.apromore.graph.canonical.ObjectTypeEnum.java">org/apromore/graph/canonical/ObjectTypeEnum.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/plugin-graph//checkstyle.html#org.apromore.graph.canonical.ResourceTypeEnum.java">org/apromore/graph/canonical/ResourceTypeEnum.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/plugin-graph//checkstyle.html#org.apromore.graph.canonical.NodeTypeEnum.java">org/apromore/graph/canonical/NodeTypeEnum.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  22
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/plugin-graph//checkstyle.html#org.apromore.graph.canonical.INonFlowNode.java">org/apromore/graph/canonical/INonFlowNode.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/plugin-graph//checkstyle.html#org.apromore.graph.canonical.ICPFResource.java">org/apromore/graph/canonical/ICPFResource.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/plugin-graph//checkstyle.html#org.apromore.graph.util.GraphConstants.java">org/apromore/graph/util/GraphConstants.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/plugin-graph//checkstyle.html#org.apromore.graph.canonical.converter.CanonicalToGraph.java">org/apromore/graph/canonical/converter/CanonicalToGraph.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  18
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/plugin-graph//checkstyle.html#org.apromore.graph.CanonicalGraphConverterUnitTest.java">org/apromore/graph/CanonicalGraphConverterUnitTest.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  54
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/plugin-graph//checkstyle.html#org.apromore.graph.canonical.AllocationStrategyEnum.java">org/apromore/graph/canonical/AllocationStrategyEnum.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  10
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/plugin-graph//checkstyle.html#org.apromore.graph.util.GraphUtil.java">org/apromore/graph/util/GraphUtil.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  31
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/plugin-graph//checkstyle.html#org.apromore.graph.canonical.converter.GraphToCanonical.java">org/apromore/graph/canonical/converter/GraphToCanonical.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  49
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/plugin-graph//checkstyle.html#org.apromore.graph.canonical.IExpression.java">org/apromore/graph/canonical/IExpression.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/plugin-graph//checkstyle.html#org.apromore.graph.canonical.NonHumanTypeEnum.java">org/apromore/graph/canonical/NonHumanTypeEnum.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/plugin-graph//checkstyle.html#org.apromore.graph.canonical.CPFEdge.java">org/apromore/graph/canonical/CPFEdge.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  13
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/plugin-graph//checkstyle.html#org.apromore.graph.canonical.AbstractCanonical.java">org/apromore/graph/canonical/AbstractCanonical.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  11
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/plugin-graph//checkstyle.html#org.apromore.graph.canonical.CPFResource.java">org/apromore/graph/canonical/CPFResource.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  8
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/plugin-graph//checkstyle.html#org.apromore.graph.canonical.CPFExpression.java">org/apromore/graph/canonical/CPFExpression.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  4
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/plugin-graph//checkstyle.html#org.apromore.graph.canonical.CPFNode.java">org/apromore/graph/canonical/CPFNode.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  46
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/plugin-graph//checkstyle.html#org.apromore.graph.canonical.CPFNonFlowNode.java">org/apromore/graph/canonical/CPFNonFlowNode.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/plugin-graph//checkstyle.html#org.apromore.graph.canonical.CPFObjectReference.java">org/apromore/graph/canonical/CPFObjectReference.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  4
+                </td>
+              </tr>
+                      </tbody>
+        </table>
+        
+      </description>
+    </item>
+  </channel>
+</rss>
+

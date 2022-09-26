@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bindings version="2.1" xmlns="http://java.sun.com/xml/ns/jaxb">
+  <!--
+
+此文件是由 JavaTM Architecture for XML Binding (JAXB) 引用实现 v2.2.7 生成的
+请访问 <a href="http://java.sun.com/xml/jaxb">http://java.sun.com/xml/jaxb</a> 
+在重新编译源模式时, 对此文件的所有修改都将丢失。
+生成时间: 2022.04.18 时间 02:49:28 PM CST 
+
+  -->
+  <bindings scd="x-schema::tns" xmlns:tns="pnml.apromore.org">
+    <schemaBindings map="false">
+      <package name="org.apromore.pnml"/>
+    </schemaBindings>
+    <bindings scd="~tns:transitionToolspecificType">
+      <class ref="org.apromore.pnml.TransitionToolspecificType"/>
+    </bindings>
+    <bindings scd="~tns:netType">
+      <class ref="org.apromore.pnml.NetType"/>
+    </bindings>
+    <bindings scd="~tns:placeType">
+      <class ref="org.apromore.pnml.PlaceType"/>
+    </bindings>
+    <bindings scd="~tns:tActivityContainer">
+      <class ref="org.apromore.pnml.TActivityContainer"/>
+    </bindings>
+    <bindings scd="~tns:tWait">
+      <class ref="org.apromore.pnml.TWait"/>
+    </bindings>
+    <bindings scd="~tns:tSources">
+      <class ref="org.apromore.pnml.TSources"/>
+    </bindings>
+    <bindings scd="~tns:tExtensionAssignOperation">
+      <class ref="org.apromore.pnml.TExtensionAssignOperation"/>
+    </bindings>
+    <bindings scd="tns:line">
+      <class ref="org.apromore.pnml.Line"/>
+    </bindings>
+    <bindings scd="~tns:tPartnerLinks">
+      <class ref="org.apromore.pnml.TPartnerLinks"/>
+    </bindings>
+    <bindings scd="~tns:tInvoke">
+      <class ref="org.apromore.pnml.TInvoke"/>
+    </bindings>
+    <bindings scd="~tns:tSource">
+      <class ref="org.apromore.pnml.TSource"/>
+    </bindings>
+    <bindings scd="~tns:tCondition">
+      <class ref="org.apromore.pnml.TCondition"/>
+    </bindings>
+    <bindings scd="~tns:tTargets">
+      <class ref="org.apromore.pnml.TTargets"/>
+    </bindings>
+    <bindings scd="~tns:tLiteral">
+      <class ref="org.apromore.pnml.TLiteral"/>
+    </bindings>
+    <bindings scd="~tns:tEmpty">
+      <class ref="org.apromore.pnml.TEmpty"/>
+    </bindings>
+    <bindings scd="~tns:tFrom">
+      <class ref="org.apromore.pnml.TFrom"/>
+    </bindings>
+    <bindings scd="~tns:tCopy">
+      <class ref="org.apromore.pnml.TCopy"/>
+    </bindings>
+    <bindings scd="~tns:tCatch">
+      <class ref="org.apromore.pnml.TCatch"/>
+    </bindings>
+    <bindings scd="~tns:tReply">
+      <class ref="org.apromore.pnml.TReply"/>
+    </bindings>
+    <bindings scd="~tns:tReceive">
+      <class ref="org.apromore.pnml.TReceive"/>
+    </bindings>
+    <bindings scd="~tns:tVariables">
+      <class ref="org.apromore.pnml.TVariables"/>
+    </bindings>
+    <bindings scd="~tns:tFromParts">
+      <class ref="org.apromore.pnml.TFromParts"/>
+    </bindings>
+    <bindings scd="~tns:tDocumentation">
+      <class ref="org.apromore.pnml.TDocumentation"/>
+    </bindings>
+    <bindings scd="~tns:tQuery">
+      <class ref="org.apromore.pnml.TQuery"/>
+    </bindings>
+    <bindings scd="~tns:pnmlType">
+      <class ref="org.apromore.pnml.PnmlType"/>
+    </bindings>
+    <bindings scd="tns:fill">
+      <class ref="org.apromore.pnml.Fill"/>
+    </bindings>
+    <bindings scd="~tns:tTarget">
+      <class ref="org.apromore.pnml.TTarget"/>
+    </bindings>
+    <bindings scd="~tns:tFromPart">
+      <class ref="org.apromore.pnml.TFromPart"/>
+    </bindings>
+    <bindings scd="~tns:tToParts">
+      <class ref="org.apromore.pnml.TToParts"/>
+    </bindings>
+    <bindings scd="~tns:tPartnerLink">
+      <class ref="org.apromore.pnml.TPartnerLink"/>
+    </bindings>
+    <bindings scd="~tns:tVariable">
+      <class ref="org.apromore.pnml.TVariable"/>
+    </bindings>
+    <bindings scd="~tns:tToPart">
+      <class ref="org.apromore.pnml.TToPart"/>
+    </bindings>
+    <bindings scd="~tns:tTo">
+      <class ref="org.apromore.pnml.TTo"/>
+    </bindings>
+    <bindings scd="tns:font">
+      <class ref="org.apromore.pnml.Font"/>
+    </bindings>
+    <bindings scd="~tns:tAssign">
+      <class ref="org.apromore.pnml.TAssign"/>
+    </bindings>
+    <bindings scd="~tns:placeToolspecificType">
+      <class ref="org.apromore.pnml.PlaceToolspecificType"/>
+    </bindings>
+    <bindings scd="~tns:tCorrelations">
+      <class ref="org.apromore.pnml.TCorrelations"/>
+    </bindings>
+    <bindings scd="~tns:positionType">
+      <class ref="org.apromore.pnml.PositionType"/>
+    </bindings>
+    <bindings scd="~tns:occuredtransitionType">
+      <class ref="org.apromore.pnml.OccuredtransitionType"/>
+    </bindings>
+    <bindings scd="~tns:graphicsArcType">
+      <class ref="org.apromore.pnml.GraphicsArcType"/>
+    </bindings>
+    <bindings scd="~tns:tActivity">
+      <class ref="org.apromore.pnml.TActivity"/>
+    </bindings>
+    <bindings scd="~tns:superModelType">
+      <class ref="org.apromore.pnml.SuperModelType"/>
+    </bindings>
+    <bindings scd="~tns:resourcesType">
+      <class ref="org.apromore.pnml.ResourcesType"/>
+    </bindings>
+    <bindings scd="~tns:simulationsType">
+      <class ref="org.apromore.pnml.SimulationsType"/>
+    </bindings>
+    <bindings scd="~tns:importPlaceType">
+      <class ref="org.apromore.pnml.ImportPlaceType"/>
+    </bindings>
+    <bindings scd="~tns:tExtensibleElements">
+      <class ref="org.apromore.pnml.TExtensibleElements"/>
+    </bindings>
+    <bindings scd="~tns:annotationGraphisType">
+      <class ref="org.apromore.pnml.AnnotationGraphisType"/>
+    </bindings>
+    <bindings scd="~tns:organizationUnitType">
+      <class ref="org.apromore.pnml.OrganizationUnitType"/>
+    </bindings>
+    <bindings scd="~tns:graphicsSimpleType">
+      <class ref="org.apromore.pnml.GraphicsSimpleType"/>
+    </bindings>
+    <bindings scd="~tns:nodeType">
+      <class ref="org.apromore.pnml.NodeType"/>
+    </bindings>
+    <bindings scd="~tns:graphicsNodeType">
+      <class ref="org.apromore.pnml.GraphicsNodeType"/>
+    </bindings>
+    <bindings scd="~tns:tCorrelationWithPattern">
+      <class ref="org.apromore.pnml.TCorrelationWithPattern"/>
+    </bindings>
+    <bindings scd="~tns:arcNameType">
+      <class ref="org.apromore.pnml.ArcNameType"/>
+    </bindings>
+    <bindings scd="~tns:netToolspecificType">
+      <class ref="org.apromore.pnml.NetToolspecificType"/>
+    </bindings>
+    <bindings scd="~tns:nodeNameType">
+      <class ref="org.apromore.pnml.NodeNameType"/>
+    </bindings>
+    <bindings scd="~tns:transitionType">
+      <class ref="org.apromore.pnml.TransitionType"/>
+    </bindings>
+    <bindings scd="~tns:transitionResourceType">
+      <class ref="org.apromore.pnml.TransitionResourceType"/>
+    </bindings>
+    <bindings scd="~tns:arcInscriptionType">
+      <class ref="org.apromore.pnml.ArcInscriptionType"/>
+    </bindings>
+    <bindings scd="~tns:dimensionType">
+      <class ref="org.apromore.pnml.DimensionType"/>
+    </bindings>
+    <bindings scd="~tns:tExpression">
+      <class ref="org.apromore.pnml.TExpression"/>
+    </bindings>
+    <bindings scd="~tns:arcToolspecificType">
+      <class ref="org.apromore.pnml.ArcToolspecificType"/>
+    </bindings>
+    <bindings scd="~tns:roleType">
+      <class ref="org.apromore.pnml.RoleType"/>
+    </bindings>
+    <bindings scd="~tns:arcType">
+      <class ref="org.apromore.pnml.ArcType"/>
+    </bindings>
+    <bindings scd="~tns:pageType">
+      <class ref="org.apromore.pnml.PageType"/>
+    </bindings>
+    <bindings scd="~tns:transitionsequenceType">
+      <class ref="org.apromore.pnml.TransitionsequenceType"/>
+    </bindings>
+    <bindings scd="~tns:tCorrelationsWithPattern">
+      <class ref="org.apromore.pnml.TCorrelationsWithPattern"/>
+    </bindings>
+    <bindings scd="~tns:arcTypeType">
+      <class ref="org.apromore.pnml.ArcTypeType"/>
+    </bindings>
+    <bindings scd="~tns:instanceType">
+      <class ref="org.apromore.pnml.InstanceType"/>
+    </bindings>
+    <bindings scd="~tns:simulationType">
+      <class ref="org.apromore.pnml.SimulationType"/>
+    </bindings>
+    <bindings scd="~tns:resourceMappingType">
+      <class ref="org.apromore.pnml.ResourceMappingType"/>
+    </bindings>
+    <bindings scd="~tns:tCorrelation">
+      <class ref="org.apromore.pnml.TCorrelation"/>
+    </bindings>
+    <bindings scd="~tns:netNameType">
+      <class ref="org.apromore.pnml.NetNameType"/>
+    </bindings>
+    <bindings scd="~tns:referencePlaceType">
+      <class ref="org.apromore.pnml.ReferencePlaceType"/>
+    </bindings>
+    <bindings scd="~tns:toolspecificType">
+      <class ref="org.apromore.pnml.ToolspecificType"/>
+    </bindings>
+    <bindings scd="~tns:triggerType">
+      <class ref="org.apromore.pnml.TriggerType"/>
+    </bindings>
+    <bindings scd="~tns:operatorType">
+      <class ref="org.apromore.pnml.OperatorType"/>
+    </bindings>
+    <bindings scd="~tns:resourceType">
+      <class ref="org.apromore.pnml.ResourceType"/>
+    </bindings>
+    <bindings scd="~tns:tRoles">
+      <typesafeEnumClass ref="org.apromore.pnml.TRoles"/>
+    </bindings>
+    <bindings scd="~tns:tBoolean">
+      <typesafeEnumClass ref="org.apromore.pnml.TBoolean"/>
+    </bindings>
+    <bindings scd="~tns:tInitiate">
+      <typesafeEnumClass ref="org.apromore.pnml.TInitiate"/>
+    </bindings>
+    <bindings scd="~tns:tPattern">
+      <typesafeEnumClass ref="org.apromore.pnml.TPattern"/>
+    </bindings>
+  </bindings>
+</bindings>
+

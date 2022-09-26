@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1650264581917
+Build-Jdk: 1.8.0_281
+Built-By: rose
+Bundle-Description: This Plug-in is needed for Oracle support in Apromor
+ e.
+Bundle-License: http://www.gnu.org/licenses/lgpl-3.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: Apromore Oracle Plugin
+Bundle-SymbolicName: org.apromore.plugin.database-oracle
+Bundle-Version: 1.1.0
+Created-By: Apache Maven Bundle Plugin
+Fragment-Host: com.jolbox.bonecp
+Import-Package: oracle.jdbc.driver
+Tool: Bnd-1.50.0

@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="apromore-portal:war">
+    <output-path>$PROJECT_DIR$/Apromore-Portal/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>false</exploded>
+        <module>apromore-portal</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="archive" name="portal.war">
+      <element id="artifact" artifact-name="apromore-portal:war exploded" />
+    </root>
+  </artifact>
+</component>

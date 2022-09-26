@@ -1,0 +1,37 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1650264560873
+Build-Jdk: 1.8.0_281
+Built-By: rose
+Bundle-License: http://www.gnu.org/licenses/lgpl-3.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: Apromore BPMN Schema
+Bundle-SymbolicName: org.apromore.bpmn-schema
+Bundle-Version: 1.1.0
+Created-By: Apache Maven Bundle Plugin
+Export-Package: com.processconfiguration;uses:="javax.xml.bind.annotatio
+ n,com.sun.xml.bind.annotation,org.xml.sax,com.sun.xml.bind,org.omg.spec
+ .bpmn._20100524.model,org.omg.spec.dd._20100524.di,javax.xml.bind.annot
+ ation.adapters";version="1.1.0",com.signavio;uses:="javax.xml.bind.anno
+ tation,javax.xml.namespace,javax.xml.bind,com.sun.xml.bind.annotation,o
+ rg.xml.sax,com.sun.xml.bind,org.omg.spec.bpmn._20100524.model";version=
+ "1.1.0",org.omg.spec.bpmn._20100524.di;uses:="javax.xml.bind.annotation
+ ,org.omg.spec.dd._20100524.di,org.omg.spec.bpmn._20100524.model,javax.x
+ ml.namespace,org.omg.spec.dd._20100524.dc,javax.xml.bind";version="1.1.
+ 0",org.omg.spec.bpmn._20100524.model;uses:="org.omg.spec.dd._20100524.d
+ i,com.signavio,org.omg.spec.dd._20100524.dc,com.processconfiguration,or
+ g.omg.spec.bpmn._20100524.di,javax.xml.bind,javax.xml.bind.annotation,j
+ avax.xml.namespace,javax.xml.bind.annotation.adapters,com.sun.xml.bind.
+ annotation,org.xml.sax,com.sun.xml.bind";version="1.1.0",org.omg.spec.d
+ d._20100524.dc;uses:="javax.xml.bind.annotation,com.sun.xml.bind.annota
+ tion,org.xml.sax,com.sun.xml.bind,org.omg.spec.bpmn._20100524.model,jav
+ ax.xml.namespace,javax.xml.bind";version="1.1.0",org.omg.spec.dd._20100
+ 524.di;uses:="javax.xml.bind.annotation,javax.xml.bind.annotation.adapt
+ ers,com.sun.xml.bind.annotation,org.xml.sax,com.sun.xml.bind,org.omg.sp
+ ec.bpmn._20100524.model,org.omg.spec.bpmn._20100524.di,javax.xml.namesp
+ ace,org.omg.spec.dd._20100524.dc,com.processconfiguration,javax.xml.bin
+ d";version="1.1.0"
+Import-Package: com.sun.xml.bind;version="[2.2,3)",com.sun.xml.bind.anno
+ tation;version="[2.2,3)",javax.xml.bind;version="[2.2,3)",javax.xml.bin
+ d.annotation;version="[2.2,3)",javax.xml.bind.annotation.adapters;versi
+ on="[2.2,3)",javax.xml.namespace,org.xml.sax
+Tool: Bnd-1.50.0

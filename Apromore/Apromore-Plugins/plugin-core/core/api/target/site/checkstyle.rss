@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<rss version="0.91">
+  <channel>
+    <title>Apromore Plugin API - Checkstyle report</title>
+    <link>http://www.apromore.org/plugin-core/core/plugin-api/</link>
+    <description>Apromore Plugin API - Checkstyle report</description>
+    <language>en-us</language>
+    <copyright>&#169;2022</copyright>
+    <item>
+      <title>File: 26,
+             Errors: 133,
+             Warnings: 0,
+             Infos: 0
+      </title>
+            <link>http://www.apromore.org/plugin-core/core/plugin-api//checkstyle.html</link>
+      <description>
+        <p>Click <a href="http://www.apromore.org/plugin-core/core/plugin-api//checkstyle.html">here</a> for the full Checkstyle report.</p>
+
+        <table summary="Files" boder="1">
+          <thead>
+            <tr>
+              <th>Files</th>
+              <th style="width:30px;"><abbr title="Info">I</abbr></th>
+              <th style="width:30px;"><abbr title="Warning">W</abbr></th>
+              <th style="width:30px;"><abbr title="Error">E</abbr></th>
+            </tr>
+          </thead>
+          <tbody>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/core/plugin-api//checkstyle.html#org.apromore.plugin.property.StringParameterUnitTest.java">org/apromore/plugin/property/StringParameterUnitTest.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/core/plugin-api//checkstyle.html#org.apromore.plugin.property.PluginParameterType.java">org/apromore/plugin/property/PluginParameterType.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  22
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/core/plugin-api//checkstyle.html#org.apromore.plugin.exception.PluginNotFoundException.java">org/apromore/plugin/exception/PluginNotFoundException.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/core/plugin-api//checkstyle.html#org.apromore.plugin.provider.PluginProviderHelper.java">org/apromore/plugin/provider/PluginProviderHelper.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  13
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/core/plugin-api//checkstyle.html#org.apromore.plugin.Plugin.java">org/apromore/plugin/Plugin.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/core/plugin-api//checkstyle.html#org.apromore.plugin.provider.PluginProvider.java">org/apromore/plugin/provider/PluginProvider.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/core/plugin-api//checkstyle.html#org.apromore.plugin.property.BooleanParameterUnitTest.java">org/apromore/plugin/property/BooleanParameterUnitTest.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/core/plugin-api//checkstyle.html#org.apromore.plugin.exception.PluginException.java">org/apromore/plugin/exception/PluginException.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/core/plugin-api//checkstyle.html#org.apromore.plugin.property.ParameterType.java">org/apromore/plugin/property/ParameterType.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  5
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/core/plugin-api//checkstyle.html#org.apromore.plugin.impl.PluginRequestImplUnitTest.java">org/apromore/plugin/impl/PluginRequestImplUnitTest.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/core/plugin-api//checkstyle.html#org.apromore.plugin.DefaultParameterAwarePlugin.java">org/apromore/plugin/DefaultParameterAwarePlugin.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/core/plugin-api//checkstyle.html#org.apromore.plugin.DefaultPlugin.java">org/apromore/plugin/DefaultPlugin.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/core/plugin-api//checkstyle.html#org.apromore.plugin.ParameterAwarePlugin.java">org/apromore/plugin/ParameterAwarePlugin.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/core/plugin-api//checkstyle.html#org.apromore.plugin.PluginRequest.java">org/apromore/plugin/PluginRequest.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/core/plugin-api//checkstyle.html#org.apromore.plugin.property.DefaultParameterUnitTest.java">org/apromore/plugin/property/DefaultParameterUnitTest.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  10
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/core/plugin-api//checkstyle.html#org.apromore.plugin.exception.PluginPropertyNotFoundException.java">org/apromore/plugin/exception/PluginPropertyNotFoundException.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  7
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/core/plugin-api//checkstyle.html#org.apromore.plugin.property.CategoryParameterUnitTest.java">org/apromore/plugin/property/CategoryParameterUnitTest.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/core/plugin-api//checkstyle.html#org.apromore.plugin.impl.PluginResultImplUnitTest.java">org/apromore/plugin/impl/PluginResultImplUnitTest.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  5
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/core/plugin-api//checkstyle.html#org.apromore.plugin.message.PluginMessage.java">org/apromore/plugin/message/PluginMessage.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/core/plugin-api//checkstyle.html#org.apromore.plugin.property.RequestParameterType.java">org/apromore/plugin/property/RequestParameterType.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/core/plugin-api//checkstyle.html#org.apromore.plugin.DefaultPropertyAwarePluginUnitTest.java">org/apromore/plugin/DefaultPropertyAwarePluginUnitTest.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  8
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/core/plugin-api//checkstyle.html#org.apromore.plugin.message.PluginMessageImpl.java">org/apromore/plugin/message/PluginMessageImpl.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/core/plugin-api//checkstyle.html#org.apromore.plugin.PluginResultImpl.java">org/apromore/plugin/PluginResultImpl.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  5
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/core/plugin-api//checkstyle.html#org.apromore.plugin.PluginResult.java">org/apromore/plugin/PluginResult.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/core/plugin-api//checkstyle.html#org.apromore.plugin.PluginRequestImpl.java">org/apromore/plugin/PluginRequestImpl.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/core/plugin-api//checkstyle.html#org.apromore.plugin.DefaultPluginUnitTest.java">org/apromore/plugin/DefaultPluginUnitTest.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  13
+                </td>
+              </tr>
+                      </tbody>
+        </table>
+        
+      </description>
+    </item>
+  </channel>
+</rss>
+

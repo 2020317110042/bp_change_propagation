@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1650264580381
+Build-Jdk: 1.8.0_281
+Built-By: rose
+Bundle-License: http://www.gnu.org/licenses/lgpl-3.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: Apromore YAWL Schema
+Bundle-SymbolicName: org.apromore.yawl-schema
+Bundle-Version: 1.1.0
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.yawlfoundation.yawlschema;uses:="javax.xml.bind.anno
+ tation,javax.xml.bind.annotation.adapters,javax.xml.namespace,javax.xml
+ .bind,javax.xml.datatype,javax.xml,javax.xml.validation,org.xml.sax";ve
+ rsion="1.1.0",org.yawlfoundation.yawlschema.orgdata;uses:="javax.xml.bi
+ nd.annotation,javax.xml.bind.annotation.adapters,javax.xml.bind,javax.x
+ ml.namespace,javax.xml,javax.xml.validation,org.xml.sax,javax.xml.trans
+ form";version="1.1.0"
+Import-Package: javax.xml,javax.xml.bind,javax.xml.bind.annotation,javax
+ .xml.bind.annotation.adapters,javax.xml.datatype,javax.xml.namespace,ja
+ vax.xml.transform,javax.xml.validation,org.xml.sax
+Tool: Bnd-1.50.0

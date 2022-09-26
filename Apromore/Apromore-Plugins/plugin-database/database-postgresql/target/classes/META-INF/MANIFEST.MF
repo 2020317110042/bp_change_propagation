@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1650264581541
+Build-Jdk: 1.8.0_281
+Built-By: rose
+Bundle-Description: This Plug-in is needed for PostgreSQL support in Apr
+ omore.
+Bundle-License: http://www.gnu.org/licenses/lgpl-3.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: Apromore PostgreSQL Plugin
+Bundle-SymbolicName: org.apromore.plugin.database-postgresql
+Bundle-Version: 1.1.0
+Created-By: Apache Maven Bundle Plugin
+Fragment-Host: com.jolbox.bonecp
+Import-Package: org.postgresql
+Tool: Bnd-1.50.0

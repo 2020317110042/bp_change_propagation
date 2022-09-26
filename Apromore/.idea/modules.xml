@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Schema/anf-schema/anf-schema.iml" filepath="$PROJECT_DIR$/Apromore-Schema/anf-schema/anf-schema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Plugins/plugin-annotation/core/api/annotation-api.iml" filepath="$PROJECT_DIR$/Apromore-Plugins/plugin-annotation/core/api/annotation-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Plugins/plugin-annotation/core/provider/annotation-api-provider.iml" filepath="$PROJECT_DIR$/Apromore-Plugins/plugin-annotation/core/provider/annotation-api-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Plugins/plugin-annotation/bpmn/annotation-bpmn.iml" filepath="$PROJECT_DIR$/Apromore-Plugins/plugin-annotation/bpmn/annotation-bpmn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Plugins/plugin-annotation/epml/annotation-epml.iml" filepath="$PROJECT_DIR$/Apromore-Plugins/plugin-annotation/epml/annotation-epml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Plugins/plugin-annotation/pnml/annotation-pnml.iml" filepath="$PROJECT_DIR$/Apromore-Plugins/plugin-annotation/pnml/annotation-pnml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Plugins/plugin-annotation/xpdl/annotation-xpdl.iml" filepath="$PROJECT_DIR$/Apromore-Plugins/plugin-annotation/xpdl/annotation-xpdl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Plugins/plugin-annotation/yawl/annotation-yawl.iml" filepath="$PROJECT_DIR$/Apromore-Plugins/plugin-annotation/yawl/annotation-yawl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apromore.iml" filepath="$PROJECT_DIR$/apromore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Editor/apromore-editor.iml" filepath="$PROJECT_DIR$/Apromore-Editor/apromore-editor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-FileStore/apromore-filestore.iml" filepath="$PROJECT_DIR$/Apromore-FileStore/apromore-filestore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Manager/apromore-manager.iml" filepath="$PROJECT_DIR$/Apromore-Manager/apromore-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Portal/apromore-portal.iml" filepath="$PROJECT_DIR$/Apromore-Portal/apromore-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Schema/aris-schema/aris-schema.iml" filepath="$PROJECT_DIR$/Apromore-Schema/aris-schema/aris-schema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Schema/bpmn-schema/bpmn-schema.iml" filepath="$PROJECT_DIR$/Apromore-Schema/bpmn-schema/bpmn-schema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Supplements/bpmn2cpf/bpmn2cpf.iml" filepath="$PROJECT_DIR$/Supplements/bpmn2cpf/bpmn2cpf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Extras/bpmncmap/bpmncmap.iml" filepath="$PROJECT_DIR$/Apromore-Extras/bpmncmap/bpmncmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Plugins/plugin-canoniser/core/api/canoniser-api.iml" filepath="$PROJECT_DIR$/Apromore-Plugins/plugin-canoniser/core/api/canoniser-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Plugins/plugin-canoniser/core/provider/canoniser-api-provider.iml" filepath="$PROJECT_DIR$/Apromore-Plugins/plugin-canoniser/core/provider/canoniser-api-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Plugins/plugin-canoniser/aris/canoniser-aris.iml" filepath="$PROJECT_DIR$/Apromore-Plugins/plugin-canoniser/aris/canoniser-aris.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Plugins/plugin-canoniser/bpmn/canoniser-bpmn.iml" filepath="$PROJECT_DIR$/Apromore-Plugins/plugin-canoniser/bpmn/canoniser-bpmn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Plugins/plugin-canoniser/epml/canoniser-epml.iml" filepath="$PROJECT_DIR$/Apromore-Plugins/plugin-canoniser/epml/canoniser-epml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Plugins/plugin-canoniser/pnml/canoniser-pnml.iml" filepath="$PROJECT_DIR$/Apromore-Plugins/plugin-canoniser/pnml/canoniser-pnml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Plugins/plugin-canoniser/xpdl/canoniser-xpdl.iml" filepath="$PROJECT_DIR$/Apromore-Plugins/plugin-canoniser/xpdl/canoniser-xpdl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Plugins/plugin-canoniser/yawl/canoniser-yawl.iml" filepath="$PROJECT_DIR$/Apromore-Plugins/plugin-canoniser/yawl/canoniser-yawl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Schema/cmap-schema/cmap-schema.iml" filepath="$PROJECT_DIR$/Apromore-Schema/cmap-schema/cmap-schema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Extras/Cmapper/cmapper.iml" filepath="$PROJECT_DIR$/Apromore-Extras/Cmapper/cmapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Schema/cpf-schema/cpf-schema.iml" filepath="$PROJECT_DIR$/Apromore-Schema/cpf-schema/cpf-schema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Supplements/cpf2bpmn/cpf2bpmn.iml" filepath="$PROJECT_DIR$/Supplements/cpf2bpmn/cpf2bpmn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Supplements/cpf2epml/cpf2epml.iml" filepath="$PROJECT_DIR$/Supplements/cpf2epml/cpf2epml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Supplements/cpfImporter/cpfImporter.iml" filepath="$PROJECT_DIR$/Supplements/cpfImporter/cpfImporter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Plugins/plugin-database/database-mysql/database-mysql.iml" filepath="$PROJECT_DIR$/Apromore-Plugins/plugin-database/database-mysql/database-mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Plugins/plugin-database/database-oracle/database-oracle.iml" filepath="$PROJECT_DIR$/Apromore-Plugins/plugin-database/database-oracle/database-oracle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Plugins/plugin-database/database-postgresql/database-postgresql.iml" filepath="$PROJECT_DIR$/Apromore-Plugins/plugin-database/database-postgresql/database-postgresql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Schema/dcl-schema/dcl-schema.iml" filepath="$PROJECT_DIR$/Apromore-Schema/dcl-schema/dcl-schema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Plugins/plugin-deployment/core/api/deployment-api.iml" filepath="$PROJECT_DIR$/Apromore-Plugins/plugin-deployment/core/api/deployment-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Plugins/plugin-deployment/core/provider/deployment-api-provider.iml" filepath="$PROJECT_DIR$/Apromore-Plugins/plugin-deployment/core/provider/deployment-api-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Plugins/plugin-deployment/deployment-yawl/deployment-yawl.iml" filepath="$PROJECT_DIR$/Apromore-Plugins/plugin-deployment/deployment-yawl/deployment-yawl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Schema/epml-schema/epml-schema.iml" filepath="$PROJECT_DIR$/Apromore-Schema/epml-schema/epml-schema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Supplements/epml2cpf/epml2cpf.iml" filepath="$PROJECT_DIR$/Supplements/epml2cpf/epml2cpf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Assembly/Filestore-Assembly/filestore-assembly.iml" filepath="$PROJECT_DIR$/Apromore-Assembly/Filestore-Assembly/filestore-assembly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Clients/filestore-client/filestore-client.iml" filepath="$PROJECT_DIR$/Apromore-Clients/filestore-client/filestore-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Assembly/Manager-Assembly/manager-assembly.iml" filepath="$PROJECT_DIR$/Apromore-Assembly/Manager-Assembly/manager-assembly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Clients/manager-client/manager-client.iml" filepath="$PROJECT_DIR$/Apromore-Clients/manager-client/manager-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Clients/manager-security/manager-security.iml" filepath="$PROJECT_DIR$/Apromore-Clients/manager-security/manager-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Clients/manager-ws-model/manager-ws-model.iml" filepath="$PROJECT_DIR$/Apromore-Clients/manager-ws-model/manager-ws-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Plugins/plugin-toolbox/plugin-metric/core/api/metric-api.iml" filepath="$PROJECT_DIR$/Apromore-Plugins/plugin-toolbox/plugin-metric/core/api/metric-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Plugins/plugin-toolbox/plugin-metric/core/provider/metric-api-provider.iml" filepath="$PROJECT_DIR$/Apromore-Plugins/plugin-toolbox/plugin-metric/core/provider/metric-api-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Plugins/plugin-toolbox/plugin-metric/size/metric-size.iml" filepath="$PROJECT_DIR$/Apromore-Plugins/plugin-toolbox/plugin-metric/size/metric-size.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Plugins/plugin.iml" filepath="$PROJECT_DIR$/Apromore-Plugins/plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Plugins/plugin-core/core/api/plugin-api.iml" filepath="$PROJECT_DIR$/Apromore-Plugins/plugin-core/core/api/plugin-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Plugins/plugin-core/core/provider/plugin-api-provider.iml" filepath="$PROJECT_DIR$/Apromore-Plugins/plugin-core/core/provider/plugin-api-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Plugins/plugin-core/plugin-graph/plugin-graph.iml" filepath="$PROJECT_DIR$/Apromore-Plugins/plugin-core/plugin-graph/plugin-graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Schema/pnml-schema/pnml-schema.iml" filepath="$PROJECT_DIR$/Apromore-Schema/pnml-schema/pnml-schema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Assembly/Portal-Assembly/portal-assembly.iml" filepath="$PROJECT_DIR$/Apromore-Assembly/Portal-Assembly/portal-assembly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Extras/Quaestio/quaestio.iml" filepath="$PROJECT_DIR$/Apromore-Extras/Quaestio/quaestio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Schema/rlf-schema/rlf-schema.iml" filepath="$PROJECT_DIR$/Apromore-Schema/rlf-schema/rlf-schema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Schema/xpdl-schema/xpdl-schema.iml" filepath="$PROJECT_DIR$/Apromore-Schema/xpdl-schema/xpdl-schema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apromore-Schema/yawl-schema/yawl-schema.iml" filepath="$PROJECT_DIR$/Apromore-Schema/yawl-schema/yawl-schema.iml" />
+    </modules>
+  </component>
+</project>

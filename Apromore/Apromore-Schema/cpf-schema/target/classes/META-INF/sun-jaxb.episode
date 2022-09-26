@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bindings version="2.1" xmlns="http://java.sun.com/xml/ns/jaxb">
+  <!--
+
+此文件是由 JavaTM Architecture for XML Binding (JAXB) 引用实现 v2.2.7 生成的
+请访问 <a href="http://java.sun.com/xml/jaxb">http://java.sun.com/xml/jaxb</a> 
+在重新编译源模式时, 对此文件的所有修改都将丢失。
+生成时间: 2022.04.18 时间 02:49:23 PM CST 
+
+  -->
+  <bindings scd="x-schema::tns" xmlns:tns="http://www.apromore.org/CPF">
+    <schemaBindings map="false">
+      <package name="org.apromore.cpf"/>
+    </schemaBindings>
+    <bindings scd="~tns:CanonicalProcessType">
+      <class ref="org.apromore.cpf.CanonicalProcessType"/>
+    </bindings>
+    <bindings scd="~tns:EventType">
+      <class ref="org.apromore.cpf.EventType"/>
+    </bindings>
+    <bindings scd="~tns:SoftType">
+      <class ref="org.apromore.cpf.SoftType"/>
+    </bindings>
+    <bindings scd="~tns:ConditionExpressionType">
+      <class ref="org.apromore.cpf.ConditionExpressionType"/>
+    </bindings>
+    <bindings scd="~tns:resourceTypeRefType">
+      <class ref="org.apromore.cpf.ResourceTypeRefType"/>
+    </bindings>
+    <bindings scd="~tns:HumanType">
+      <class ref="org.apromore.cpf.HumanType"/>
+    </bindings>
+    <bindings scd="~tns:XORSplitType">
+      <class ref="org.apromore.cpf.XORSplitType"/>
+    </bindings>
+    <bindings scd="~tns:ObjectType">
+      <class ref="org.apromore.cpf.ObjectType"/>
+    </bindings>
+    <bindings scd="~tns:typeAttribute">
+      <class ref="org.apromore.cpf.TypeAttribute"/>
+    </bindings>
+    <bindings scd="~tns:StateType">
+      <class ref="org.apromore.cpf.StateType"/>
+    </bindings>
+    <bindings scd="~tns:ResourceTypeType">
+      <class ref="org.apromore.cpf.ResourceTypeType"/>
+    </bindings>
+    <bindings scd="~tns:TaskType">
+      <class ref="org.apromore.cpf.TaskType"/>
+    </bindings>
+    <bindings scd="~tns:SplitType">
+      <class ref="org.apromore.cpf.SplitType"/>
+    </bindings>
+    <bindings scd="~tns:NetType">
+      <class ref="org.apromore.cpf.NetType"/>
+    </bindings>
+    <bindings scd="~tns:ResourceRuntimeFilterExpressionType">
+      <class ref="org.apromore.cpf.ResourceRuntimeFilterExpressionType"/>
+    </bindings>
+    <bindings scd="~tns:MessageType">
+      <class ref="org.apromore.cpf.MessageType"/>
+    </bindings>
+    <bindings scd="~tns:RoutingType">
+      <class ref="org.apromore.cpf.RoutingType"/>
+    </bindings>
+    <bindings scd="~tns:XORJoinType">
+      <class ref="org.apromore.cpf.XORJoinType"/>
+    </bindings>
+    <bindings scd="~tns:InputExpressionType">
+      <class ref="org.apromore.cpf.InputExpressionType"/>
+    </bindings>
+    <bindings scd="~tns:TimerType">
+      <class ref="org.apromore.cpf.TimerType"/>
+    </bindings>
+    <bindings scd="~tns:ORJoinType">
+      <class ref="org.apromore.cpf.ORJoinType"/>
+    </bindings>
+    <bindings scd="~tns:WorkType">
+      <class ref="org.apromore.cpf.WorkType"/>
+    </bindings>
+    <bindings scd="~tns:HardType">
+      <class ref="org.apromore.cpf.HardType"/>
+    </bindings>
+    <bindings scd="~tns:NonhumanType">
+      <class ref="org.apromore.cpf.NonhumanType"/>
+    </bindings>
+    <bindings scd="~tns:JoinType">
+      <class ref="org.apromore.cpf.JoinType"/>
+    </bindings>
+    <bindings scd="~tns:ANDSplitType">
+      <class ref="org.apromore.cpf.ANDSplitType"/>
+    </bindings>
+    <bindings scd="~tns:EdgeType">
+      <class ref="org.apromore.cpf.EdgeType"/>
+    </bindings>
+    <bindings scd="~tns:OutputExpressionType">
+      <class ref="org.apromore.cpf.OutputExpressionType"/>
+    </bindings>
+    <bindings scd="~tns:ORSplitType">
+      <class ref="org.apromore.cpf.ORSplitType"/>
+    </bindings>
+    <bindings scd="~tns:ResourceDataFilterExpressionType">
+      <class ref="org.apromore.cpf.ResourceDataFilterExpressionType"/>
+    </bindings>
+    <bindings scd="~tns:TimerExpressionType">
+      <class ref="org.apromore.cpf.TimerExpressionType"/>
+    </bindings>
+    <bindings scd="~tns:NodeType">
+      <class ref="org.apromore.cpf.NodeType"/>
+    </bindings>
+    <bindings scd="~tns:objectRefType">
+      <class ref="org.apromore.cpf.ObjectRefType"/>
+    </bindings>
+    <bindings scd="~tns:ANDJoinType">
+      <class ref="org.apromore.cpf.ANDJoinType"/>
+    </bindings>
+    <bindings scd="~tns:ExpressionType">
+      <class ref="org.apromore.cpf.ExpressionType"/>
+    </bindings>
+    <bindings scd="~tns:cancellationRefType">
+      <class ref="org.apromore.cpf.CancellationRefType"/>
+    </bindings>
+    <bindings scd="~tns:DirectionEnum">
+      <typesafeEnumClass ref="org.apromore.cpf.DirectionEnum"/>
+    </bindings>
+    <bindings scd="~tns:InputOutputType">
+      <typesafeEnumClass ref="org.apromore.cpf.InputOutputType"/>
+    </bindings>
+    <bindings scd="~tns:AllocationStrategyEnum">
+      <typesafeEnumClass ref="org.apromore.cpf.AllocationStrategyEnum"/>
+    </bindings>
+    <bindings scd="~tns:HumanTypeEnum">
+      <typesafeEnumClass ref="org.apromore.cpf.HumanTypeEnum"/>
+    </bindings>
+    <bindings scd="~tns:NonhumanTypeEnum">
+      <typesafeEnumClass ref="org.apromore.cpf.NonhumanTypeEnum"/>
+    </bindings>
+  </bindings>
+</bindings>
+

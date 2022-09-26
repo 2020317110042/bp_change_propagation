@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1650264596220
+Build-Jdk: 1.8.0_281
+Built-By: rose
+Bundle-Description: Apromore Plugin API's and core Plugins
+Bundle-License: http://www.gnu.org/licenses/lgpl-3.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: Apromore ARIS Canoniser
+Bundle-SymbolicName: org.apromore.plugin.canoniser-aris
+Bundle-Version: 1.1.0
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.apromore.canoniser.aris;uses:="org.apromore.canonise
+ r.exception,org.apromore.canoniser.result,org.apromore.plugin,org.aprom
+ ore.canoniser,org.apromore.anf,org.apromore.cpf,javax.xml.transform,jav
+ ax.xml.transform.stream,org.springframework.stereotype,javax.xml.bind";
+ version="1.1.0"
+Import-Package: javax.xml.bind;version="[2.2,3)",javax.xml.transform,jav
+ ax.xml.transform.stream,org.apromore.anf;version="[1.1,2)",org.apromore
+ .canoniser;version="[1.1,2)",org.apromore.canoniser.exception;version="
+ [1.1,2)",org.apromore.canoniser.result;version="[1.1,2)",org.apromore.c
+ pf;version="[1.1,2)",org.apromore.plugin;version="[1.1,2)",org.springfr
+ amework.stereotype;version="[3.1,4)"
+Tool: Bnd-1.50.0

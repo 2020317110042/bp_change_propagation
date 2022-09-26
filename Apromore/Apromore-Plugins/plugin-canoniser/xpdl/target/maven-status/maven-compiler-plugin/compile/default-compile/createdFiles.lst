@@ -1,0 +1,4 @@
+org\apromore\canoniser\xpdl\internal\Canonical2XPDL.class
+org\apromore\canoniser\xpdl\internal\XPDL2Canonical.class
+org\apromore\canoniser\xpdl\internal\AnnData.class
+org\apromore\canoniser\xpdl\XPDL22Canoniser.class

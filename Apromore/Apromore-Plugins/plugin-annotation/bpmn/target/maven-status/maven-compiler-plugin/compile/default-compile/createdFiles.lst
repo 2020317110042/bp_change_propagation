@@ -1,0 +1,4 @@
+org\apromore\annotation\cpf2bpmn\Cpf2BpmnPreProcessor.class
+org\apromore\annotation\xpdl2bpmn\Xpdl2BpmnPreProcessor.class
+org\apromore\annotation\aml2bpmn\Aml2BpmnPreProcessor.class
+org\apromore\annotation\epml2bpmn\Epml2BpmnPreProcessor.class

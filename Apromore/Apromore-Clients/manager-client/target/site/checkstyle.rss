@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<rss version="0.91">
+  <channel>
+    <title>Apromore Manager Client - Checkstyle report</title>
+    <link>http://apromore.org/</link>
+    <description>Apromore Manager Client - Checkstyle report</description>
+    <language>en-us</language>
+    <copyright>&#169;2022</copyright>
+    <item>
+      <title>File: 9,
+             Errors: 164,
+             Warnings: 0,
+             Infos: 0
+      </title>
+            <link>http://apromore.org//checkstyle.html</link>
+      <description>
+        <p>Click <a href="http://apromore.org//checkstyle.html">here</a> for the full Checkstyle report.</p>
+
+        <table summary="Files" boder="1">
+          <thead>
+            <tr>
+              <th>Files</th>
+              <th style="width:30px;"><abbr title="Info">I</abbr></th>
+              <th style="width:30px;"><abbr title="Warning">W</abbr></th>
+              <th style="width:30px;"><abbr title="Error">E</abbr></th>
+            </tr>
+          </thead>
+          <tbody>
+                          <tr>
+                <td>
+                  <a href="http://apromore.org//checkstyle.html#org.apromore.manager.client.helper.MergeProcessesHelper.java">org/apromore/manager/client/helper/MergeProcessesHelper.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  15
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://apromore.org//checkstyle.html#org.apromore.manager.client.ManagerService.java">org/apromore/manager/client/ManagerService.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  32
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://apromore.org//checkstyle.html#org.apromore.manager.client.util.StreamUtil.java">org/apromore/manager/client/util/StreamUtil.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://apromore.org//checkstyle.html#apromore-client.properties">apromore-client.properties</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://apromore.org//checkstyle.html#org.apromore.manager.client.helper.DeleteProcessVersionHelper.java">org/apromore/manager/client/helper/DeleteProcessVersionHelper.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  5
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://apromore.org//checkstyle.html#org.apromore.manager.client.helper.CanoniserHelperUnitTest.java">org/apromore/manager/client/helper/CanoniserHelperUnitTest.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://apromore.org//checkstyle.html#org.apromore.manager.client.helper.SearchForSimilarProcessesHelper.java">org/apromore/manager/client/helper/SearchForSimilarProcessesHelper.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  11
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://apromore.org//checkstyle.html#org.apromore.manager.client.ManagerServiceClient.java">org/apromore/manager/client/ManagerServiceClient.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  84
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://apromore.org//checkstyle.html#org.apromore.manager.client.helper.PluginHelperUnitTest.java">org/apromore/manager/client/helper/PluginHelperUnitTest.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  14
+                </td>
+              </tr>
+                      </tbody>
+        </table>
+        
+      </description>
+    </item>
+  </channel>
+</rss>
+

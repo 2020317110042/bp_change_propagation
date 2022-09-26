@@ -1,0 +1,6 @@
+org\apromore\manager\client\helper\SearchForSimilarProcessesHelper.class
+org\apromore\manager\client\util\StreamUtil.class
+org\apromore\manager\client\helper\DeleteProcessVersionHelper.class
+org\apromore\manager\client\ManagerServiceClient.class
+org\apromore\manager\client\helper\MergeProcessesHelper.class
+org\apromore\manager\client\ManagerService.class

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<rss version="0.91">
+  <channel>
+    <title>Apromore File Store Client - Checkstyle report</title>
+    <link>http://apromore.org/</link>
+    <description>Apromore File Store Client - Checkstyle report</description>
+    <language>en-us</language>
+    <copyright>&#169;2022</copyright>
+    <item>
+      <title>File: 7,
+             Errors: 72,
+             Warnings: 0,
+             Infos: 0
+      </title>
+            <link>http://apromore.org//checkstyle.html</link>
+      <description>
+        <p>Click <a href="http://apromore.org//checkstyle.html">here</a> for the full Checkstyle report.</p>
+
+        <table summary="Files" boder="1">
+          <thead>
+            <tr>
+              <th>Files</th>
+              <th style="width:30px;"><abbr title="Info">I</abbr></th>
+              <th style="width:30px;"><abbr title="Warning">W</abbr></th>
+              <th style="width:30px;"><abbr title="Error">E</abbr></th>
+            </tr>
+          </thead>
+          <tbody>
+                          <tr>
+                <td>
+                  <a href="http://apromore.org//checkstyle.html#apromore-client.properties">apromore-client.properties</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://apromore.org//checkstyle.html#org.apromore.filestore.client.DavFileSystemViewUnitTest.java">org/apromore/filestore/client/DavFileSystemViewUnitTest.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  10
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://apromore.org//checkstyle.html#org.apromore.filestore.client.FileStoreService.java">org/apromore/filestore/client/FileStoreService.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://apromore.org//checkstyle.html#org.apromore.filestore.client.DavFileUnitTest.java">org/apromore/filestore/client/DavFileUnitTest.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  9
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://apromore.org//checkstyle.html#org.apromore.filestore.client.DavFile.java">org/apromore/filestore/client/DavFile.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  7
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://apromore.org//checkstyle.html#org.apromore.filestore.client.DavFileSystemView.java">org/apromore/filestore/client/DavFileSystemView.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  23
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://apromore.org//checkstyle.html#org.apromore.filestore.client.FileStoreServiceClient.java">org/apromore/filestore/client/FileStoreServiceClient.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  21
+                </td>
+              </tr>
+                      </tbody>
+        </table>
+        
+      </description>
+    </item>
+  </channel>
+</rss>
+

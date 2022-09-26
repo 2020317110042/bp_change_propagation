@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1650264586470
+Build-Jdk: 1.8.0_281
+Built-By: rose
+Bundle-Description: Provider for Canonisers using OSGi to dynamically di
+ scover available Canonisers
+Bundle-License: http://www.gnu.org/licenses/lgpl-3.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: Apromore Canoniser API Provider
+Bundle-SymbolicName: org.apromore.plugin.canoniser-api-provider
+Bundle-Version: 1.1.0
+Created-By: Apache Maven Bundle Plugin
+Import-Package: javax.annotation,org.apromore.canoniser;version="[1.1,2)
+ ",org.apromore.canoniser.provider;version="[1.1,2)",org.apromore.plugin
+ .exception;version="[1.1,2)",org.apromore.plugin.provider;version="[1.1
+ ,2)",org.springframework.stereotype;version="[3.1,4)"
+Tool: Bnd-1.50.0

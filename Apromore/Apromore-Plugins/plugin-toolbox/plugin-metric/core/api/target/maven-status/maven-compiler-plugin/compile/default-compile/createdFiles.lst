@@ -1,0 +1,4 @@
+org\apromore\plugin\metric\DefaultAbstractMetricProcessor.class
+org\apromore\plugin\metric\provider\MetricPluginProvider.class
+org\apromore\plugin\metric\MetricPlugin.class
+org\apromore\plugin\metric\result\MetricPluginResult.class

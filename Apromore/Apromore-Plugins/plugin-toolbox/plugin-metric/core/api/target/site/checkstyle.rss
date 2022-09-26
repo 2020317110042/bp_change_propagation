@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<rss version="0.91">
+  <channel>
+    <title>Apromore Metric API - Checkstyle report</title>
+    <link>http://www.apromore.org/plugin-core/core/metric-api/</link>
+    <description>Apromore Metric API - Checkstyle report</description>
+    <language>en-us</language>
+    <copyright>&#169;2022</copyright>
+    <item>
+      <title>File: 4,
+             Errors: 10,
+             Warnings: 0,
+             Infos: 0
+      </title>
+            <link>http://www.apromore.org/plugin-core/core/metric-api//checkstyle.html</link>
+      <description>
+        <p>Click <a href="http://www.apromore.org/plugin-core/core/metric-api//checkstyle.html">here</a> for the full Checkstyle report.</p>
+
+        <table summary="Files" boder="1">
+          <thead>
+            <tr>
+              <th>Files</th>
+              <th style="width:30px;"><abbr title="Info">I</abbr></th>
+              <th style="width:30px;"><abbr title="Warning">W</abbr></th>
+              <th style="width:30px;"><abbr title="Error">E</abbr></th>
+            </tr>
+          </thead>
+          <tbody>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/core/metric-api//checkstyle.html#org.apromore.plugin.metric.DefaultAbstractMetricProcessor.java">org/apromore/plugin/metric/DefaultAbstractMetricProcessor.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/core/metric-api//checkstyle.html#org.apromore.plugin.metric.MetricPlugin.java">org/apromore/plugin/metric/MetricPlugin.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/core/metric-api//checkstyle.html#org.apromore.plugin.metric.provider.MetricPluginProvider.java">org/apromore/plugin/metric/provider/MetricPluginProvider.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/core/metric-api//checkstyle.html#org.apromore.plugin.metric.result.MetricPluginResult.java">org/apromore/plugin/metric/result/MetricPluginResult.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+              </tr>
+                      </tbody>
+        </table>
+        
+      </description>
+    </item>
+  </channel>
+</rss>
+

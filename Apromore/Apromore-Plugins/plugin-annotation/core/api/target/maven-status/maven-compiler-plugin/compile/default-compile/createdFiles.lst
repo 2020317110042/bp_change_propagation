@@ -1,0 +1,6 @@
+org\apromore\annotation\DefaultAbstractAnnotationProcessor.class
+org\apromore\annotation\provider\AnnotationProcessorProvider.class
+org\apromore\annotation\exception\AnnotationProcessorException.class
+org\apromore\annotation\AnnotationProcessor.class
+org\apromore\annotation\model\AnnotationData.class
+org\apromore\annotation\result\AnnotationPluginResult.class

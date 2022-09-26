@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.6">
+<file name="D:\Apromore\Apromore-Plugins\plugin-toolbox\plugin-metric\size\src\main\java\org\apromore\metric\size\package-info.java">
+</file>
+<file name="D:\Apromore\Apromore-Plugins\plugin-toolbox\plugin-metric\size\src\main\java\org\apromore\metric\size\SizeMetricCalculation.java">
+<error line="38" column="41" severity="error" message="Parameter model should be final." source="com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"/>
+<error line="38" column="58" severity="error" message="Parameter request should be final." source="com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"/>
+</file>
+<file name="D:\Apromore\Apromore-Plugins\plugin-toolbox\plugin-metric\size\src\test\java\org\apromore\metric\size\SizeMetricCalculationUnitTest.java">
+</file>
+</checkstyle>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<rss version="0.91">
+  <channel>
+    <title>Apromore Deployment Plugin API - Checkstyle report</title>
+    <link>http://www.apromore.org/plugin-core/core/deployment-api/</link>
+    <description>Apromore Deployment Plugin API - Checkstyle report</description>
+    <language>en-us</language>
+    <copyright>&#169;2022</copyright>
+    <item>
+      <title>File: 5,
+             Errors: 21,
+             Warnings: 0,
+             Infos: 0
+      </title>
+            <link>http://www.apromore.org/plugin-core/core/deployment-api//checkstyle.html</link>
+      <description>
+        <p>Click <a href="http://www.apromore.org/plugin-core/core/deployment-api//checkstyle.html">here</a> for the full Checkstyle report.</p>
+
+        <table summary="Files" boder="1">
+          <thead>
+            <tr>
+              <th>Files</th>
+              <th style="width:30px;"><abbr title="Info">I</abbr></th>
+              <th style="width:30px;"><abbr title="Warning">W</abbr></th>
+              <th style="width:30px;"><abbr title="Error">E</abbr></th>
+            </tr>
+          </thead>
+          <tbody>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/core/deployment-api//checkstyle.html#org.apromore.plugin.deployment.DeploymentPlugin.java">org/apromore/plugin/deployment/DeploymentPlugin.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  7
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/core/deployment-api//checkstyle.html#org.apromore.plugin.deployment.DefaultDeploymentPluginUnitTest.java">org/apromore/plugin/deployment/DefaultDeploymentPluginUnitTest.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  4
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/core/deployment-api//checkstyle.html#org.apromore.plugin.deployment.exception.DeploymentException.java">org/apromore/plugin/deployment/exception/DeploymentException.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/core/deployment-api//checkstyle.html#org.apromore.plugin.deployment.provider.DeploymentPluginProvider.java">org/apromore/plugin/deployment/provider/DeploymentPluginProvider.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  4
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.apromore.org/plugin-core/core/deployment-api//checkstyle.html#org.apromore.plugin.deployment.DefaultDeploymentPlugin.java">org/apromore/plugin/deployment/DefaultDeploymentPlugin.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                      </tbody>
+        </table>
+        
+      </description>
+    </item>
+  </channel>
+</rss>
+

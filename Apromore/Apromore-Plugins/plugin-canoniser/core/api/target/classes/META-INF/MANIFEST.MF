@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1650264585412
+Build-Jdk: 1.8.0_281
+Built-By: rose
+Bundle-Description: API for Canonisers
+Bundle-License: http://www.gnu.org/licenses/lgpl-3.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: Apromore Canoniser API
+Bundle-SymbolicName: org.apromore.plugin.canoniser-api
+Bundle-Version: 1.1.0
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.apromore.canoniser;uses:="org.apromore.canoniser.exc
+ eption,org.apromore.canoniser.result,org.apromore.plugin,org.apromore.a
+ nf,org.apromore.cpf,org.xml.sax,javax.xml.bind";version="1.1.0",org.apr
+ omore.canoniser.exception;uses:="org.apromore.plugin.exception";version
+ ="1.1.0",org.apromore.canoniser.provider;uses:="org.apromore.canoniser,
+ org.apromore.plugin.exception";version="1.1.0",org.apromore.canoniser.r
+ esult;uses:="org.apromore.plugin";version="1.1.0",org.apromore.canonise
+ r.utils;uses:="org.apromore.canoniser.exception,org.slf4j,org.w3c.dom,j
+ avax.xml.namespace,org.apromore.cpf,org.apromore.anf,javax.xml.parsers,
+ javax.xml.bind";version="1.1.0"
+Import-Package: javax.xml.bind;version="[2.2,3)",javax.xml.namespace,jav
+ ax.xml.parsers,org.apromore.anf;version="[1.1,2)",org.apromore.cpf;vers
+ ion="[1.1,2)",org.apromore.plugin;version="[1.1,2)",org.apromore.plugin
+ .exception;version="[1.1,2)",org.slf4j;version="[1.7,2)",org.w3c.dom,or
+ g.xml.sax
+Tool: Bnd-1.50.0

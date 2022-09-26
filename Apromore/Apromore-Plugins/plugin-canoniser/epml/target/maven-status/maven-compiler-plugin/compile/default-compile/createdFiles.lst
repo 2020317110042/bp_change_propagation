@@ -1,0 +1,6 @@
+org\apromore\canoniser\epml\EPML20Canoniser.class
+org\apromore\canoniser\epml\internal\EPML2Canonical.class
+org\apromore\canoniser\epml\Epml2Cpf.class
+org\apromore\canoniser\epml\internal\Canonical2EPML.class
+org\apromore\canoniser\epml\Cpf2Epml.class
+org\apromore\canoniser\epml\internal\Canonical2EPML$1.class

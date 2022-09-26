@@ -1,0 +1,15 @@
+org\apromore\security\ApromoreRemoteAuthenticationManagerImpl.class
+org\apromore\security\exception\ApromoreRemoteResetException.class
+org\apromore\security\util\SecurityUtil.class
+org\apromore\security\ApromoreWebAuthenticationDetailsSource.class
+org\apromore\security\filter\ApromoreUsernamePasswordAuthenticationFilter.class
+org\apromore\security\model\ApromoreSearchHistoryDetails.class
+org\apromore\security\ApromoreWebAuthenticationDetails.class
+org\apromore\security\ApromoreAuthenticationDetailsSource.class
+org\apromore\security\model\ApromoreRoleDetails.class
+org\apromore\security\exception\ApromoreRemoteAuthenticationException.class
+org\apromore\security\model\ApromoreUserDetails.class
+org\apromore\security\model\ApromorePermissionDetails.class
+org\apromore\security\provider\ApromoreRemoteAuthenticationProvider.class
+org\apromore\security\provider\ApromoreTokenBasedRememberMeServices.class
+org\apromore\security\ApromoreRemoteAuthenticationManager.class

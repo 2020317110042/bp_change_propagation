@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<jaxb:bindings version="2.1" xmlns:jaxb="http://java.sun.com/xml/ns/jaxb">
+  <!--
+
+此文件是由 JavaTM Architecture for XML Binding (JAXB) 引用实现 v2.2.7 生成的
+请访问 <a href="http://java.sun.com/xml/jaxb">http://java.sun.com/xml/jaxb</a> 
+在重新编译源模式时, 对此文件的所有修改都将丢失。
+生成时间: 2022.04.18 时间 02:49:13 PM CST 
+
+  -->
+  <jaxb:bindings scd="x-schema::">
+    <jaxb:schemaBindings map="false">
+      <jaxb:package name="generated"/>
+    </jaxb:schemaBindings>
+    <jaxb:bindings scd="Delete">
+      <jaxb:class ref="generated.Delete"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="LineBreak">
+      <jaxb:class ref="generated.LineBreak"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="LogFont">
+      <jaxb:class ref="generated.LogFont"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="Size">
+      <jaxb:class ref="generated.Size"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="LDAPSettings">
+      <jaxb:class ref="generated.LDAPSettings"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="LDAPProperty">
+      <jaxb:class ref="generated.LDAPProperty"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="UserGroup">
+      <jaxb:class ref="generated.UserGroup"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="AttrDef">
+      <jaxb:class ref="generated.AttrDef"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="AttrValue">
+      <jaxb:class ref="generated.AttrValue"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="StyledElement">
+      <jaxb:class ref="generated.StyledElement"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="BackGroundColor">
+      <jaxb:class ref="generated.BackGroundColor"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="Bold">
+      <jaxb:class ref="generated.Bold"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="Container">
+      <jaxb:class ref="generated.Container"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="Enumeration">
+      <jaxb:class ref="generated.Enumeration"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="Font">
+      <jaxb:class ref="generated.Font"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="Italic">
+      <jaxb:class ref="generated.Italic"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="SoftHyphen">
+      <jaxb:class ref="generated.SoftHyphen"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="Paragraph">
+      <jaxb:class ref="generated.Paragraph"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="PlainText">
+      <jaxb:class ref="generated.PlainText"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="SizeElement">
+      <jaxb:class ref="generated.SizeElement"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="StrikeThrough">
+      <jaxb:class ref="generated.StrikeThrough"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="TextColor">
+      <jaxb:class ref="generated.TextColor"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="Underline">
+      <jaxb:class ref="generated.Underline"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="Prefix">
+      <jaxb:class ref="generated.Prefix"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="FontStyleSheet">
+      <jaxb:class ref="generated.FontStyleSheet"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="FontNode">
+      <jaxb:class ref="generated.FontNode"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="Database">
+      <jaxb:class ref="generated.Database"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="Polygon">
+      <jaxb:class ref="generated.Polygon"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="Position">
+      <jaxb:class ref="generated.Position"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="AML">
+      <jaxb:class ref="generated.AML"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="Header-Info">
+      <jaxb:class ref="generated.HeaderInfo"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="Language">
+      <jaxb:class ref="generated.Language"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="User">
+      <jaxb:class ref="generated.User"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="FFTextDef">
+      <jaxb:class ref="generated.FFTextDef"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="OLEDef">
+      <jaxb:class ref="generated.OLEDef"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="Group">
+      <jaxb:class ref="generated.Group"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="ObjDef">
+      <jaxb:class ref="generated.ObjDef"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="CxnDef">
+      <jaxb:class ref="generated.CxnDef"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="ExtCxnDef">
+      <jaxb:class ref="generated.ExtCxnDef"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="Model">
+      <jaxb:class ref="generated.Model"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="Lane">
+      <jaxb:class ref="generated.Lane"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="Pen">
+      <jaxb:class ref="generated.Pen"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="Brush">
+      <jaxb:class ref="generated.Brush"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="ObjOcc">
+      <jaxb:class ref="generated.ObjOcc"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="CxnOcc">
+      <jaxb:class ref="generated.CxnOcc"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="AttrOcc">
+      <jaxb:class ref="generated.AttrOcc"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="ExtCxnOcc">
+      <jaxb:class ref="generated.ExtCxnOcc"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="FFTextOcc">
+      <jaxb:class ref="generated.FFTextOcc"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="GfxObj">
+      <jaxb:class ref="generated.GfxObj"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="RoundedRectangle">
+      <jaxb:class ref="generated.RoundedRectangle"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="OLEOcc">
+      <jaxb:class ref="generated.OLEOcc"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="Union">
+      <jaxb:class ref="generated.Union"/>
+    </jaxb:bindings>
+  </jaxb:bindings>
+</jaxb:bindings>
+

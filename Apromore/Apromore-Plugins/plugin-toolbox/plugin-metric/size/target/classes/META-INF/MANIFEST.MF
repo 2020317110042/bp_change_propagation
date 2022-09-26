@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1650264616371
+Build-Jdk: 1.8.0_281
+Built-By: rose
+Bundle-Description: Apromore Plugin API's and core Plugins
+Bundle-License: http://www.gnu.org/licenses/lgpl-3.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: Apromore Node Size Metric Calculation
+Bundle-SymbolicName: org.apromore.plugin.metric-size
+Bundle-Version: 1.1.0
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.apromore.metric.size;uses:="org.apromore.graph.canon
+ ical,org.apromore.plugin.metric.result,org.springframework.stereotype,o
+ rg.apromore.plugin,org.apromore.plugin.metric";version="1.1.0"
+Import-Package: org.apromore.graph.canonical;version="[1.1,2)",org.aprom
+ ore.plugin;version="[1.1,2)",org.apromore.plugin.metric;version="[1.1,2
+ )",org.apromore.plugin.metric.result;version="[1.1,2)",org.springframew
+ ork.stereotype;version="[3.1,4)"
+Tool: Bnd-1.50.0

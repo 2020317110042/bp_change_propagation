@@ -1,0 +1,33 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="apromore-filestore:war exploded">
+    <output-path>$PROJECT_DIR$/Apromore-FileStore/target/filestore</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>apromore-filestore</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="apromore-filestore" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="bpmn-schema-1.1.jar">
+            <element id="module-output" name="bpmn-schema" />
+          </element>
+          <element id="library" level="project" name="Maven: org.jvnet.jaxb2_commons:jaxb2-basics-runtime:0.5.3" />
+          <element id="library" level="project" name="Maven: javax.servlet.jsp:jsp-api:2.1" />
+          <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
+          <element id="library" level="project" name="Maven: com.github.lookfirst:sardine:5.0.1" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/Apromore-FileStore/target/filestore/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="apromore-filestore/web/Web" />
+    </root>
+  </artifact>
+</component>

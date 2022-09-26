@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bindings version="2.1" xmlns="http://java.sun.com/xml/ns/jaxb">
+  <!--
+
+此文件是由 JavaTM Architecture for XML Binding (JAXB) 引用实现 v2.2.7 生成的
+请访问 <a href="http://java.sun.com/xml/jaxb">http://java.sun.com/xml/jaxb</a> 
+在重新编译源模式时, 对此文件的所有修改都将丢失。
+生成时间: 2022.04.18 时间 02:50:25 PM CST 
+
+  -->
+  <bindings scd="x-schema::tns" xmlns:tns="urn:qut-edu-au:schema:apromore:manager">
+    <schemaBindings map="false">
+      <package name="org.apromore.model"/>
+    </schemaBindings>
+    <bindings scd="~tns:GetWorkspaceFolderTreeOutputMsgType">
+      <class ref="org.apromore.model.GetWorkspaceFolderTreeOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:ReadCanoniserInfoOutputMsgType">
+      <class ref="org.apromore.model.ReadCanoniserInfoOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:GetClustersResponseType">
+      <class ref="org.apromore.model.GetClustersResponseType"/>
+    </bindings>
+    <bindings scd="~tns:CreateClustersOutputMsgType">
+      <class ref="org.apromore.model.CreateClustersOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:EditProcessDataOutputMsgType">
+      <class ref="org.apromore.model.EditProcessDataOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:WriteUserOutputMsgType">
+      <class ref="org.apromore.model.WriteUserOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:UpdateFolderOutputMsgType">
+      <class ref="org.apromore.model.UpdateFolderOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:SearchUserOutputMsgType">
+      <class ref="org.apromore.model.SearchUserOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:RunAPQLInputMsgType">
+      <class ref="org.apromore.model.RunAPQLInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:CreateUserOutputMsgType">
+      <class ref="org.apromore.model.CreateUserOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:ReadInstalledPluginsInputMsgType">
+      <class ref="org.apromore.model.ReadInstalledPluginsInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:GetSubFoldersInputMsgType">
+      <class ref="org.apromore.model.GetSubFoldersInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:SearchGroupsOutputMsgType">
+      <class ref="org.apromore.model.SearchGroupsOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:CreateFolderInputMsgType">
+      <class ref="org.apromore.model.CreateFolderInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:UpdateFolderInputMsgType">
+      <class ref="org.apromore.model.UpdateFolderInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:GetClusterSummariesInputMsgType">
+      <class ref="org.apromore.model.GetClusterSummariesInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:GetPairwiseDistancesInputMsgType">
+      <class ref="org.apromore.model.GetPairwiseDistancesInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:ReadUserByUsernameOutputMsgType">
+      <class ref="org.apromore.model.ReadUserByUsernameOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:ImportProcessOutputMsgType">
+      <class ref="org.apromore.model.ImportProcessOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:GetFragmentOutputMsgType">
+      <class ref="org.apromore.model.GetFragmentOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:DeployProcessInputMsgType">
+      <class ref="org.apromore.model.DeployProcessInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:EditProcessDataInputMsgType">
+      <class ref="org.apromore.model.EditProcessDataInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:UpdateSearchHistoryInputMsgType">
+      <class ref="org.apromore.model.UpdateSearchHistoryInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:WriteAnnotationInputMsgType">
+      <class ref="org.apromore.model.WriteAnnotationInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:SaveProcessPermissionsInputMsgType">
+      <class ref="org.apromore.model.SaveProcessPermissionsInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:ResetUserPasswordInputMsgType">
+      <class ref="org.apromore.model.ResetUserPasswordInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:ReadNativeMetaDataOutputMsgType">
+      <class ref="org.apromore.model.ReadNativeMetaDataOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:DeployProcessOutputMsgType">
+      <class ref="org.apromore.model.DeployProcessOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:ReadDomainsInputMsgType">
+      <class ref="org.apromore.model.ReadDomainsInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:ReadProcessSummariesInputMsgType">
+      <class ref="org.apromore.model.ReadProcessSummariesInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:DeleteProcessVersionsInputMsgType">
+      <class ref="org.apromore.model.DeleteProcessVersionsInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:ReadDomainsOutputMsgType">
+      <class ref="org.apromore.model.ReadDomainsOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:DeleteFolderOutputMsgType">
+      <class ref="org.apromore.model.DeleteFolderOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:SearchUserInputMsgType">
+      <class ref="org.apromore.model.SearchUserInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:GetFolderGroupsInputMsgType">
+      <class ref="org.apromore.model.GetFolderGroupsInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:ImportProcessInputMsgType">
+      <class ref="org.apromore.model.ImportProcessInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:CreateClustersInputMsgType">
+      <class ref="org.apromore.model.CreateClustersInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:GetProcessGroupsOutputMsgType">
+      <class ref="org.apromore.model.GetProcessGroupsOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:GetClusteringSummaryInputMsgType">
+      <class ref="org.apromore.model.GetClusteringSummaryInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:RemoveFolderPermissionsInputMsgType">
+      <class ref="org.apromore.model.RemoveFolderPermissionsInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:GetPairwiseDistancesOutputMsgType">
+      <class ref="org.apromore.model.GetPairwiseDistancesOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:GetClusterInputMsgType">
+      <class ref="org.apromore.model.GetClusterInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:WriteAnnotationOutputMsgType">
+      <class ref="org.apromore.model.WriteAnnotationOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:WriteUserInputMsgType">
+      <class ref="org.apromore.model.WriteUserInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:ResetUserPasswordOutputMsgType">
+      <class ref="org.apromore.model.ResetUserPasswordOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:GetFolderGroupsOutputMsgType">
+      <class ref="org.apromore.model.GetFolderGroupsOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:CreateGEDMatrixOutputMsgType">
+      <class ref="org.apromore.model.CreateGEDMatrixOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:AddProcessToFolderInputMsgType">
+      <class ref="org.apromore.model.AddProcessToFolderInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:SearchForSimilarProcessesInputMsgType">
+      <class ref="org.apromore.model.SearchForSimilarProcessesInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:RunAPQLOutputMsgType">
+      <class ref="org.apromore.model.RunAPQLOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:ReadProcessSummariesOutputMsgType">
+      <class ref="org.apromore.model.ReadProcessSummariesOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:ReadPluginInfoInputMsgType">
+      <class ref="org.apromore.model.ReadPluginInfoInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:ReadAllUsersOutputMsgType">
+      <class ref="org.apromore.model.ReadAllUsersOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:ReadCanoniserInfoInputMsgType">
+      <class ref="org.apromore.model.ReadCanoniserInfoInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:DeleteProcessVersionsOutputMsgType">
+      <class ref="org.apromore.model.DeleteProcessVersionsOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:ReadUserByEmailOutputMsgType">
+      <class ref="org.apromore.model.ReadUserByEmailOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:GetGedMatrixSummaryInputMsgType">
+      <class ref="org.apromore.model.GetGedMatrixSummaryInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:CreateGEDMatrixInputMsgType">
+      <class ref="org.apromore.model.CreateGEDMatrixInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:GetProcessGroupsInputMsgType">
+      <class ref="org.apromore.model.GetProcessGroupsInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:SearchForSimilarProcessesOutputMsgType">
+      <class ref="org.apromore.model.SearchForSimilarProcessesOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:GetClustersRequestType">
+      <class ref="org.apromore.model.GetClustersRequestType"/>
+    </bindings>
+    <bindings scd="~tns:GetProcessesOutputMsgType">
+      <class ref="org.apromore.model.GetProcessesOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:SaveProcessPermissionsOutputMsgType">
+      <class ref="org.apromore.model.SaveProcessPermissionsOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:RemoveFolderPermissionsOutputMsgType">
+      <class ref="org.apromore.model.RemoveFolderPermissionsOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:ReadInitialNativeFormatInputMsgType">
+      <class ref="org.apromore.model.ReadInitialNativeFormatInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:ReadUserByUsernameInputMsgType">
+      <class ref="org.apromore.model.ReadUserByUsernameInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:RemoveProcessPermissionsOutputMsgType">
+      <class ref="org.apromore.model.RemoveProcessPermissionsOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:GetClusteringSummaryOutputMsgType">
+      <class ref="org.apromore.model.GetClusteringSummaryOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:ReadUserByEmailInputMsgType">
+      <class ref="org.apromore.model.ReadUserByEmailInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:RemoveProcessPermissionsInputMsgType">
+      <class ref="org.apromore.model.RemoveProcessPermissionsInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:AddProcessToFolderOutputMsgType">
+      <class ref="org.apromore.model.AddProcessToFolderOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:ReadNativeMetaDataInputMsgType">
+      <class ref="org.apromore.model.ReadNativeMetaDataInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:CreateFolderOutputMsgType">
+      <class ref="org.apromore.model.CreateFolderOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:GetClusterSummariesOutputMsgType">
+      <class ref="org.apromore.model.GetClusterSummariesOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:GetClusterOutputMsgType">
+      <class ref="org.apromore.model.GetClusterOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:GetWorkspaceFolderTreeInputMsgType">
+      <class ref="org.apromore.model.GetWorkspaceFolderTreeInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:UpdateProcessInputMsgType">
+      <class ref="org.apromore.model.UpdateProcessInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:ExportFormatInputMsgType">
+      <class ref="org.apromore.model.ExportFormatInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:UpdateSearchHistoryOutputMsgType">
+      <class ref="org.apromore.model.UpdateSearchHistoryOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:GetGedMatrixSummaryOutputMsgType">
+      <class ref="org.apromore.model.GetGedMatrixSummaryOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:GetProcessesInputMsgType">
+      <class ref="org.apromore.model.GetProcessesInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:MergeProcessesOutputMsgType">
+      <class ref="org.apromore.model.MergeProcessesOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:ReadDeploymentPluginInfoOutputMsgType">
+      <class ref="org.apromore.model.ReadDeploymentPluginInfoOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:MergeProcessesInputMsgType">
+      <class ref="org.apromore.model.MergeProcessesInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:CreateUserInputMsgType">
+      <class ref="org.apromore.model.CreateUserInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:ReadPluginInfoOutputMsgType">
+      <class ref="org.apromore.model.ReadPluginInfoOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:GetFragmentInputMsgType">
+      <class ref="org.apromore.model.GetFragmentInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:ReadInstalledPluginsOutputMsgType">
+      <class ref="org.apromore.model.ReadInstalledPluginsOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:GetSubFoldersOutputMsgType">
+      <class ref="org.apromore.model.GetSubFoldersOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:ReadNativeTypesOutputMsgType">
+      <class ref="org.apromore.model.ReadNativeTypesOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:SaveFolderPermissionsInputMsgType">
+      <class ref="org.apromore.model.SaveFolderPermissionsInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:GetBreadcrumbsOutputMsgType">
+      <class ref="org.apromore.model.GetBreadcrumbsOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:SaveFolderPermissionsOutputMsgType">
+      <class ref="org.apromore.model.SaveFolderPermissionsOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:ReadDeploymentPluginInfoInputMsgType">
+      <class ref="org.apromore.model.ReadDeploymentPluginInfoInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:ReadInitialNativeFormatOutputMsgType">
+      <class ref="org.apromore.model.ReadInitialNativeFormatOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:SearchGroupsInputMsgType">
+      <class ref="org.apromore.model.SearchGroupsInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:DeleteFolderInputMsgType">
+      <class ref="org.apromore.model.DeleteFolderInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:ReadAllUsersInputMsgType">
+      <class ref="org.apromore.model.ReadAllUsersInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:GetBreadcrumbsInputMsgType">
+      <class ref="org.apromore.model.GetBreadcrumbsInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:ReadNativeTypesInputMsgType">
+      <class ref="org.apromore.model.ReadNativeTypesInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:UpdateProcessOutputMsgType">
+      <class ref="org.apromore.model.UpdateProcessOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:ExportFormatOutputMsgType">
+      <class ref="org.apromore.model.ExportFormatOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:PairDistanceType">
+      <class ref="org.apromore.model.PairDistanceType"/>
+    </bindings>
+    <bindings scd="~tns:RoleType">
+      <class ref="org.apromore.model.RoleType"/>
+    </bindings>
+    <bindings scd="~tns:ConstrainedProcessIdsType">
+      <class ref="org.apromore.model.ConstrainedProcessIdsType"/>
+    </bindings>
+    <bindings scd="~tns:DistanceType">
+      <class ref="org.apromore.model.DistanceType"/>
+    </bindings>
+    <bindings scd="~tns:CanonicalType">
+      <class ref="org.apromore.model.CanonicalType"/>
+    </bindings>
+    <bindings scd="~tns:DeCanoniseProcessOutputMsgType">
+      <class ref="org.apromore.model.DeCanoniseProcessOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:GedMatrixSummaryType">
+      <class ref="org.apromore.model.GedMatrixSummaryType"/>
+    </bindings>
+    <bindings scd="~tns:ReadFormatInputMsgType">
+      <class ref="org.apromore.model.ReadFormatInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:GroupAccessType">
+      <class ref="org.apromore.model.GroupAccessType"/>
+    </bindings>
+    <bindings scd="~tns:CanonicalsType">
+      <class ref="org.apromore.model.CanonicalsType"/>
+    </bindings>
+    <bindings scd="~tns:StoreNativeCpfInputMsgType">
+      <class ref="org.apromore.model.StoreNativeCpfInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:PluginInfo">
+      <class ref="org.apromore.model.PluginInfo"/>
+    </bindings>
+    <bindings scd="~tns:PluginParameters">
+      <class ref="org.apromore.model.PluginParameters"/>
+    </bindings>
+    <bindings scd="~tns:ProcessAssociationsType">
+      <class ref="org.apromore.model.ProcessAssociationsType"/>
+    </bindings>
+    <bindings scd="~tns:PluginMessages">
+      <class ref="org.apromore.model.PluginMessages"/>
+    </bindings>
+    <bindings scd="~tns:StoreCpfInputMsgType">
+      <class ref="org.apromore.model.StoreCpfInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:ReadCanonicalsInputMsgType">
+      <class ref="org.apromore.model.ReadCanonicalsInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:MergedSource">
+      <class ref="org.apromore.model.MergedSource"/>
+    </bindings>
+    <bindings scd="~tns:ReadCanonicalAnfInputMsgType">
+      <class ref="org.apromore.model.ReadCanonicalAnfInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:NativeTypesType">
+      <class ref="org.apromore.model.NativeTypesType"/>
+    </bindings>
+    <bindings scd="~tns:CanoniseVersionInputMsgType">
+      <class ref="org.apromore.model.CanoniseVersionInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:GroupType">
+      <class ref="org.apromore.model.GroupType"/>
+    </bindings>
+    <bindings scd="~tns:ClusterFilterType">
+      <class ref="org.apromore.model.ClusterFilterType"/>
+    </bindings>
+    <bindings scd="~tns:UserType">
+      <class ref="org.apromore.model.UserType"/>
+    </bindings>
+    <bindings scd="~tns:MergedSources">
+      <class ref="org.apromore.model.MergedSources"/>
+    </bindings>
+    <bindings scd="~tns:StoreNativeInputMsgType">
+      <class ref="org.apromore.model.StoreNativeInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:DomainsType">
+      <class ref="org.apromore.model.DomainsType"/>
+    </bindings>
+    <bindings scd="~tns:PermissionType">
+      <class ref="org.apromore.model.PermissionType"/>
+    </bindings>
+    <bindings scd="~tns:ProcessVersion_idType">
+      <class ref="org.apromore.model.ProcessVersionIdType"/>
+    </bindings>
+    <bindings scd="~tns:GetCpfUriOutputMsgType">
+      <class ref="org.apromore.model.GetCpfUriOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:StoreNativeOutputMsgType">
+      <class ref="org.apromore.model.StoreNativeOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:ClusteringParameterType">
+      <class ref="org.apromore.model.ClusteringParameterType"/>
+    </bindings>
+    <bindings scd="~tns:PluginParameter">
+      <class ref="org.apromore.model.PluginParameter"/>
+    </bindings>
+    <bindings scd="~tns:ReadProcessSummaryInputMsgType">
+      <class ref="org.apromore.model.ReadProcessSummaryInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:ProcessVersionIdentifierType">
+      <class ref="org.apromore.model.ProcessVersionIdentifierType"/>
+    </bindings>
+    <bindings scd="~tns:ParameterType">
+      <class ref="org.apromore.model.ParameterType"/>
+    </bindings>
+    <bindings scd="~tns:StoreVersionOutputMsgType">
+      <class ref="org.apromore.model.StoreVersionOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:MembershipType">
+      <class ref="org.apromore.model.MembershipType"/>
+    </bindings>
+    <bindings scd="~tns:ClusterSummaryType">
+      <class ref="org.apromore.model.ClusterSummaryType"/>
+    </bindings>
+    <bindings scd="~tns:ProcessVersionsType">
+      <class ref="org.apromore.model.ProcessVersionsType"/>
+    </bindings>
+    <bindings scd="~tns:ClusterType">
+      <class ref="org.apromore.model.ClusterType"/>
+    </bindings>
+    <bindings scd="~tns:ReadCanonicalAnfOutputMsgType">
+      <class ref="org.apromore.model.ReadCanonicalAnfOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:AnnotationsType">
+      <class ref="org.apromore.model.AnnotationsType"/>
+    </bindings>
+    <bindings scd="~tns:EditSessionType">
+      <class ref="org.apromore.model.EditSessionType"/>
+    </bindings>
+    <bindings scd="~tns:WorkspaceType">
+      <class ref="org.apromore.model.WorkspaceType"/>
+    </bindings>
+    <bindings scd="~tns:FragmentType">
+      <class ref="org.apromore.model.FragmentType"/>
+    </bindings>
+    <bindings scd="~tns:CanoniseVersionOutputMsgType">
+      <class ref="org.apromore.model.CanoniseVersionOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:FragmentData">
+      <class ref="org.apromore.model.FragmentData"/>
+    </bindings>
+    <bindings scd="~tns:ImportProcessResultType">
+      <class ref="org.apromore.model.ImportProcessResultType"/>
+    </bindings>
+    <bindings scd="~tns:ProcessVersionType">
+      <class ref="org.apromore.model.ProcessVersionType"/>
+    </bindings>
+    <bindings scd="~tns:GetCpfUriInputMsgType">
+      <class ref="org.apromore.model.GetCpfUriInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:FolderType">
+      <class ref="org.apromore.model.FolderType"/>
+    </bindings>
+    <bindings scd="~tns:StoreVersionInputMsgType">
+      <class ref="org.apromore.model.StoreVersionInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:ReadCanonicalsOutputMsgType">
+      <class ref="org.apromore.model.ReadCanonicalsOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:SearchHistoriesType">
+      <class ref="org.apromore.model.SearchHistoriesType"/>
+    </bindings>
+    <bindings scd="~tns:GenerateAnnotationInputMsgType">
+      <class ref="org.apromore.model.GenerateAnnotationInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:ResultType">
+      <class ref="org.apromore.model.ResultType"/>
+    </bindings>
+    <bindings scd="~tns:CanoniseProcessInputMsgType">
+      <class ref="org.apromore.model.CanoniseProcessInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:StoreCpfOutputMsgType">
+      <class ref="org.apromore.model.StoreCpfOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:DeCanoniseProcessInputMsgType">
+      <class ref="org.apromore.model.DeCanoniseProcessInputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:ParametersType">
+      <class ref="org.apromore.model.ParametersType"/>
+    </bindings>
+    <bindings scd="~tns:ProcessVersion_idsType">
+      <class ref="org.apromore.model.ProcessVersionIdsType"/>
+    </bindings>
+    <bindings scd="~tns:ClusterSettingsType">
+      <class ref="org.apromore.model.ClusterSettingsType"/>
+    </bindings>
+    <bindings scd="~tns:UsernamesType">
+      <class ref="org.apromore.model.UsernamesType"/>
+    </bindings>
+    <bindings scd="~tns:ReadFormatOutputMsgType">
+      <class ref="org.apromore.model.ReadFormatOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:CanoniseProcessOutputMsgType">
+      <class ref="org.apromore.model.CanoniseProcessOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:PairDistancesType">
+      <class ref="org.apromore.model.PairDistancesType"/>
+    </bindings>
+    <bindings scd="~tns:GenerateAnnotationOutputMsgType">
+      <class ref="org.apromore.model.GenerateAnnotationOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:VersionSummaryType">
+      <class ref="org.apromore.model.VersionSummaryType"/>
+    </bindings>
+    <bindings scd="~tns:PluginMessage">
+      <class ref="org.apromore.model.PluginMessage"/>
+    </bindings>
+    <bindings scd="~tns:ExportFormatResultType">
+      <class ref="org.apromore.model.ExportFormatResultType"/>
+    </bindings>
+    <bindings scd="~tns:FragmentDistancesType">
+      <class ref="org.apromore.model.FragmentDistancesType"/>
+    </bindings>
+    <bindings scd="~tns:ProcessSummariesType">
+      <class ref="org.apromore.model.ProcessSummariesType"/>
+    </bindings>
+    <bindings scd="~tns:ClusteringSummaryType">
+      <class ref="org.apromore.model.ClusteringSummaryType"/>
+    </bindings>
+    <bindings scd="~tns:StoreNativeCpfOutputMsgType">
+      <class ref="org.apromore.model.StoreNativeCpfOutputMsgType"/>
+    </bindings>
+    <bindings scd="~tns:PluginInfoResult">
+      <class ref="org.apromore.model.PluginInfoResult"/>
+    </bindings>
+    <bindings scd="~tns:FormatType">
+      <class ref="org.apromore.model.FormatType"/>
+    </bindings>
+    <bindings scd="~tns:FragmentIdsType">
+      <class ref="org.apromore.model.FragmentIdsType"/>
+    </bindings>
+    <bindings scd="~tns:ExportFragmentResultType">
+      <class ref="org.apromore.model.ExportFragmentResultType"/>
+    </bindings>
+    <bindings scd="~tns:NativeMetaData">
+      <class ref="org.apromore.model.NativeMetaData"/>
+    </bindings>
+    <bindings scd="~tns:ProcessSummaryType">
+      <class ref="org.apromore.model.ProcessSummaryType"/>
+    </bindings>
+  </bindings>
+</bindings>
+

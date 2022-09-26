@@ -1,0 +1,6 @@
+org\apromore\canoniser\Canoniser.class
+org\apromore\canoniser\utils\ExtensionUtils.class
+org\apromore\canoniser\DefaultAbstractCanoniser.class
+org\apromore\canoniser\exception\CanoniserException.class
+org\apromore\canoniser\provider\CanoniserProvider.class
+org\apromore\canoniser\result\CanoniserMetadataResult.class

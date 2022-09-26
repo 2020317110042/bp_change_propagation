@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1650264562751
+Build-Jdk: 1.8.0_281
+Built-By: rose
+Bundle-License: http://www.gnu.org/licenses/lgpl-3.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: Synergia CMAP Schema
+Bundle-SymbolicName: org.apromore.cmap-schema
+Bundle-Version: 1.1.0
+Created-By: Apache Maven Bundle Plugin
+Export-Package: com.processconfiguration.cmap;uses:="javax.xml.bind.anno
+ tation,com.sun.xml.bind.annotation,org.xml.sax,com.sun.xml.bind,javax.x
+ ml.bind.annotation.adapters";version="1.1.0"
+Import-Package: com.sun.xml.bind;version="[2.2,3)",com.sun.xml.bind.anno
+ tation;version="[2.2,3)",javax.xml.bind.annotation;version="[2.2,3)",ja
+ vax.xml.bind.annotation.adapters;version="[2.2,3)",org.xml.sax
+Tool: Bnd-1.50.0

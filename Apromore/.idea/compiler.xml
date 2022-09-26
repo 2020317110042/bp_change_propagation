@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="database-postgresql" />
+        <module name="canoniser-api-provider" />
+        <module name="bpmn2cpf" />
+        <module name="apromore-filestore" />
+        <module name="manager-client" />
+        <module name="deployment-api-provider" />
+        <module name="annotation-api-provider" />
+        <module name="annotation-yawl" />
+        <module name="annotation-epml" />
+        <module name="bpmncmap" />
+        <module name="manager-security" />
+        <module name="canoniser-epml" />
+        <module name="annotation-pnml" />
+        <module name="cmapper" />
+        <module name="quaestio" />
+        <module name="dcl-schema" />
+        <module name="deployment-api" />
+        <module name="pnml-schema" />
+        <module name="canoniser-pnml" />
+        <module name="database-mysql" />
+        <module name="cmap-schema" />
+        <module name="annotation-bpmn" />
+        <module name="canoniser-aris" />
+        <module name="cpf2epml" />
+        <module name="deployment-yawl" />
+        <module name="apromore-manager" />
+        <module name="canoniser-yawl" />
+        <module name="epml-schema" />
+        <module name="plugin-api" />
+        <module name="canoniser-bpmn" />
+        <module name="rlf-schema" />
+        <module name="filestore-client" />
+        <module name="plugin-api-provider" />
+        <module name="metric-api-provider" />
+        <module name="cpfImporter" />
+        <module name="cpf2bpmn" />
+        <module name="annotation-xpdl" />
+        <module name="metric-size" />
+        <module name="database-oracle" />
+        <module name="anf-schema" />
+        <module name="plugin-graph" />
+        <module name="canoniser-api" />
+        <module name="annotation-api" />
+        <module name="manager-ws-model" />
+        <module name="cpf-schema" />
+        <module name="metric-api" />
+        <module name="aris-schema" />
+        <module name="xpdl-schema" />
+        <module name="canoniser-xpdl" />
+        <module name="apromore-portal" />
+        <module name="bpmn-schema" />
+        <module name="yawl-schema" />
+        <module name="epml2cpf" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="anf-schema" target="1.7" />
+      <module name="annotation-api" target="1.7" />
+      <module name="annotation-api-provider" target="1.7" />
+      <module name="annotation-bpmn" target="1.7" />
+      <module name="annotation-epml" target="1.7" />
+      <module name="annotation-pnml" target="1.7" />
+      <module name="annotation-xpdl" target="1.7" />
+      <module name="annotation-yawl" target="1.7" />
+      <module name="apromore" target="1.7" />
+      <module name="apromore-editor" target="1.7" />
+      <module name="apromore-filestore" target="1.7" />
+      <module name="apromore-manager" target="1.7" />
+      <module name="apromore-portal" target="1.7" />
+      <module name="aris-schema" target="1.7" />
+      <module name="bpmn-schema" target="1.7" />
+      <module name="bpmn2cpf" target="1.7" />
+      <module name="bpmncmap" target="1.7" />
+      <module name="canoniser-api" target="1.7" />
+      <module name="canoniser-api-provider" target="1.7" />
+      <module name="canoniser-aris" target="1.7" />
+      <module name="canoniser-bpmn" target="1.7" />
+      <module name="canoniser-epml" target="1.7" />
+      <module name="canoniser-pnml" target="1.7" />
+      <module name="canoniser-xpdl" target="1.7" />
+      <module name="canoniser-yawl" target="1.7" />
+      <module name="cmap-schema" target="1.7" />
+      <module name="cmapper" target="1.7" />
+      <module name="cpf-schema" target="1.7" />
+      <module name="cpf2bpmn" target="1.7" />
+      <module name="cpf2epml" target="1.7" />
+      <module name="cpfImporter" target="1.7" />
+      <module name="database-mysql" target="1.7" />
+      <module name="database-oracle" target="1.7" />
+      <module name="database-postgresql" target="1.7" />
+      <module name="dcl-schema" target="1.7" />
+      <module name="deployment-api" target="1.7" />
+      <module name="deployment-api-provider" target="1.7" />
+      <module name="deployment-yawl" target="1.7" />
+      <module name="epml-schema" target="1.7" />
+      <module name="epml2cpf" target="1.7" />
+      <module name="filestore-assembly" target="1.7" />
+      <module name="filestore-client" target="1.7" />
+      <module name="manager-assembly" target="1.7" />
+      <module name="manager-client" target="1.7" />
+      <module name="manager-security" target="1.7" />
+      <module name="manager-ws-model" target="1.7" />
+      <module name="metric-api" target="1.7" />
+      <module name="metric-api-provider" target="1.7" />
+      <module name="metric-size" target="1.7" />
+      <module name="plugin" target="1.7" />
+      <module name="plugin-api" target="1.7" />
+      <module name="plugin-api-provider" target="1.7" />
+      <module name="plugin-graph" target="1.7" />
+      <module name="pnml-schema" target="1.7" />
+      <module name="portal-assembly" target="1.7" />
+      <module name="quaestio" target="1.7" />
+      <module name="rlf-schema" target="1.7" />
+      <module name="xpdl-schema" target="1.7" />
+      <module name="yawl-schema" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1650264555183
+Build-Jdk: 1.8.0_281
+Built-By: rose
+Bundle-License: http://www.gnu.org/licenses/lgpl-3.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: Apromore ARIS Schema
+Bundle-SymbolicName: org.apromore.aris-schema
+Bundle-Version: 1.1.0
+Created-By: Apache Maven Bundle Plugin
+Export-Package: generated;uses:="javax.xml.bind.annotation,javax.xml.bin
+ d.annotation.adapters,javax.xml.bind,javax.xml.namespace";version="1.1.
+ 0"
+Import-Package: javax.xml.bind,javax.xml.bind.annotation,javax.xml.bind.
+ annotation.adapters,javax.xml.namespace
+Tool: Bnd-1.50.0

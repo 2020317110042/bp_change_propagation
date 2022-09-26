@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bindings version="2.1" xmlns="http://java.sun.com/xml/ns/jaxb">
+  <!--
+
+此文件是由 JavaTM Architecture for XML Binding (JAXB) 引用实现 v2.2.7 生成的
+请访问 <a href="http://java.sun.com/xml/jaxb">http://java.sun.com/xml/jaxb</a> 
+在重新编译源模式时, 对此文件的所有修改都将丢失。
+生成时间: 2022.04.18 时间 02:49:09 PM CST 
+
+  -->
+  <bindings scd="x-schema::tns" xmlns:tns="http://www.apromore.org/ANF">
+    <schemaBindings map="false">
+      <package name="org.apromore.anf"/>
+    </schemaBindings>
+    <bindings scd="~tns:AnnotationsType">
+      <class ref="org.apromore.anf.AnnotationsType"/>
+    </bindings>
+    <bindings scd="~tns:sizeType">
+      <class ref="org.apromore.anf.SizeType"/>
+    </bindings>
+    <bindings scd="~tns:fontType">
+      <class ref="org.apromore.anf.FontType"/>
+    </bindings>
+    <bindings scd="~tns:positionType">
+      <class ref="org.apromore.anf.PositionType"/>
+    </bindings>
+    <bindings scd="~tns:AnnotationType">
+      <class ref="org.apromore.anf.AnnotationType"/>
+    </bindings>
+    <bindings scd="~tns:SimulationType">
+      <class ref="org.apromore.anf.SimulationType"/>
+    </bindings>
+    <bindings scd="~tns:GraphicsType">
+      <class ref="org.apromore.anf.GraphicsType"/>
+    </bindings>
+    <bindings scd="~tns:DocumentationType">
+      <class ref="org.apromore.anf.DocumentationType"/>
+    </bindings>
+    <bindings scd="~tns:fillType">
+      <class ref="org.apromore.anf.FillType"/>
+    </bindings>
+    <bindings scd="~tns:lineType">
+      <class ref="org.apromore.anf.LineType"/>
+    </bindings>
+    <bindings scd="~tns:cpfTypeEnum">
+      <typesafeEnumClass ref="org.apromore.anf.CpfTypeEnum"/>
+    </bindings>
+  </bindings>
+</bindings>
+

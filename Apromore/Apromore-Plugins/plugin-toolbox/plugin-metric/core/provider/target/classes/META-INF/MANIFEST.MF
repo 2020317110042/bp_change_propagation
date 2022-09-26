@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1650264595139
+Build-Jdk: 1.8.0_281
+Built-By: rose
+Bundle-Description: Provider for Metric Plugins using OSGi to dynamicall
+ y discover available Metric Plugins
+Bundle-License: http://www.gnu.org/licenses/lgpl-3.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: Apromore Metric API Provider
+Bundle-SymbolicName: org.apromore.plugin.metric-api-provider
+Bundle-Version: 1.1.0
+Created-By: Apache Maven Bundle Plugin
+Import-Package: javax.annotation,org.apromore.plugin.exception;version="
+ [1.1,2)",org.apromore.plugin.metric;version="[1.1,2)",org.apromore.plug
+ in.metric.provider;version="[1.1,2)",org.apromore.plugin.provider;versi
+ on="[1.1,2)",org.springframework.stereotype;version="[3.1,4)"
+Tool: Bnd-1.50.0

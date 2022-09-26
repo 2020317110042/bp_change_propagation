@@ -1,0 +1,28 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1650264600637
+Build-Jdk: 1.8.0_281
+Built-By: rose
+Bundle-Description: Apromore Plugin API's and core Plugins
+Bundle-License: http://www.gnu.org/licenses/lgpl-3.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: Apromore EPML Canoniser
+Bundle-SymbolicName: org.apromore.plugin.canoniser-epml
+Bundle-Version: 1.1.0
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.apromore.canoniser.epml;uses:="org.apromore.canonise
+ r.exception,de.epml,org.xml.sax,org.apromore.cpf,org.apromore.anf,javax
+ .xml.bind,org.slf4j,org.apromore.canoniser.result,org.apromore.plugin,o
+ rg.apromore.canoniser,javax.xml.transform,org.apromore.plugin.property,
+ javax.xml.transform.stream,org.springframework.stereotype,org.apromore.
+ plugin.exception";version="1.1.0"
+Import-Package: com.processconfiguration;version="[1.1,2)",de.epml;versi
+ on="[1.1,2)",javax.xml.bind;version="[2.2,3)",javax.xml.namespace,javax
+ .xml.transform,javax.xml.transform.stream,org.apromore.anf;version="[1.
+ 1,2)",org.apromore.canoniser;version="[1.1,2)",org.apromore.canoniser.e
+ xception;version="[1.1,2)",org.apromore.canoniser.result;version="[1.1,
+ 2)",org.apromore.canoniser.utils;version="[1.1,2)",org.apromore.cpf;ver
+ sion="[1.1,2)",org.apromore.plugin;version="[1.1,2)",org.apromore.plugi
+ n.exception;version="[1.1,2)",org.apromore.plugin.property;version="[1.
+ 1,2)",org.slf4j;version="[1.7,2)",org.springframework.stereotype;versio
+ n="[3.1,4)",org.xml.sax
+Tool: Bnd-1.50.0

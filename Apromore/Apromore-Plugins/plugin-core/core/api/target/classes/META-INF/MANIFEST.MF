@@ -1,0 +1,26 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1650264583071
+Build-Jdk: 1.8.0_281
+Built-By: rose
+Bundle-Description: Apromore Plugin API's and core Plugins
+Bundle-License: http://www.gnu.org/licenses/lgpl-3.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: Apromore Plugin API
+Bundle-SymbolicName: org.apromore.plugin.api
+Bundle-Version: 1.1.0
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.apromore.plugin;uses:="org.apromore.plugin.property,
+ org.apache.commons.lang.builder,org.slf4j,org.apromore.plugin.exception
+ ,org.apromore.plugin.message";version="1.1.0",org.apromore.plugin.excep
+ tion;version="1.1.0",org.apromore.plugin.message;version="1.1.0",org.ap
+ romore.plugin.property;uses:="org.apache.commons.lang.builder";version=
+ "1.1.0",org.apromore.plugin.provider;uses:="org.apromore.plugin,org.apr
+ omore.plugin.exception,org.springframework.context.annotation,org.slf4j
+ ,org.springframework.core.type.filter,org.springframework.beans.factory
+ .support,org.springframework.beans.factory.config";version="1.1.0"
+Import-Package: org.apache.commons.lang.builder;version="[2.6,3)",org.sl
+ f4j;version="[1.7,2)",org.springframework.beans.factory.config;version=
+ "[3.1,4)",org.springframework.beans.factory.support;version="[3.1,4)",o
+ rg.springframework.context.annotation;version="[3.1,4)",org.springframe
+ work.core.type.filter;version="[3.1,4)"
+Tool: Bnd-1.50.0

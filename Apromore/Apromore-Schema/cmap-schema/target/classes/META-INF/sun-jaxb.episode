@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bindings version="2.1" xmlns="http://java.sun.com/xml/ns/jaxb">
+  <!--
+
+此文件是由 JavaTM Architecture for XML Binding (JAXB) 引用实现 v2.2.7 生成的
+请访问 <a href="http://java.sun.com/xml/jaxb">http://java.sun.com/xml/jaxb</a> 
+在重新编译源模式时, 对此文件的所有修改都将丢失。
+生成时间: 2022.04.18 时间 02:49:21 PM CST 
+
+  -->
+  <bindings scd="x-schema::tns" xmlns:tns="http://www.processconfiguration.com/CMAP">
+    <schemaBindings map="false">
+      <package name="com.processconfiguration.cmap"/>
+    </schemaBindings>
+    <bindings scd="~tns:CXORType">
+      <class ref="com.processconfiguration.cmap.CXORType"/>
+    </bindings>
+    <bindings scd="~tns:nofiType">
+      <class ref="com.processconfiguration.cmap.NofiType"/>
+    </bindings>
+    <bindings scd="~tns:CORType">
+      <class ref="com.processconfiguration.cmap.CORType"/>
+    </bindings>
+    <bindings scd="~tns:CFunctionType">
+      <class ref="com.processconfiguration.cmap.CFunctionType"/>
+    </bindings>
+    <bindings scd="~tns:CANDType">
+      <class ref="com.processconfiguration.cmap.CANDType"/>
+    </bindings>
+    <bindings scd="~tns:joinPortType">
+      <class ref="com.processconfiguration.cmap.JoinPortType"/>
+    </bindings>
+    <bindings scd="~tns:remType">
+      <class ref="com.processconfiguration.cmap.RemType"/>
+    </bindings>
+    <bindings scd="~tns:splitPortType">
+      <class ref="com.processconfiguration.cmap.SplitPortType"/>
+    </bindings>
+    <bindings scd="~tns:c-yawlType">
+      <class ref="com.processconfiguration.cmap.CYawlType"/>
+    </bindings>
+    <bindings scd="~tns:c-bpmnType">
+      <class ref="com.processconfiguration.cmap.CBpmnType"/>
+    </bindings>
+    <bindings scd="tns:CMAP">
+      <class ref="com.processconfiguration.cmap.CMAP"/>
+    </bindings>
+    <bindings scd="~tns:c-epcType">
+      <class ref="com.processconfiguration.cmap.CEpcType"/>
+    </bindings>
+    <bindings scd="~tns:tGatewayType">
+      <typesafeEnumClass ref="com.processconfiguration.cmap.TGatewayType"/>
+    </bindings>
+  </bindings>
+</bindings>
+

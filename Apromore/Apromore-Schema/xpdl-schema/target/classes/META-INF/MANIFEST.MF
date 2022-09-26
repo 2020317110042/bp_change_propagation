@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1650264576989
+Build-Jdk: 1.8.0_281
+Built-By: rose
+Bundle-License: http://www.gnu.org/licenses/lgpl-3.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: Apromore XPDL Schema
+Bundle-SymbolicName: org.apromore.xpdl-schema
+Bundle-Version: 1.1.0
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.wfmc._2002.xpdl1;uses:="javax.xml.bind.annotation,ja
+ vax.xml.bind.annotation.adapters,javax.xml.namespace,javax.xml.bind";ve
+ rsion="1.1.0",org.wfmc._2009.xpdl2;uses:="javax.xml.bind.annotation,jav
+ ax.xml.namespace,javax.xml.bind.annotation.adapters,org.wfmc._2002.xpdl
+ 1,javax.xml.bind,org.w3c.dom";version="1.1.0"
+Import-Package: javax.xml.bind,javax.xml.bind.annotation,javax.xml.bind.
+ annotation.adapters,javax.xml.namespace,org.w3c.dom
+Tool: Bnd-1.50.0

@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1650264587475
+Build-Jdk: 1.8.0_281
+Built-By: rose
+Bundle-Description: API for Annotation Pre Processing
+Bundle-License: http://www.gnu.org/licenses/lgpl-3.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: Apromore Annotation Pre Processor API
+Bundle-SymbolicName: org.apromore.plugin.annotation-api
+Bundle-Version: 1.1.0
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.apromore.annotation;uses:="org.apromore.plugin,org.a
+ promore.annotation.exception,org.apromore.cpf,org.apromore.anf,org.apro
+ more.annotation.model";version="1.1.0",org.apromore.annotation.exceptio
+ n;uses:="org.apromore.plugin.exception";version="1.1.0",org.apromore.an
+ notation.model;version="1.1.0",org.apromore.annotation.provider;uses:="
+ org.apromore.annotation,org.apromore.plugin.exception";version="1.1.0",
+ org.apromore.annotation.result;uses:="org.apromore.plugin,org.apromore.
+ anf";version="1.1.0"
+Import-Package: org.apromore.anf;version="[1.1,2)",org.apromore.cpf;vers
+ ion="[1.1,2)",org.apromore.plugin;version="[1.1,2)",org.apromore.plugin
+ .exception;version="[1.1,2)"
+Tool: Bnd-1.50.0
