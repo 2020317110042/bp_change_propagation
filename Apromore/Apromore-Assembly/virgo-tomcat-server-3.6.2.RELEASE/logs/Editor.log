@@ -1,0 +1,55 @@
+2022-04-18 15:55:10,623  INFO (EntryPoint.java:57) - Initializing platform...
+2022-04-18 15:55:10,671  INFO (EntryPoint.java:59) - Done initializing platform!
+2022-04-18 15:55:10,674  INFO (EncodingFilter.java:77) - EncodingFilter initializing...
+2022-04-18 15:55:10,674  INFO (EncodingFilter.java:79) - Using encoding: UTF-8
+2022-04-18 15:57:46,937 DEBUG (EncodingFilter.java:59) - Filtering: http://localhost:9000/editor/p/editor_plugins
+2022-04-18 15:57:46,942 DEBUG (EncodingFilter.java:72) - Leaving
+2022-04-18 15:57:46,947 DEBUG (EncodingFilter.java:59) - Filtering: http://localhost:9000/editor/p/editor_stencilset
+2022-04-18 15:57:46,951 DEBUG (EncodingFilter.java:72) - Leaving
+2022-04-18 15:57:46,988 DEBUG (EncodingFilter.java:59) - Filtering: http://localhost:9000/editor/p/editor_ssextensions
+2022-04-18 15:57:46,989 DEBUG (EncodingFilter.java:72) - Leaving
+2022-04-18 16:00:04,286 DEBUG (EncodingFilter.java:59) - Filtering: http://localhost:9000/editor/p/editor_plugins
+2022-04-18 16:00:04,288 DEBUG (EncodingFilter.java:72) - Leaving
+2022-04-18 16:00:04,292 DEBUG (EncodingFilter.java:59) - Filtering: http://localhost:9000/editor/p/editor_stencilset
+2022-04-18 16:00:04,294 DEBUG (EncodingFilter.java:72) - Leaving
+2022-04-18 16:00:04,326 DEBUG (EncodingFilter.java:59) - Filtering: http://localhost:9000/editor/p/editor_ssextensions
+2022-04-18 16:00:04,327 DEBUG (EncodingFilter.java:72) - Leaving
+2022-04-18 16:01:25,348 DEBUG (EncodingFilter.java:59) - Filtering: http://localhost:9000/editor/p/editor_plugins
+2022-04-18 16:01:25,349 DEBUG (EncodingFilter.java:72) - Leaving
+2022-04-18 16:01:25,352 DEBUG (EncodingFilter.java:59) - Filtering: http://localhost:9000/editor/p/editor_stencilset
+2022-04-18 16:01:25,354 DEBUG (EncodingFilter.java:72) - Leaving
+2022-04-18 16:01:25,387 DEBUG (EncodingFilter.java:59) - Filtering: http://localhost:9000/editor/p/editor_ssextensions
+2022-04-18 16:01:25,387 DEBUG (EncodingFilter.java:72) - Leaving
+2022-04-18 16:03:06,076 DEBUG (EncodingFilter.java:59) - Filtering: http://localhost:9000/editor/p/editor_plugins
+2022-04-18 16:03:06,077 DEBUG (EncodingFilter.java:72) - Leaving
+2022-04-18 16:03:06,081 DEBUG (EncodingFilter.java:59) - Filtering: http://localhost:9000/editor/p/editor_stencilset
+2022-04-18 16:03:06,082 DEBUG (EncodingFilter.java:72) - Leaving
+2022-04-18 16:03:06,113 DEBUG (EncodingFilter.java:59) - Filtering: http://localhost:9000/editor/p/editor_ssextensions
+2022-04-18 16:03:06,114 DEBUG (EncodingFilter.java:72) - Leaving
+2022-04-18 16:03:51,317 DEBUG (EncodingFilter.java:59) - Filtering: http://localhost:9000/editor/p/editor_plugins
+2022-04-18 16:03:51,317 DEBUG (EncodingFilter.java:72) - Leaving
+2022-04-18 16:03:51,322 DEBUG (EncodingFilter.java:59) - Filtering: http://localhost:9000/editor/p/editor_stencilset
+2022-04-18 16:03:51,322 DEBUG (EncodingFilter.java:72) - Leaving
+2022-04-18 16:03:51,353 DEBUG (EncodingFilter.java:59) - Filtering: http://localhost:9000/editor/p/editor_ssextensions
+2022-04-18 16:03:51,353 DEBUG (EncodingFilter.java:72) - Leaving
+2022-04-18 16:07:23,462 DEBUG (EncodingFilter.java:59) - Filtering: http://localhost:9000/editor/p/editor_plugins
+2022-04-18 16:07:23,463 DEBUG (EncodingFilter.java:72) - Leaving
+2022-04-18 16:07:23,468 DEBUG (EncodingFilter.java:59) - Filtering: http://localhost:9000/editor/p/editor_stencilset
+2022-04-18 16:07:23,468 DEBUG (EncodingFilter.java:72) - Leaving
+2022-04-18 16:07:23,501 DEBUG (EncodingFilter.java:59) - Filtering: http://localhost:9000/editor/p/editor_ssextensions
+2022-04-18 16:07:23,501 DEBUG (EncodingFilter.java:72) - Leaving
+2022-04-18 16:08:59,515 DEBUG (EncodingFilter.java:59) - Filtering: http://localhost:9000/editor/p/editor_plugins
+2022-04-18 16:08:59,516 DEBUG (EncodingFilter.java:72) - Leaving
+2022-04-18 16:08:59,521 DEBUG (EncodingFilter.java:59) - Filtering: http://localhost:9000/editor/p/editor_stencilset
+2022-04-18 16:08:59,521 DEBUG (EncodingFilter.java:72) - Leaving
+2022-04-18 16:08:59,552 DEBUG (EncodingFilter.java:59) - Filtering: http://localhost:9000/editor/p/editor_ssextensions
+2022-04-18 16:08:59,553 DEBUG (EncodingFilter.java:72) - Leaving
+2022-04-18 16:10:21,001 DEBUG (EncodingFilter.java:59) - Filtering: http://localhost:9000/editor/p/editor_plugins
+2022-04-18 16:10:21,002 DEBUG (EncodingFilter.java:72) - Leaving
+2022-04-18 16:10:21,007 DEBUG (EncodingFilter.java:59) - Filtering: http://localhost:9000/editor/p/editor_stencilset
+2022-04-18 16:10:21,007 DEBUG (EncodingFilter.java:72) - Leaving
+2022-04-18 16:10:21,041 DEBUG (EncodingFilter.java:59) - Filtering: http://localhost:9000/editor/p/editor_ssextensions
+2022-04-18 16:10:21,042 DEBUG (EncodingFilter.java:72) - Leaving
+2022-04-18 16:11:16,307  INFO (EncodingFilter.java:53) - EncodingFilter destroyed...
+2022-04-18 16:11:16,310  INFO (EntryPoint.java:47) - Destroying platform...
+2022-04-18 16:11:16,311  INFO (EntryPoint.java:49) - Done destroying platform!

@@ -1,0 +1,375 @@
+[2022-04-18 15:54:51.574] startup-tracker              <KE0001I> Kernel starting. 
+[2022-04-18 15:54:53.758] startup-tracker              <KE0002I> Kernel started. 
+[2022-04-18 15:54:53.880] system-artifacts             <DE0000I> Installing plan 'org.eclipse.virgo.kernel.userregion.blueprint' version '3.6.2'. 
+[2022-04-18 15:54:54.064] system-artifacts             <DE0000I> Installing bundle 'org.eclipse.gemini.blueprint.core' version '1.0.2.RELEASE'. 
+[2022-04-18 15:54:54.111] system-artifacts             <DE0000I> Installing bundle 'org.eclipse.gemini.blueprint.extender' version '1.0.2.RELEASE'. 
+[2022-04-18 15:54:54.124] system-artifacts             <DE0000I> Installing bundle 'org.eclipse.gemini.blueprint.io' version '1.0.2.RELEASE'. 
+[2022-04-18 15:54:54.137] system-artifacts             <DE0000I> Installing bundle 'org.eclipse.virgo.kernel.agent.dm' version '3.6.2.RELEASE'. 
+[2022-04-18 15:54:54.144] system-artifacts             <DE0000I> Installing bundle 'org.eclipse.virgo.kernel.deployer.dm' version '3.6.2.RELEASE'. 
+[2022-04-18 15:54:54.175] system-artifacts             <DE0000I> Installing bundle 'org.eclipse.equinox.ds' version '1.4.0.v20120112-1400'. 
+[2022-04-18 15:54:54.203] system-artifacts             <DE0000I> Installing bundle 'org.eclipse.equinox.util' version '1.0.300.v20111010-1614'. 
+[2022-04-18 15:54:54.207] system-artifacts             <DE0000I> Installing configuration 'osgi.console' version '0.0.0'. 
+[2022-04-18 15:54:55.175] system-artifacts             <DE0001I> Installed bundle 'org.eclipse.gemini.blueprint.core' version '1.0.2.RELEASE'. 
+[2022-04-18 15:54:55.175] system-artifacts             <DE0001I> Installed bundle 'org.eclipse.gemini.blueprint.extender' version '1.0.2.RELEASE'. 
+[2022-04-18 15:54:55.175] system-artifacts             <DE0001I> Installed bundle 'org.eclipse.gemini.blueprint.io' version '1.0.2.RELEASE'. 
+[2022-04-18 15:54:55.176] system-artifacts             <DE0001I> Installed bundle 'org.eclipse.virgo.kernel.agent.dm' version '3.6.2.RELEASE'. 
+[2022-04-18 15:54:55.177] system-artifacts             <DE0001I> Installed bundle 'org.eclipse.virgo.kernel.deployer.dm' version '3.6.2.RELEASE'. 
+[2022-04-18 15:54:55.177] system-artifacts             <DE0001I> Installed bundle 'org.eclipse.equinox.ds' version '1.4.0.v20120112-1400'. 
+[2022-04-18 15:54:55.178] system-artifacts             <DE0001I> Installed bundle 'org.eclipse.equinox.util' version '1.0.300.v20111010-1614'. 
+[2022-04-18 15:54:55.179] system-artifacts             <DE0001I> Installed configuration 'osgi.console' version '0.0.0'. 
+[2022-04-18 15:54:55.180] system-artifacts             <DE0001I> Installed plan 'org.eclipse.virgo.kernel.userregion.blueprint' version '3.6.2'. 
+[2022-04-18 15:54:55.213] system-artifacts             <DE0004I> Starting plan 'org.eclipse.virgo.kernel.userregion.blueprint' version '3.6.2'. 
+[2022-04-18 15:54:55.218] system-artifacts             <DE0004I> Starting bundle 'org.eclipse.gemini.blueprint.core' version '1.0.2.RELEASE'. 
+[2022-04-18 15:54:55.220] start-signalling-1           <DE0005I> Started bundle 'org.eclipse.gemini.blueprint.core' version '1.0.2.RELEASE'. 
+[2022-04-18 15:54:55.221] system-artifacts             <DE0004I> Starting bundle 'org.eclipse.gemini.blueprint.extender' version '1.0.2.RELEASE'. 
+[2022-04-18 15:54:57.908] start-signalling-1           <DE0005I> Started bundle 'org.eclipse.gemini.blueprint.extender' version '1.0.2.RELEASE'. 
+[2022-04-18 15:54:57.911] system-artifacts             <DE0004I> Starting bundle 'org.eclipse.gemini.blueprint.io' version '1.0.2.RELEASE'. 
+[2022-04-18 15:54:57.913] start-signalling-1           <DE0005I> Started bundle 'org.eclipse.gemini.blueprint.io' version '1.0.2.RELEASE'. 
+[2022-04-18 15:54:57.916] system-artifacts             <DE0004I> Starting bundle 'org.eclipse.virgo.kernel.agent.dm' version '3.6.2.RELEASE'. 
+[2022-04-18 15:54:57.918] start-signalling-1           <DE0005I> Started bundle 'org.eclipse.virgo.kernel.agent.dm' version '3.6.2.RELEASE'. 
+[2022-04-18 15:54:57.920] system-artifacts             <DE0004I> Starting bundle 'org.eclipse.virgo.kernel.deployer.dm' version '3.6.2.RELEASE'. 
+[2022-04-18 15:54:57.926] system-artifacts             <DE0004I> Starting bundle 'org.eclipse.equinox.ds' version '1.4.0.v20120112-1400'. 
+[2022-04-18 15:54:58.413] start-signalling-1           <DE0005I> Started bundle 'org.eclipse.virgo.kernel.deployer.dm' version '3.6.2.RELEASE'. 
+[2022-04-18 15:54:58.416] start-signalling-1           <DE0005I> Started bundle 'org.eclipse.equinox.ds' version '1.4.0.v20120112-1400'. 
+[2022-04-18 15:54:58.417] system-artifacts             <DE0004I> Starting bundle 'org.eclipse.equinox.util' version '1.0.300.v20111010-1614'. 
+[2022-04-18 15:54:58.475] start-signalling-1           <DE0005I> Started bundle 'org.eclipse.equinox.util' version '1.0.300.v20111010-1614'. 
+[2022-04-18 15:54:58.476] system-artifacts             <DE0004I> Starting configuration 'osgi.console' version '0.0.0'. 
+[2022-04-18 15:54:58.489] system-artifacts             <DE0005I> Started configuration 'osgi.console' version '0.0.0'. 
+[2022-04-18 15:54:58.489] system-artifacts             <DE0005I> Started plan 'org.eclipse.virgo.kernel.userregion.blueprint' version '3.6.2'. 
+[2022-04-18 15:54:58.535] system-artifacts             <DE0000I> Installing plan 'org.eclipse.virgo.web.tomcat' version '3.6.2'. 
+[2022-04-18 15:54:58.538] system-artifacts             <DE0000I> Installing configuration 'org.eclipse.virgo.web' version '0.0.0'. 
+[2022-04-18 15:54:58.548] system-artifacts             <DE0000I> Installing bundle 'org.eclipse.virgo.web.spring.integration' version '3.6.2.RELEASE'. 
+[2022-04-18 15:54:58.577] system-artifacts             <DE0000I> Installing bundle 'org.eclipse.gemini.web.core' version '2.2.2.RELEASE'. 
+[2022-04-18 15:54:58.612] system-artifacts             <DE0000I> Installing bundle 'org.eclipse.gemini.web.tomcat' version '2.2.2.RELEASE'. 
+[2022-04-18 15:54:58.630] system-artifacts             <DE0000I> Installing bundle 'org.eclipse.virgo.web.core' version '3.6.2.RELEASE'. 
+[2022-04-18 15:54:58.639] system-artifacts             <DE0000I> Installing bundle 'org.eclipse.virgo.web.dm' version '3.6.2.RELEASE'. 
+[2022-04-18 15:54:58.653] system-artifacts             <DE0000I> Installing bundle 'org.eclipse.virgo.web.tomcat.support' version '3.6.2.RELEASE'. 
+[2022-04-18 15:54:58.666] system-artifacts             <DE0000I> Installing bundle 'org.eclipse.virgo.web.servlet.adapter' version '3.6.2.RELEASE'. 
+[2022-04-18 15:54:59.144] system-artifacts             <DE0001I> Installed configuration 'org.eclipse.virgo.web' version '0.0.0'. 
+[2022-04-18 15:54:59.144] system-artifacts             <DE0001I> Installed bundle 'org.eclipse.virgo.web.spring.integration' version '3.6.2.RELEASE'. 
+[2022-04-18 15:54:59.145] system-artifacts             <DE0001I> Installed bundle 'org.eclipse.gemini.web.core' version '2.2.2.RELEASE'. 
+[2022-04-18 15:54:59.145] system-artifacts             <DE0001I> Installed bundle 'org.eclipse.gemini.web.tomcat' version '2.2.2.RELEASE'. 
+[2022-04-18 15:54:59.146] system-artifacts             <DE0001I> Installed bundle 'org.eclipse.virgo.web.core' version '3.6.2.RELEASE'. 
+[2022-04-18 15:54:59.146] system-artifacts             <DE0001I> Installed bundle 'org.eclipse.virgo.web.dm' version '3.6.2.RELEASE'. 
+[2022-04-18 15:54:59.147] system-artifacts             <DE0001I> Installed bundle 'org.eclipse.virgo.web.tomcat.support' version '3.6.2.RELEASE'. 
+[2022-04-18 15:54:59.147] system-artifacts             <DE0001I> Installed bundle 'org.eclipse.virgo.web.servlet.adapter' version '3.6.2.RELEASE'. 
+[2022-04-18 15:54:59.148] system-artifacts             <DE0001I> Installed plan 'org.eclipse.virgo.web.tomcat' version '3.6.2'. 
+[2022-04-18 15:54:59.153] system-artifacts             <DE0004I> Starting plan 'org.eclipse.virgo.web.tomcat' version '3.6.2'. 
+[2022-04-18 15:54:59.154] system-artifacts             <DE0004I> Starting configuration 'org.eclipse.virgo.web' version '0.0.0'. 
+[2022-04-18 15:54:59.166] system-artifacts             <DE0005I> Started configuration 'org.eclipse.virgo.web' version '0.0.0'. 
+[2022-04-18 15:54:59.166] system-artifacts             <DE0005I> Started bundle 'org.eclipse.virgo.web.spring.integration' version '3.6.2.RELEASE'. 
+[2022-04-18 15:54:59.167] system-artifacts             <DE0004I> Starting bundle 'org.eclipse.gemini.web.core' version '2.2.2.RELEASE'. 
+[2022-04-18 15:54:59.260] start-signalling-1           <DE0005I> Started bundle 'org.eclipse.gemini.web.core' version '2.2.2.RELEASE'. 
+[2022-04-18 15:54:59.260] system-artifacts             <DE0004I> Starting bundle 'org.eclipse.gemini.web.tomcat' version '2.2.2.RELEASE'. 
+[2022-04-18 15:54:59.796] system-artifacts             <TC0000I> Starting Tomcat. 
+[2022-04-18 15:54:59.822] system-artifacts             <TC0010I> Creating HTTP/1.1 connector with scheme http on port 9000. 
+[2022-04-18 15:54:59.831] system-artifacts             <TC0010I> Creating HTTP/1.1 connector with scheme https on port 8443. 
+[2022-04-18 15:54:59.832] system-artifacts             <TC0010I> Creating AJP/1.3 connector with scheme http on port 8009. 
+[2022-04-18 15:54:59.834] system-artifacts             <TC0001I> Started Tomcat. 
+[2022-04-18 15:54:59.858] system-artifacts             <DE0004I> Starting bundle 'org.eclipse.virgo.web.core' version '3.6.2.RELEASE'. 
+[2022-04-18 15:54:59.861] system-artifacts             <DE0004I> Starting bundle 'org.eclipse.virgo.web.dm' version '3.6.2.RELEASE'. 
+[2022-04-18 15:54:59.864] start-signalling-1           <DE0005I> Started bundle 'org.eclipse.virgo.web.dm' version '3.6.2.RELEASE'. 
+[2022-04-18 15:54:59.864] system-artifacts             <DE0005I> Started bundle 'org.eclipse.virgo.web.tomcat.support' version '3.6.2.RELEASE'. 
+[2022-04-18 15:54:59.867] system-artifacts             <DE0004I> Starting bundle 'org.eclipse.virgo.web.servlet.adapter' version '3.6.2.RELEASE'. 
+[2022-04-18 15:54:59.869] start-signalling-1           <DE0005I> Started bundle 'org.eclipse.virgo.web.servlet.adapter' version '3.6.2.RELEASE'. 
+[2022-04-18 15:54:59.967] start-signalling-1           <DE0005I> Started bundle 'org.eclipse.gemini.web.tomcat' version '2.2.2.RELEASE'. 
+[2022-04-18 15:54:59.988] region-dm-6                  <WE0006W> WABHeaders set to 'defaulted' in org.eclipse.virgo.web.properties. This option may not be supported in future releases. 
+[2022-04-18 15:55:00.032] start-signalling-1           <DE0005I> Started bundle 'org.eclipse.virgo.web.core' version '3.6.2.RELEASE'. 
+[2022-04-18 15:55:00.033] start-signalling-1           <DE0005I> Started plan 'org.eclipse.virgo.web.tomcat' version '3.6.2'. 
+[2022-04-18 15:55:00.070] system-artifacts             <DE0000I> Installing configuration 'org.eclipse.virgo.apps.repository' version '0.0.0'. 
+[2022-04-18 15:55:00.083] system-artifacts             <DE0001I> Installed configuration 'org.eclipse.virgo.apps.repository' version '0.0.0'. 
+[2022-04-18 15:55:00.085] system-artifacts             <DE0004I> Starting configuration 'org.eclipse.virgo.apps.repository' version '0.0.0'. 
+[2022-04-18 15:55:00.094] system-artifacts             <DE0005I> Started configuration 'org.eclipse.virgo.apps.repository' version '0.0.0'. 
+[2022-04-18 15:55:00.122] system-artifacts             <DE0000I> Installing plan 'org.eclipse.virgo.management' version '3.6.2'. 
+[2022-04-18 15:55:00.188] system-artifacts             <DE0000I> Installing bundle 'osgi.enterprise' version '4.2.0.v201108120515'. 
+[2022-04-18 15:55:00.215] system-artifacts             <DE0000I> Installing bundle 'org.eclipse.gemini.management' version '1.0.5.RELEASE'. 
+[2022-04-18 15:55:00.225] system-artifacts             <DE0000I> Installing bundle 'org.eclipse.virgo.management.fragment' version '3.6.2.RELEASE'. 
+[2022-04-18 15:55:00.294] system-artifacts             <DE0001I> Installed bundle 'osgi.enterprise' version '4.2.0.v201108120515'. 
+[2022-04-18 15:55:00.294] system-artifacts             <DE0001I> Installed bundle 'org.eclipse.gemini.management' version '1.0.5.RELEASE'. 
+[2022-04-18 15:55:00.296] system-artifacts             <DE0001I> Installed bundle 'org.eclipse.virgo.management.fragment' version '3.6.2.RELEASE'. 
+[2022-04-18 15:55:00.296] system-artifacts             <DE0001I> Installed plan 'org.eclipse.virgo.management' version '3.6.2'. 
+[2022-04-18 15:55:00.305] system-artifacts             <DE0004I> Starting plan 'org.eclipse.virgo.management' version '3.6.2'. 
+[2022-04-18 15:55:00.306] system-artifacts             <DE0004I> Starting bundle 'osgi.enterprise' version '4.2.0.v201108120515'. 
+[2022-04-18 15:55:00.306] start-signalling-1           <DE0005I> Started bundle 'osgi.enterprise' version '4.2.0.v201108120515'. 
+[2022-04-18 15:55:00.307] system-artifacts             <DE0004I> Starting bundle 'org.eclipse.gemini.management' version '1.0.5.RELEASE'. 
+[2022-04-18 15:55:00.348] start-signalling-1           <DE0005I> Started bundle 'org.eclipse.gemini.management' version '1.0.5.RELEASE'. 
+[2022-04-18 15:55:00.349] system-artifacts             <DE0005I> Started bundle 'org.eclipse.virgo.management.fragment' version '3.6.2.RELEASE'. 
+[2022-04-18 15:55:00.349] system-artifacts             <DE0005I> Started plan 'org.eclipse.virgo.management' version '3.6.2'. 
+[2022-04-18 15:55:00.351] sync Event Dispatcher Thread <UR0001I> User region ready. 
+[2022-04-18 15:55:00.354] startup-readiness            <KE0007I> Virgo ready. Started for 9.751s. 
+[2022-04-18 15:55:01.358] fs-watcher                   <HD0001I> Hot deployer processing 'INITIAL' event for file 'annotation-bpmn-1.1.jar'. 
+[2022-04-18 15:55:01.439] fs-watcher                   <DE0000I> Installing bundle 'org.apromore.plugin.annotation-bpmn' version '1.1.0'. 
+[2022-04-18 15:55:01.522] fs-watcher                   <DE0001I> Installed bundle 'org.apromore.plugin.annotation-bpmn' version '1.1.0'. 
+[2022-04-18 15:55:01.525] fs-watcher                   <DE0004I> Starting bundle 'org.apromore.plugin.annotation-bpmn' version '1.1.0'. 
+[2022-04-18 15:55:01.529] fs-watcher                   <HD0001I> Hot deployer processing 'INITIAL' event for file 'annotation-epml-1.1.jar'. 
+[2022-04-18 15:55:01.639] fs-watcher                   <DE0000I> Installing bundle 'org.apromore.plugin.annotation-epml' version '1.1.0'. 
+[2022-04-18 15:55:01.653] fs-watcher                   <DE0001I> Installed bundle 'org.apromore.plugin.annotation-epml' version '1.1.0'. 
+[2022-04-18 15:55:01.659] fs-watcher                   <DE0004I> Starting bundle 'org.apromore.plugin.annotation-epml' version '1.1.0'. 
+[2022-04-18 15:55:01.662] fs-watcher                   <HD0001I> Hot deployer processing 'INITIAL' event for file 'annotation-pnml-1.1.jar'. 
+[2022-04-18 15:55:01.781] fs-watcher                   <DE0000I> Installing bundle 'org.apromore.plugin.annotation-pnml' version '1.1.0'. 
+[2022-04-18 15:55:01.788] fs-watcher                   <DE0001I> Installed bundle 'org.apromore.plugin.annotation-pnml' version '1.1.0'. 
+[2022-04-18 15:55:01.791] fs-watcher                   <DE0004I> Starting bundle 'org.apromore.plugin.annotation-pnml' version '1.1.0'. 
+[2022-04-18 15:55:01.792] start-signalling-1           <DE0005I> Started bundle 'org.apromore.plugin.annotation-pnml' version '1.1.0'. 
+[2022-04-18 15:55:01.792] fs-watcher                   <HD0001I> Hot deployer processing 'INITIAL' event for file 'annotation-xpdl-1.1.jar'. 
+[2022-04-18 15:55:01.877] fs-watcher                   <DE0000I> Installing bundle 'org.apromore.plugin.annotation-xpdl' version '1.1.0'. 
+[2022-04-18 15:55:01.888] fs-watcher                   <DE0001I> Installed bundle 'org.apromore.plugin.annotation-xpdl' version '1.1.0'. 
+[2022-04-18 15:55:01.893] fs-watcher                   <DE0004I> Starting bundle 'org.apromore.plugin.annotation-xpdl' version '1.1.0'. 
+[2022-04-18 15:55:01.897] fs-watcher                   <HD0001I> Hot deployer processing 'INITIAL' event for file 'annotation-yawl-1.1.jar'. 
+[2022-04-18 15:55:01.999] fs-watcher                   <DE0000I> Installing bundle 'org.apromore.plugin.annotation-yawl' version '1.1.0'. 
+[2022-04-18 15:55:02.013] fs-watcher                   <DE0001I> Installed bundle 'org.apromore.plugin.annotation-yawl' version '1.1.0'. 
+[2022-04-18 15:55:02.018] fs-watcher                   <DE0004I> Starting bundle 'org.apromore.plugin.annotation-yawl' version '1.1.0'. 
+[2022-04-18 15:55:02.022] fs-watcher                   <HD0001I> Hot deployer processing 'INITIAL' event for file 'canoniser-aris-1.1.jar'. 
+[2022-04-18 15:55:02.103] start-signalling-1           <DE0005I> Started bundle 'org.apromore.plugin.annotation-epml' version '1.1.0'. 
+[2022-04-18 15:55:02.105] start-signalling-2           <DE0005I> Started bundle 'org.apromore.plugin.annotation-xpdl' version '1.1.0'. 
+[2022-04-18 15:55:02.106] start-signalling-1           <DE0005I> Started bundle 'org.apromore.plugin.annotation-bpmn' version '1.1.0'. 
+[2022-04-18 15:55:02.139] fs-watcher                   <DE0000I> Installing bundle 'org.apromore.plugin.canoniser-aris' version '1.1.0'. 
+[2022-04-18 15:55:02.156] fs-watcher                   <DE0001I> Installed bundle 'org.apromore.plugin.canoniser-aris' version '1.1.0'. 
+[2022-04-18 15:55:02.158] fs-watcher                   <DE0004I> Starting bundle 'org.apromore.plugin.canoniser-aris' version '1.1.0'. 
+[2022-04-18 15:55:02.160] fs-watcher                   <HD0001I> Hot deployer processing 'INITIAL' event for file 'canoniser-bpmn-1.1.jar'. 
+[2022-04-18 15:55:02.258] fs-watcher                   <DE0000I> Installing bundle 'org.apromore.plugin.canoniser-bpmn' version '1.1.0'. 
+[2022-04-18 15:55:02.270] fs-watcher                   <DE0001I> Installed bundle 'org.apromore.plugin.canoniser-bpmn' version '1.1.0'. 
+[2022-04-18 15:55:02.274] fs-watcher                   <DE0004I> Starting bundle 'org.apromore.plugin.canoniser-bpmn' version '1.1.0'. 
+[2022-04-18 15:55:02.276] fs-watcher                   <HD0001I> Hot deployer processing 'INITIAL' event for file 'canoniser-epml-1.1.jar'. 
+[2022-04-18 15:55:02.329] start-signalling-1           <DE0005I> Started bundle 'org.apromore.plugin.canoniser-aris' version '1.1.0'. 
+[2022-04-18 15:55:02.362] start-signalling-1           <DE0005I> Started bundle 'org.apromore.plugin.annotation-yawl' version '1.1.0'. 
+[2022-04-18 15:55:02.380] fs-watcher                   <DE0000I> Installing bundle 'org.apromore.plugin.canoniser-epml' version '1.1.0'. 
+[2022-04-18 15:55:02.405] fs-watcher                   <DE0001I> Installed bundle 'org.apromore.plugin.canoniser-epml' version '1.1.0'. 
+[2022-04-18 15:55:02.409] fs-watcher                   <DE0004I> Starting bundle 'org.apromore.plugin.canoniser-epml' version '1.1.0'. 
+[2022-04-18 15:55:02.412] fs-watcher                   <HD0001I> Hot deployer processing 'INITIAL' event for file 'canoniser-pnml-1.1.jar'. 
+[2022-04-18 15:55:02.495] fs-watcher                   <DE0000I> Installing bundle 'org.apromore.plugin.canoniser-pnml' version '1.1.0'. 
+[2022-04-18 15:55:02.522] fs-watcher                   <DE0001I> Installed bundle 'org.apromore.plugin.canoniser-pnml' version '1.1.0'. 
+[2022-04-18 15:55:02.524] fs-watcher                   <DE0004I> Starting bundle 'org.apromore.plugin.canoniser-pnml' version '1.1.0'. 
+[2022-04-18 15:55:02.527] fs-watcher                   <HD0001I> Hot deployer processing 'INITIAL' event for file 'canoniser-xpdl-1.1.jar'. 
+[2022-04-18 15:55:02.601] start-signalling-1           <DE0005I> Started bundle 'org.apromore.plugin.canoniser-epml' version '1.1.0'. 
+[2022-04-18 15:55:02.607] fs-watcher                   <DE0000I> Installing bundle 'org.apromore.plugin.canoniser-xpdl' version '1.1.0'. 
+[2022-04-18 15:55:02.620] fs-watcher                   <DE0001I> Installed bundle 'org.apromore.plugin.canoniser-xpdl' version '1.1.0'. 
+[2022-04-18 15:55:02.622] fs-watcher                   <DE0004I> Starting bundle 'org.apromore.plugin.canoniser-xpdl' version '1.1.0'. 
+[2022-04-18 15:55:02.623] fs-watcher                   <HD0001I> Hot deployer processing 'INITIAL' event for file 'canoniser-yawl-1.1.jar'. 
+[2022-04-18 15:55:02.729] fs-watcher                   <DE0000I> Installing bundle 'org.apromore.plugin.canoniser-yawl' version '1.1.0'. 
+[2022-04-18 15:55:02.752] fs-watcher                   <DE0001I> Installed bundle 'org.apromore.plugin.canoniser-yawl' version '1.1.0'. 
+[2022-04-18 15:55:02.755] fs-watcher                   <DE0004I> Starting bundle 'org.apromore.plugin.canoniser-yawl' version '1.1.0'. 
+[2022-04-18 15:55:02.758] fs-watcher                   <HD0001I> Hot deployer processing 'INITIAL' event for file 'deployment-yawl-1.1.jar'. 
+[2022-04-18 15:55:02.821] start-signalling-1           <DE0005I> Started bundle 'org.apromore.plugin.canoniser-xpdl' version '1.1.0'. 
+[2022-04-18 15:55:02.829] fs-watcher                   <DE0000I> Installing bundle 'org.apromore.plugin.deployment-yawl' version '1.1.0'. 
+[2022-04-18 15:55:02.861] fs-watcher                   <DE0001I> Installed bundle 'org.apromore.plugin.deployment-yawl' version '1.1.0'. 
+[2022-04-18 15:55:02.864] fs-watcher                   <DE0004I> Starting bundle 'org.apromore.plugin.deployment-yawl' version '1.1.0'. 
+[2022-04-18 15:55:02.866] fs-watcher                   <HD0001I> Hot deployer processing 'INITIAL' event for file 'editor.war'. 
+[2022-04-18 15:55:03.086] start-signalling-1           <DE0005I> Started bundle 'org.apromore.plugin.canoniser-pnml' version '1.1.0'. 
+[2022-04-18 15:55:03.097] start-signalling-1           <DE0005I> Started bundle 'org.apromore.plugin.canoniser-bpmn' version '1.1.0'. 
+[2022-04-18 15:55:03.165] start-signalling-1           <DE0005I> Started bundle 'org.apromore.plugin.deployment-yawl' version '1.1.0'. 
+[2022-04-18 15:55:03.522] start-signalling-1           <DE0005I> Started bundle 'org.apromore.plugin.canoniser-yawl' version '1.1.0'. 
+[2022-04-18 15:55:05.458] fs-watcher                   <DE0000I> Installing bundle 'editor' version '0.0.0'. 
+[2022-04-18 15:55:07.524] fs-watcher                   <DE0001I> Installed bundle 'editor' version '0.0.0'. 
+[2022-04-18 15:55:07.647] fs-watcher                   <DE0004I> Starting bundle 'editor' version '0.0.0'. 
+[2022-04-18 15:55:07.649] fs-watcher                   <HD0001I> Hot deployer processing 'INITIAL' event for file 'metric-size-1.1.jar'. 
+[2022-04-18 15:55:07.655] start-signalling-1           <WE0000I> Starting web bundle 'editor' version '0.0.0' with context path '/editor'. 
+[2022-04-18 15:55:07.719] fs-watcher                   <DE0000I> Installing bundle 'org.apromore.plugin.metric-size' version '1.1.0'. 
+[2022-04-18 15:55:07.751] fs-watcher                   <DE0001I> Installed bundle 'org.apromore.plugin.metric-size' version '1.1.0'. 
+[2022-04-18 15:55:07.753] fs-watcher                   <DE0004I> Starting bundle 'org.apromore.plugin.metric-size' version '1.1.0'. 
+[2022-04-18 15:55:07.757] fs-watcher                   <HD0001I> Hot deployer processing 'INITIAL' event for file 'org.apromore.filestore.plan'. 
+[2022-04-18 15:55:07.820] fs-watcher                   <DE0000I> Installing plan 'org.apromore.filestore' version '1.1.0'. 
+[2022-04-18 15:55:07.836] fs-watcher                   <DE0000I> Installing bundle 'org.apromore.filestore-client' version '1.0.0'. 
+[2022-04-18 15:55:07.972] fs-watcher                   <DE0000I> Installing bundle 'org.apromore.manager-ws-model' version '1.1.0'. 
+[2022-04-18 15:55:07.978] start-signalling-2           <DE0005I> Started bundle 'org.apromore.plugin.metric-size' version '1.1.0'. 
+[2022-04-18 15:55:08.001] fs-watcher                   <DE0000I> Installing bundle 'org.apromore.manager-security' version '1.1.0'. 
+[2022-04-18 15:55:08.085] fs-watcher                   <DE0000I> Installing bundle 'org.apromore.filestore' version '1.0.0'. 
+[2022-04-18 15:55:09.102] fs-watcher                   <DE0001I> Installed bundle 'org.apromore.filestore-client' version '1.0.0'. 
+[2022-04-18 15:55:09.103] fs-watcher                   <DE0001I> Installed bundle 'org.apromore.manager-ws-model' version '1.1.0'. 
+[2022-04-18 15:55:09.108] fs-watcher                   <DE0001I> Installed bundle 'org.apromore.manager-security' version '1.1.0'. 
+[2022-04-18 15:55:09.109] fs-watcher                   <DE0001I> Installed bundle 'org.apromore.filestore' version '1.0.0'. 
+[2022-04-18 15:55:09.110] fs-watcher                   <DE0001I> Installed plan 'org.apromore.filestore' version '1.1.0'. 
+[2022-04-18 15:55:09.122] fs-watcher                   <DE0004I> Starting plan 'org.apromore.filestore' version '1.1.0'. 
+[2022-04-18 15:55:09.124] fs-watcher                   <DE0004I> Starting bundle 'org.apromore.filestore-client' version '1.0.0'. 
+[2022-04-18 15:55:09.127] fs-watcher                   <DE0004I> Starting bundle 'org.apromore.manager-ws-model' version '1.1.0'. 
+[2022-04-18 15:55:09.127] start-signalling-2           <DE0005I> Started bundle 'org.apromore.manager-ws-model' version '1.1.0'. 
+[2022-04-18 15:55:09.128] fs-watcher                   <DE0004I> Starting bundle 'org.apromore.manager-security' version '1.1.0'. 
+[2022-04-18 15:55:09.130] start-signalling-2           <DE0005I> Started bundle 'org.apromore.manager-security' version '1.1.0'. 
+[2022-04-18 15:55:09.132] fs-watcher                   <DE0004I> Starting bundle 'org.apromore.filestore' version '1.0.0'. 
+[2022-04-18 15:55:09.133] start-signalling-2           <WE0000I> Starting web bundle 'org.apromore.filestore' version '1.0.0' with context path '/filestore'. 
+[2022-04-18 15:55:09.134] fs-watcher                   <HD0001I> Hot deployer processing 'INITIAL' event for file 'org.apromore.manager.plan'. 
+[2022-04-18 15:55:09.195] fs-watcher                   <DE0000I> Installing plan 'org.apromore.manager' version '1.1.0'. 
+[2022-04-18 15:55:09.211] fs-watcher                   <DE0000I> Installing bundle 'org.apromore.plugin.database-mysql' version '1.1.0'. 
+[2022-04-18 15:55:09.262] fs-watcher                   <DE0000I> Installing bundle 'org.apromore.anf-schema' version '1.1.0'. 
+[2022-04-18 15:55:09.307] fs-watcher                   <DE0000I> Installing bundle 'org.apromore.aris-schema' version '1.1.0'. 
+[2022-04-18 15:55:09.448] fs-watcher                   <DE0000I> Installing bundle 'org.apromore.bpmn-schema' version '1.1.0'. 
+[2022-04-18 15:55:09.490] fs-watcher                   <DE0000I> Installing bundle 'org.apromore.cpf-schema' version '1.1.0'. 
+[2022-04-18 15:55:09.546] fs-watcher                   <DE0000I> Installing bundle 'org.apromore.epml-schema' version '1.1.0'. 
+[2022-04-18 15:55:09.610] fs-watcher                   <DE0000I> Installing bundle 'org.apromore.pnml-schema' version '1.1.0'. 
+[2022-04-18 15:55:09.627] fs-watcher                   <DE0000I> Installing bundle 'org.apromore.rlf-schema' version '1.1.0'. 
+[2022-04-18 15:55:09.806] fs-watcher                   <DE0000I> Installing bundle 'org.apromore.xpdl-schema' version '1.1.0'. 
+[2022-04-18 15:55:09.870] fs-watcher                   <DE0000I> Installing bundle 'org.apromore.yawl-schema' version '1.1.0'. 
+[2022-04-18 15:55:09.879] fs-watcher                   <DE0000I> Installing bundle 'org.apromore.plugin.api-provider' version '1.1.0'. 
+[2022-04-18 15:55:09.899] fs-watcher                   <DE0000I> Installing bundle 'org.apromore.plugin.annotation-api-provider' version '1.1.0'. 
+[2022-04-18 15:55:09.914] fs-watcher                   <DE0000I> Installing bundle 'org.apromore.plugin.canoniser-api-provider' version '1.1.0'. 
+[2022-04-18 15:55:09.924] fs-watcher                   <DE0000I> Installing bundle 'org.apromore.plugin.deployment-api-provider' version '1.1.0'. 
+[2022-04-18 15:55:09.943] fs-watcher                   <DE0000I> Installing bundle 'org.apromore.plugin.metric-api-provider' version '1.1.0'. 
+[2022-04-18 15:55:09.974] fs-watcher                   <DE0000I> Installing bundle 'org.apromore.plugin.graph' version '1.1.0'. 
+[2022-04-18 15:55:10.244] fs-watcher                   <DE0000I> Installing bundle 'org.apromore.manager' version '1.1.0'. 
+[2022-04-18 15:55:10.699] start-signalling-1           <WE0001I> Started web bundle 'editor' version '0.0.0' with context path '/editor'. 
+[2022-04-18 15:55:10.700] start-signalling-1           <DE0005I> Started bundle 'editor' version '0.0.0'. 
+[2022-04-18 15:55:11.689] fs-watcher                   <DE0001I> Installed bundle 'org.apromore.plugin.database-mysql' version '1.1.0'. 
+[2022-04-18 15:55:11.690] fs-watcher                   <DE0001I> Installed bundle 'org.apromore.anf-schema' version '1.1.0'. 
+[2022-04-18 15:55:11.690] fs-watcher                   <DE0001I> Installed bundle 'org.apromore.aris-schema' version '1.1.0'. 
+[2022-04-18 15:55:11.691] fs-watcher                   <DE0001I> Installed bundle 'org.apromore.bpmn-schema' version '1.1.0'. 
+[2022-04-18 15:55:11.692] fs-watcher                   <DE0001I> Installed bundle 'org.apromore.cpf-schema' version '1.1.0'. 
+[2022-04-18 15:55:11.693] fs-watcher                   <DE0001I> Installed bundle 'org.apromore.epml-schema' version '1.1.0'. 
+[2022-04-18 15:55:11.693] fs-watcher                   <DE0001I> Installed bundle 'org.apromore.pnml-schema' version '1.1.0'. 
+[2022-04-18 15:55:11.694] fs-watcher                   <DE0001I> Installed bundle 'org.apromore.rlf-schema' version '1.1.0'. 
+[2022-04-18 15:55:11.694] fs-watcher                   <DE0001I> Installed bundle 'org.apromore.xpdl-schema' version '1.1.0'. 
+[2022-04-18 15:55:11.694] fs-watcher                   <DE0001I> Installed bundle 'org.apromore.yawl-schema' version '1.1.0'. 
+[2022-04-18 15:55:11.695] fs-watcher                   <DE0001I> Installed bundle 'org.apromore.plugin.api-provider' version '1.1.0'. 
+[2022-04-18 15:55:11.695] fs-watcher                   <DE0001I> Installed bundle 'org.apromore.plugin.annotation-api-provider' version '1.1.0'. 
+[2022-04-18 15:55:11.695] fs-watcher                   <DE0001I> Installed bundle 'org.apromore.plugin.canoniser-api-provider' version '1.1.0'. 
+[2022-04-18 15:55:11.696] fs-watcher                   <DE0001I> Installed bundle 'org.apromore.plugin.deployment-api-provider' version '1.1.0'. 
+[2022-04-18 15:55:11.696] fs-watcher                   <DE0001I> Installed bundle 'org.apromore.plugin.metric-api-provider' version '1.1.0'. 
+[2022-04-18 15:55:11.697] fs-watcher                   <DE0001I> Installed bundle 'org.apromore.plugin.graph' version '1.1.0'. 
+[2022-04-18 15:55:11.697] fs-watcher                   <DE0001I> Installed bundle 'org.apromore.manager' version '1.1.0'. 
+[2022-04-18 15:55:11.698] fs-watcher                   <DE0001I> Installed plan 'org.apromore.manager' version '1.1.0'. 
+[2022-04-18 15:55:11.711] fs-watcher                   <DE0004I> Starting plan 'org.apromore.manager' version '1.1.0'. 
+[2022-04-18 15:55:11.712] fs-watcher                   <DE0005I> Started bundle 'org.apromore.plugin.database-mysql' version '1.1.0'. 
+[2022-04-18 15:55:11.714] fs-watcher                   <DE0004I> Starting bundle 'org.apromore.anf-schema' version '1.1.0'. 
+[2022-04-18 15:55:11.715] start-signalling-1           <DE0005I> Started bundle 'org.apromore.anf-schema' version '1.1.0'. 
+[2022-04-18 15:55:11.716] fs-watcher                   <DE0004I> Starting bundle 'org.apromore.aris-schema' version '1.1.0'. 
+[2022-04-18 15:55:11.717] start-signalling-1           <DE0005I> Started bundle 'org.apromore.aris-schema' version '1.1.0'. 
+[2022-04-18 15:55:11.718] fs-watcher                   <DE0004I> Starting bundle 'org.apromore.bpmn-schema' version '1.1.0'. 
+[2022-04-18 15:55:11.718] start-signalling-1           <DE0005I> Started bundle 'org.apromore.bpmn-schema' version '1.1.0'. 
+[2022-04-18 15:55:11.719] fs-watcher                   <DE0004I> Starting bundle 'org.apromore.cpf-schema' version '1.1.0'. 
+[2022-04-18 15:55:11.720] start-signalling-1           <DE0005I> Started bundle 'org.apromore.cpf-schema' version '1.1.0'. 
+[2022-04-18 15:55:11.721] fs-watcher                   <DE0004I> Starting bundle 'org.apromore.epml-schema' version '1.1.0'. 
+[2022-04-18 15:55:11.722] start-signalling-1           <DE0005I> Started bundle 'org.apromore.epml-schema' version '1.1.0'. 
+[2022-04-18 15:55:11.723] fs-watcher                   <DE0004I> Starting bundle 'org.apromore.pnml-schema' version '1.1.0'. 
+[2022-04-18 15:55:11.724] start-signalling-1           <DE0005I> Started bundle 'org.apromore.pnml-schema' version '1.1.0'. 
+[2022-04-18 15:55:11.725] fs-watcher                   <DE0004I> Starting bundle 'org.apromore.rlf-schema' version '1.1.0'. 
+[2022-04-18 15:55:11.777] start-signalling-1           <DE0005I> Started bundle 'org.apromore.rlf-schema' version '1.1.0'. 
+[2022-04-18 15:55:11.777] fs-watcher                   <DE0004I> Starting bundle 'org.apromore.xpdl-schema' version '1.1.0'. 
+[2022-04-18 15:55:11.778] start-signalling-1           <DE0005I> Started bundle 'org.apromore.xpdl-schema' version '1.1.0'. 
+[2022-04-18 15:55:11.779] fs-watcher                   <DE0004I> Starting bundle 'org.apromore.yawl-schema' version '1.1.0'. 
+[2022-04-18 15:55:11.780] start-signalling-1           <DE0005I> Started bundle 'org.apromore.yawl-schema' version '1.1.0'. 
+[2022-04-18 15:55:11.781] fs-watcher                   <DE0004I> Starting bundle 'org.apromore.plugin.api-provider' version '1.1.0'. 
+[2022-04-18 15:55:11.785] fs-watcher                   <DE0004I> Starting bundle 'org.apromore.plugin.annotation-api-provider' version '1.1.0'. 
+[2022-04-18 15:55:11.791] fs-watcher                   <DE0004I> Starting bundle 'org.apromore.plugin.canoniser-api-provider' version '1.1.0'. 
+[2022-04-18 15:55:11.796] fs-watcher                   <DE0004I> Starting bundle 'org.apromore.plugin.deployment-api-provider' version '1.1.0'. 
+[2022-04-18 15:55:11.811] fs-watcher                   <DE0004I> Starting bundle 'org.apromore.plugin.metric-api-provider' version '1.1.0'. 
+[2022-04-18 15:55:11.817] fs-watcher                   <DE0004I> Starting bundle 'org.apromore.plugin.graph' version '1.1.0'. 
+[2022-04-18 15:55:11.821] fs-watcher                   <DE0004I> Starting bundle 'org.apromore.manager' version '1.1.0'. 
+[2022-04-18 15:55:11.823] fs-watcher                   <HD0001I> Hot deployer processing 'INITIAL' event for file 'org.apromore.portal.plan'. 
+[2022-04-18 15:55:11.824] start-signalling-1           <DE0005I> Started bundle 'org.apromore.plugin.graph' version '1.1.0'. 
+[2022-04-18 15:55:11.841] start-signalling-4           <WE0000I> Starting web bundle 'org.apromore.manager' version '1.1.0' with context path '/manager'. 
+[2022-04-18 15:55:11.964] fs-watcher                   <DE0000I> Installing plan 'org.apromore.portal' version '1.1.0'. 
+[2022-04-18 15:55:11.990] fs-watcher                   <DE0000I> Installing bundle 'org.apromore.manager-client' version '1.1.0'. 
+[2022-04-18 15:55:12.016] start-signalling-3           <DE0005I> Started bundle 'org.apromore.filestore-client' version '1.0.0'. 
+[2022-04-18 15:55:12.372] start-signalling-3           <DE0005I> Started bundle 'org.apromore.plugin.deployment-api-provider' version '1.1.0'. 
+[2022-04-18 15:55:12.373] start-signalling-1           <DE0005I> Started bundle 'org.apromore.plugin.annotation-api-provider' version '1.1.0'. 
+[2022-04-18 15:55:12.378] start-signalling-5           <DE0005I> Started bundle 'org.apromore.plugin.canoniser-api-provider' version '1.1.0'. 
+[2022-04-18 15:55:12.379] start-signalling-1           <DE0005I> Started bundle 'org.apromore.plugin.metric-api-provider' version '1.1.0'. 
+[2022-04-18 15:55:12.382] start-signalling-1           <DE0005I> Started bundle 'org.apromore.plugin.api-provider' version '1.1.0'. 
+[2022-04-18 15:55:12.787] fs-watcher                   <DE0000I> Installing bundle 'org.apromore.portal' version '1.1.0'. 
+[2022-04-18 15:55:14.075] start-signalling-2           <WE0001I> Started web bundle 'org.apromore.filestore' version '1.0.0' with context path '/filestore'. 
+[2022-04-18 15:55:14.076] start-signalling-2           <DE0005I> Started bundle 'org.apromore.filestore' version '1.0.0'. 
+[2022-04-18 15:55:14.077] start-signalling-2           <DE0005I> Started plan 'org.apromore.filestore' version '1.1.0'. 
+[2022-04-18 15:55:14.559] fs-watcher                   <DE0001I> Installed bundle 'org.apromore.manager-client' version '1.1.0'. 
+[2022-04-18 15:55:14.560] fs-watcher                   <DE0001I> Installed bundle 'org.apromore.portal' version '1.1.0'. 
+[2022-04-18 15:55:14.560] fs-watcher                   <DE0001I> Installed plan 'org.apromore.portal' version '1.1.0'. 
+[2022-04-18 15:55:14.606] fs-watcher                   <DE0004I> Starting plan 'org.apromore.portal' version '1.1.0'. 
+[2022-04-18 15:55:14.609] fs-watcher                   <DE0004I> Starting bundle 'org.apromore.manager-client' version '1.1.0'. 
+[2022-04-18 15:55:14.613] fs-watcher                   <DE0004I> Starting bundle 'org.apromore.portal' version '1.1.0'. 
+[2022-04-18 15:55:14.614] start-signalling-2           <WE0000I> Starting web bundle 'org.apromore.portal' version '1.1.0' with context path '/portal'. 
+[2022-04-18 15:55:14.615] fs-watcher                   <HD0001I> Hot deployer processing 'INITIAL' event for file 'org.eclipse.virgo.apps.repository_3.6.2.RELEASE.par'. 
+[2022-04-18 15:55:15.028] fs-watcher                   <DE0000I> Installing par 'org.eclipse.virgo.apps.repository' version '3.6.2.RELEASE'. 
+[2022-04-18 15:55:15.029] fs-watcher                   <DE0000I> Installing bundle 'org.eclipse.virgo.apps.repository-3.6.2.RELEASE-org.eclipse.virgo.apps.repository.core' version '3.6.2.RELEASE'. 
+[2022-04-18 15:55:15.030] fs-watcher                   <DE0000I> Installing bundle 'org.eclipse.virgo.apps.repository-3.6.2.RELEASE-org.eclipse.virgo.apps.repository.web' version '3.6.2.RELEASE'. 
+[2022-04-18 15:55:15.208] fs-watcher                   <DE0001I> Installed bundle 'org.eclipse.virgo.apps.repository-3.6.2.RELEASE-org.eclipse.virgo.apps.repository.core' version '3.6.2.RELEASE'. 
+[2022-04-18 15:55:15.209] fs-watcher                   <DE0001I> Installed bundle 'org.eclipse.virgo.apps.repository-3.6.2.RELEASE-org.eclipse.virgo.apps.repository.web' version '3.6.2.RELEASE'. 
+[2022-04-18 15:55:15.209] fs-watcher                   <DE0001I> Installed bundle 'org.eclipse.virgo.apps.repository-3.6.2.RELEASE-synthetic.context' version '3.6.2.RELEASE'. 
+[2022-04-18 15:55:15.209] fs-watcher                   <DE0001I> Installed par 'org.eclipse.virgo.apps.repository' version '3.6.2.RELEASE'. 
+[2022-04-18 15:55:15.247] fs-watcher                   <DE0004I> Starting par 'org.eclipse.virgo.apps.repository' version '3.6.2.RELEASE'. 
+[2022-04-18 15:55:15.248] fs-watcher                   <DE0004I> Starting bundle 'org.eclipse.virgo.apps.repository-3.6.2.RELEASE-org.eclipse.virgo.apps.repository.core' version '3.6.2.RELEASE'. 
+[2022-04-18 15:55:15.252] fs-watcher                   <DE0004I> Starting bundle 'org.eclipse.virgo.apps.repository-3.6.2.RELEASE-org.eclipse.virgo.apps.repository.web' version '3.6.2.RELEASE'. 
+[2022-04-18 15:55:15.255] start-signalling-1           <WE0000I> Starting web bundle 'org.eclipse.virgo.apps.repository-3.6.2.RELEASE-org.eclipse.virgo.apps.repository.web' version '3.6.2.RELEASE' with context path '/org.eclipse.virgo.apps.repository'. 
+[2022-04-18 15:55:15.255] fs-watcher                   <DE0004I> Starting bundle 'org.eclipse.virgo.apps.repository-3.6.2.RELEASE-synthetic.context' version '3.6.2.RELEASE'. 
+[2022-04-18 15:55:15.257] start-signalling-5           <DE0005I> Started bundle 'org.eclipse.virgo.apps.repository-3.6.2.RELEASE-synthetic.context' version '3.6.2.RELEASE'. 
+[2022-04-18 15:55:15.257] fs-watcher                   <HD0001I> Hot deployer processing 'INITIAL' event for file 'org.eclipse.virgo.apps.splash_3.6.2.RELEASE.jar'. 
+[2022-04-18 15:55:15.410] fs-watcher                   <DE0000I> Installing bundle 'org.eclipse.virgo.apps.splash' version '3.6.2.RELEASE'. 
+[2022-04-18 15:55:15.426] start-signalling-5           <DE0005I> Started bundle 'org.apromore.manager-client' version '1.1.0'. 
+[2022-04-18 15:55:15.622] fs-watcher                   <DE0001I> Installed bundle 'org.eclipse.virgo.apps.splash' version '3.6.2.RELEASE'. 
+[2022-04-18 15:55:15.638] fs-watcher                   <DE0004I> Starting bundle 'org.eclipse.virgo.apps.splash' version '3.6.2.RELEASE'. 
+[2022-04-18 15:55:15.639] start-signalling-5           <WE0000I> Starting web bundle 'org.eclipse.virgo.apps.splash' version '3.6.2.RELEASE' with context path '/'. 
+[2022-04-18 15:55:15.641] fs-watcher                   <HD0001I> Hot deployer processing 'INITIAL' event for file 'org.eclipse.virgo.kernel.userregion.blueprint.plan'. 
+[2022-04-18 15:55:15.655] fs-watcher                   <HD0002E> Hot deploy failed for file 'org.eclipse.virgo.kernel.userregion.blueprint.plan'. org.eclipse.virgo.nano.deployer.api.core.DeploymentException: The artifact plan 'org.eclipse.virgo.kernel.userregion.blueprint' version '3.6.2' in scope 'null' at URI 'file:/D:/Apromore/Apromore-Assembly/virgo-tomcat-server-3.6.2.RELEASE/pickup/org.eclipse.virgo.kernel.userregion.blueprint.plan' cannot be stored in the runtime artifact model as it clashes with the artifact plan 'org.eclipse.virgo.kernel.userregion.blueprint' version '3.6.2' in scope 'null' which is already present.
+	at org.eclipse.virgo.kernel.deployer.core.internal.PipelinedApplicationDeployer.doInstall(PipelinedApplicationDeployer.java:179)
+	at org.eclipse.virgo.kernel.deployer.core.internal.PipelinedApplicationDeployer.install(PipelinedApplicationDeployer.java:140)
+	at org.eclipse.virgo.kernel.deployer.core.internal.PipelinedApplicationDeployer.deploy(PipelinedApplicationDeployer.java:253)
+	at org.eclipse.virgo.nano.deployer.hot.HotDeploymentFileSystemListener.deploy(HotDeployerFileSystemListener.java:225)
+	at org.eclipse.virgo.nano.deployer.hot.HotDeploymentFileSystemListener.deployIfNotDeployed(HotDeployerFileSystemListener.java:237)
+	at org.eclipse.virgo.nano.deployer.hot.HotDeploymentFileSystemListener.onChange(HotDeployerFileSystemListener.java:88)
+	at org.eclipse.virgo.util.io.FileSystemChecker.notifyListeners(FileSystemChecker.java:380)
+	at org.eclipse.virgo.util.io.FileSystemChecker.check(FileSystemChecker.java:289)
+	at org.eclipse.virgo.nano.deployer.hot.WatchTask.run(WatchTask.java:48)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.eclipse.virgo.kernel.deployer.model.DuplicateFileNameException: The artifact plan 'org.eclipse.virgo.kernel.userregion.blueprint' version '3.6.2' in scope 'null' at URI 'file:/D:/Apromore/Apromore-Assembly/virgo-tomcat-server-3.6.2.RELEASE/pickup/org.eclipse.virgo.kernel.userregion.blueprint.plan' cannot be stored in the runtime artifact model as it clashes with the artifact plan 'org.eclipse.virgo.kernel.userregion.blueprint' version '3.6.2' in scope 'null' which is already present.
+	at org.eclipse.virgo.kernel.deployer.model.internal.StandardRuntimeArtifactModel.checkFileName(StandardRuntimeArtifactModel.java:100)
+	at org.eclipse.virgo.kernel.deployer.model.internal.StandardRuntimeArtifactModel.add(StandardRuntimeArtifactModel.java:78)
+	at org.eclipse.virgo.kernel.deployer.core.internal.PipelinedApplicationDeployer.addGraphToModel(PipelinedApplicationDeployer.java:303)
+	at org.eclipse.virgo.kernel.deployer.core.internal.PipelinedApplicationDeployer.doInstall(PipelinedApplicationDeployer.java:174)
+	... 9 common frames omitted
+
+[2022-04-18 15:55:15.658] fs-watcher                   <HD0001I> Hot deployer processing 'INITIAL' event for file 'org.eclipse.virgo.management.console_3.6.2.RELEASE.jar'. 
+[2022-04-18 15:55:15.779] start-signalling-3           <DE0005I> Started bundle 'org.eclipse.virgo.apps.repository-3.6.2.RELEASE-org.eclipse.virgo.apps.repository.core' version '3.6.2.RELEASE'. 
+[2022-04-18 15:55:15.978] fs-watcher                   <DE0000I> Installing bundle 'org.eclipse.virgo.management.console' version '3.6.2.RELEASE'. 
+[2022-04-18 15:55:16.257] start-signalling-5           <WE0001I> Started web bundle 'org.eclipse.virgo.apps.splash' version '3.6.2.RELEASE' with context path '/'. 
+[2022-04-18 15:55:16.257] start-signalling-5           <DE0005I> Started bundle 'org.eclipse.virgo.apps.splash' version '3.6.2.RELEASE'. 
+[2022-04-18 15:55:16.526] fs-watcher                   <DE0001I> Installed bundle 'org.eclipse.virgo.management.console' version '3.6.2.RELEASE'. 
+[2022-04-18 15:55:16.533] fs-watcher                   <DE0004I> Starting bundle 'org.eclipse.virgo.management.console' version '3.6.2.RELEASE'. 
+[2022-04-18 15:55:16.588] fs-watcher                   <HD0001I> Hot deployer processing 'INITIAL' event for file 'org.eclipse.virgo.management.plan'. 
+[2022-04-18 15:55:16.597] start-signalling-5           <WE0000I> Starting web bundle 'org.eclipse.virgo.management.console' version '3.6.2.RELEASE' with context path '/admin'. 
+[2022-04-18 15:55:16.600] fs-watcher                   <HD0002E> Hot deploy failed for file 'org.eclipse.virgo.management.plan'. org.eclipse.virgo.nano.deployer.api.core.DeploymentException: The artifact plan 'org.eclipse.virgo.management' version '3.6.2' in scope 'null' at URI 'file:/D:/Apromore/Apromore-Assembly/virgo-tomcat-server-3.6.2.RELEASE/pickup/org.eclipse.virgo.management.plan' cannot be stored in the runtime artifact model as it clashes with the artifact plan 'org.eclipse.virgo.management' version '3.6.2' in scope 'null' which is already present.
+	at org.eclipse.virgo.kernel.deployer.core.internal.PipelinedApplicationDeployer.doInstall(PipelinedApplicationDeployer.java:179)
+	at org.eclipse.virgo.kernel.deployer.core.internal.PipelinedApplicationDeployer.install(PipelinedApplicationDeployer.java:140)
+	at org.eclipse.virgo.kernel.deployer.core.internal.PipelinedApplicationDeployer.deploy(PipelinedApplicationDeployer.java:253)
+	at org.eclipse.virgo.nano.deployer.hot.HotDeploymentFileSystemListener.deploy(HotDeployerFileSystemListener.java:225)
+	at org.eclipse.virgo.nano.deployer.hot.HotDeploymentFileSystemListener.deployIfNotDeployed(HotDeployerFileSystemListener.java:237)
+	at org.eclipse.virgo.nano.deployer.hot.HotDeploymentFileSystemListener.onChange(HotDeployerFileSystemListener.java:88)
+	at org.eclipse.virgo.util.io.FileSystemChecker.notifyListeners(FileSystemChecker.java:380)
+	at org.eclipse.virgo.util.io.FileSystemChecker.check(FileSystemChecker.java:289)
+	at org.eclipse.virgo.nano.deployer.hot.WatchTask.run(WatchTask.java:48)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.eclipse.virgo.kernel.deployer.model.DuplicateFileNameException: The artifact plan 'org.eclipse.virgo.management' version '3.6.2' in scope 'null' at URI 'file:/D:/Apromore/Apromore-Assembly/virgo-tomcat-server-3.6.2.RELEASE/pickup/org.eclipse.virgo.management.plan' cannot be stored in the runtime artifact model as it clashes with the artifact plan 'org.eclipse.virgo.management' version '3.6.2' in scope 'null' which is already present.
+	at org.eclipse.virgo.kernel.deployer.model.internal.StandardRuntimeArtifactModel.checkFileName(StandardRuntimeArtifactModel.java:100)
+	at org.eclipse.virgo.kernel.deployer.model.internal.StandardRuntimeArtifactModel.add(StandardRuntimeArtifactModel.java:78)
+	at org.eclipse.virgo.kernel.deployer.core.internal.PipelinedApplicationDeployer.addGraphToModel(PipelinedApplicationDeployer.java:303)
+	at org.eclipse.virgo.kernel.deployer.core.internal.PipelinedApplicationDeployer.doInstall(PipelinedApplicationDeployer.java:174)
+	... 9 common frames omitted
+
+[2022-04-18 15:55:16.602] fs-watcher                   <HD0001I> Hot deployer processing 'INITIAL' event for file 'org.eclipse.virgo.web.tomcat_3.6.2.RELEASE.plan'. 
+[2022-04-18 15:55:16.617] fs-watcher                   <HD0002E> Hot deploy failed for file 'org.eclipse.virgo.web.tomcat_3.6.2.RELEASE.plan'. org.eclipse.virgo.nano.deployer.api.core.DeploymentException: The artifact plan 'org.eclipse.virgo.web.tomcat' version '3.6.2' in scope 'null' at URI 'file:/D:/Apromore/Apromore-Assembly/virgo-tomcat-server-3.6.2.RELEASE/pickup/org.eclipse.virgo.web.tomcat_3.6.2.RELEASE.plan' cannot be stored in the runtime artifact model as it clashes with the artifact plan 'org.eclipse.virgo.web.tomcat' version '3.6.2' in scope 'null' which is already present.
+	at org.eclipse.virgo.kernel.deployer.core.internal.PipelinedApplicationDeployer.doInstall(PipelinedApplicationDeployer.java:179)
+	at org.eclipse.virgo.kernel.deployer.core.internal.PipelinedApplicationDeployer.install(PipelinedApplicationDeployer.java:140)
+	at org.eclipse.virgo.kernel.deployer.core.internal.PipelinedApplicationDeployer.deploy(PipelinedApplicationDeployer.java:253)
+	at org.eclipse.virgo.nano.deployer.hot.HotDeploymentFileSystemListener.deploy(HotDeployerFileSystemListener.java:225)
+	at org.eclipse.virgo.nano.deployer.hot.HotDeploymentFileSystemListener.deployIfNotDeployed(HotDeployerFileSystemListener.java:237)
+	at org.eclipse.virgo.nano.deployer.hot.HotDeploymentFileSystemListener.onChange(HotDeployerFileSystemListener.java:88)
+	at org.eclipse.virgo.util.io.FileSystemChecker.notifyListeners(FileSystemChecker.java:380)
+	at org.eclipse.virgo.util.io.FileSystemChecker.check(FileSystemChecker.java:289)
+	at org.eclipse.virgo.nano.deployer.hot.WatchTask.run(WatchTask.java:48)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.eclipse.virgo.kernel.deployer.model.DuplicateFileNameException: The artifact plan 'org.eclipse.virgo.web.tomcat' version '3.6.2' in scope 'null' at URI 'file:/D:/Apromore/Apromore-Assembly/virgo-tomcat-server-3.6.2.RELEASE/pickup/org.eclipse.virgo.web.tomcat_3.6.2.RELEASE.plan' cannot be stored in the runtime artifact model as it clashes with the artifact plan 'org.eclipse.virgo.web.tomcat' version '3.6.2' in scope 'null' which is already present.
+	at org.eclipse.virgo.kernel.deployer.model.internal.StandardRuntimeArtifactModel.checkFileName(StandardRuntimeArtifactModel.java:100)
+	at org.eclipse.virgo.kernel.deployer.model.internal.StandardRuntimeArtifactModel.add(StandardRuntimeArtifactModel.java:78)
+	at org.eclipse.virgo.kernel.deployer.core.internal.PipelinedApplicationDeployer.addGraphToModel(PipelinedApplicationDeployer.java:303)
+	at org.eclipse.virgo.kernel.deployer.core.internal.PipelinedApplicationDeployer.doInstall(PipelinedApplicationDeployer.java:174)
+	... 9 common frames omitted
+
+[2022-04-18 15:55:17.255] start-signalling-5           <WE0001I> Started web bundle 'org.eclipse.virgo.management.console' version '3.6.2.RELEASE' with context path '/admin'. 
+[2022-04-18 15:55:17.256] start-signalling-5           <DE0005I> Started bundle 'org.eclipse.virgo.management.console' version '3.6.2.RELEASE'. 
+[2022-04-18 15:55:19.278] start-signalling-1           <WE0001I> Started web bundle 'org.eclipse.virgo.apps.repository-3.6.2.RELEASE-org.eclipse.virgo.apps.repository.web' version '3.6.2.RELEASE' with context path '/org.eclipse.virgo.apps.repository'. 
+[2022-04-18 15:55:19.279] start-signalling-1           <DE0005I> Started bundle 'org.eclipse.virgo.apps.repository-3.6.2.RELEASE-org.eclipse.virgo.apps.repository.web' version '3.6.2.RELEASE'. 
+[2022-04-18 15:55:19.279] start-signalling-1           <DE0005I> Started par 'org.eclipse.virgo.apps.repository' version '3.6.2.RELEASE'. 
+[2022-04-18 15:55:24.516] start-signalling-2           <WE0001I> Started web bundle 'org.apromore.portal' version '1.1.0' with context path '/portal'. 
+[2022-04-18 15:55:24.516] start-signalling-2           <DE0005I> Started bundle 'org.apromore.portal' version '1.1.0'. 
+[2022-04-18 15:55:24.516] start-signalling-2           <DE0005I> Started plan 'org.apromore.portal' version '1.1.0'. 
+[2022-04-18 15:55:38.407] start-signalling-4           <WE0001I> Started web bundle 'org.apromore.manager' version '1.1.0' with context path '/manager'. 
+[2022-04-18 15:55:38.407] start-signalling-4           <DE0005I> Started bundle 'org.apromore.manager' version '1.1.0'. 
+[2022-04-18 15:55:38.407] start-signalling-4           <DE0005I> Started plan 'org.apromore.manager' version '1.1.0'. 
+[2022-04-18 16:11:16.074] System Bundle Shutdown       <KE0010I> Shutdown initiated. 
+[2022-04-18 16:11:16.098] System Bundle Shutdown       <TC0002I> Stopping Tomcat. 
+[2022-04-18 16:11:16.386] System Bundle Shutdown       <TC0003I> Stopped Tomcat. 

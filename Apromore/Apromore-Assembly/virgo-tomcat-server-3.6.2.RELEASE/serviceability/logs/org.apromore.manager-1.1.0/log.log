@@ -1,0 +1,59 @@
+[2022-04-18 15:57:44.092] INFO  http-bio-9000-exec-8         111                                                               63831600ms 
+[2022-04-18 15:58:05.082] WARN  http-bio-9000-exec-8         5                                                                 2983800ns 
+[2022-04-18 15:58:05.083] WARN  http-bio-9000-exec-8         5                                                                 383100ns 
+[2022-04-18 16:00:02.674] INFO  http-bio-9000-exec-2         111                                                               3324600ms 
+[2022-04-18 16:00:16.838] WARN  http-bio-9000-exec-2         5                                                                 607800ns 
+[2022-04-18 16:00:16.840] WARN  http-bio-9000-exec-2         5                                                                 286800ns 
+[2022-04-18 16:01:23.533] INFO  http-bio-9000-exec-21        111                                                               1431800ms 
+[2022-04-18 16:01:37.694] WARN  http-bio-9000-exec-21        5                                                                 328700ns 
+[2022-04-18 16:01:37.695] WARN  http-bio-9000-exec-21        5                                                                 339200ns 
+[2022-04-18 16:03:04.657] INFO  http-bio-9000-exec-23        org.apromore.toolbox.similaritySearch.algorithms.MergeModels      THIS IS TESTING REDEPLOY WITHOUT RESTARTING VIRGO 
+[2022-04-18 16:03:04.657] INFO  http-bio-9000-exec-23        org.apromore.toolbox.similaritySearch.algorithms.MergeModels      THIS IS TESTING REDEPLOY WITHOUT RESTARTING VIRGO 
+[2022-04-18 16:03:04.657] INFO  http-bio-9000-exec-23        org.apromore.toolbox.similaritySearch.algorithms.MergeModels      THIS IS TESTING REDEPLOY WITHOUT RESTARTING VIRGO 
+[2022-04-18 16:03:04.657] INFO  http-bio-9000-exec-23        org.apromore.toolbox.similaritySearch.algorithms.MergeModels      THIS IS TESTING REDEPLOY WITHOUT RESTARTING VIRGO 
+[2022-04-18 16:03:04.657] INFO  http-bio-9000-exec-23        org.apromore.toolbox.similaritySearch.algorithms.MergeModels      THIS IS TESTING REDEPLOY WITHOUT RESTARTING VIRGO 
+[2022-04-18 16:03:04.657] INFO  http-bio-9000-exec-23        org.apromore.toolbox.similaritySearch.algorithms.MergeModels      THIS IS TESTING REDEPLOY WITHOUT RESTARTING VIRGO 
+[2022-04-18 16:03:04.657] INFO  http-bio-9000-exec-23        org.apromore.toolbox.similaritySearch.algorithms.MergeModels      THIS IS TESTING REDEPLOY WITHOUT RESTARTING VIRGO 
+[2022-04-18 16:03:04.657] INFO  http-bio-9000-exec-23        org.apromore.toolbox.similaritySearch.algorithms.MergeModels      THIS IS TESTING REDEPLOY WITHOUT RESTARTING VIRGO 
+[2022-04-18 16:03:04.657] INFO  http-bio-9000-exec-23        org.apromore.toolbox.similaritySearch.algorithms.MergeModels      THIS IS TESTING REDEPLOY WITHOUT RESTARTING VIRGO 
+[2022-04-18 16:03:04.657] INFO  http-bio-9000-exec-23        org.apromore.toolbox.similaritySearch.algorithms.MergeModels      THIS IS TESTING REDEPLOY WITHOUT RESTARTING VIRGO 
+[2022-04-18 16:03:04.657] INFO  http-bio-9000-exec-23        org.apromore.toolbox.similaritySearch.algorithms.MergeModels      THIS IS TESTING REDEPLOY WITHOUT RESTARTING VIRGO 
+[2022-04-18 16:03:04.657] INFO  http-bio-9000-exec-23        org.apromore.toolbox.similaritySearch.algorithms.MergeModels      THIS IS TESTING REDEPLOY WITHOUT RESTARTING VIRGO 
+[2022-04-18 16:03:04.657] INFO  http-bio-9000-exec-23        org.apromore.toolbox.similaritySearch.algorithms.MergeModels      THIS IS TESTING REDEPLOY WITHOUT RESTARTING VIRGO 
+[2022-04-18 16:03:04.657] INFO  http-bio-9000-exec-23        org.apromore.toolbox.similaritySearch.algorithms.MergeModels      THIS IS TESTING REDEPLOY WITHOUT RESTARTING VIRGO 
+[2022-04-18 16:03:04.657] INFO  http-bio-9000-exec-23        org.apromore.toolbox.similaritySearch.algorithms.MergeModels      THIS IS TESTING REDEPLOY WITHOUT RESTARTING VIRGO 
+[2022-04-18 16:03:04.657] INFO  http-bio-9000-exec-23        org.apromore.toolbox.similaritySearch.algorithms.MergeModels      THIS IS TESTING REDEPLOY WITHOUT RESTARTING VIRGO 
+[2022-04-18 16:03:04.657] INFO  http-bio-9000-exec-23        org.apromore.toolbox.similaritySearch.algorithms.MergeModels      THIS IS TESTING REDEPLOY WITHOUT RESTARTING VIRGO 
+[2022-04-18 16:03:04.657] INFO  http-bio-9000-exec-23        org.apromore.toolbox.similaritySearch.algorithms.MergeModels      THIS IS TESTING REDEPLOY WITHOUT RESTARTING VIRGO 
+[2022-04-18 16:03:04.657] INFO  http-bio-9000-exec-23        org.apromore.toolbox.similaritySearch.algorithms.MergeModels      THIS IS TESTING REDEPLOY WITHOUT RESTARTING VIRGO 
+[2022-04-18 16:03:04.659] INFO  http-bio-9000-exec-23        111                                                               1942200ms 
+[2022-04-18 16:03:50.122] INFO  http-bio-9000-exec-23        org.apromore.toolbox.similaritySearch.algorithms.MergeModels      THIS IS TESTING REDEPLOY WITHOUT RESTARTING VIRGO 
+[2022-04-18 16:03:50.122] INFO  http-bio-9000-exec-23        org.apromore.toolbox.similaritySearch.algorithms.MergeModels      THIS IS TESTING REDEPLOY WITHOUT RESTARTING VIRGO 
+[2022-04-18 16:03:50.122] INFO  http-bio-9000-exec-23        org.apromore.toolbox.similaritySearch.algorithms.MergeModels      THIS IS TESTING REDEPLOY WITHOUT RESTARTING VIRGO 
+[2022-04-18 16:03:50.122] INFO  http-bio-9000-exec-23        org.apromore.toolbox.similaritySearch.algorithms.MergeModels      THIS IS TESTING REDEPLOY WITHOUT RESTARTING VIRGO 
+[2022-04-18 16:03:50.122] INFO  http-bio-9000-exec-23        org.apromore.toolbox.similaritySearch.algorithms.MergeModels      THIS IS TESTING REDEPLOY WITHOUT RESTARTING VIRGO 
+[2022-04-18 16:03:50.122] INFO  http-bio-9000-exec-23        org.apromore.toolbox.similaritySearch.algorithms.MergeModels      THIS IS TESTING REDEPLOY WITHOUT RESTARTING VIRGO 
+[2022-04-18 16:03:50.122] INFO  http-bio-9000-exec-23        org.apromore.toolbox.similaritySearch.algorithms.MergeModels      THIS IS TESTING REDEPLOY WITHOUT RESTARTING VIRGO 
+[2022-04-18 16:03:50.122] INFO  http-bio-9000-exec-23        org.apromore.toolbox.similaritySearch.algorithms.MergeModels      THIS IS TESTING REDEPLOY WITHOUT RESTARTING VIRGO 
+[2022-04-18 16:03:50.123] INFO  http-bio-9000-exec-23        org.apromore.toolbox.similaritySearch.algorithms.MergeModels      THIS IS TESTING REDEPLOY WITHOUT RESTARTING VIRGO 
+[2022-04-18 16:03:50.123] INFO  http-bio-9000-exec-23        org.apromore.toolbox.similaritySearch.algorithms.MergeModels      THIS IS TESTING REDEPLOY WITHOUT RESTARTING VIRGO 
+[2022-04-18 16:03:50.123] INFO  http-bio-9000-exec-23        org.apromore.toolbox.similaritySearch.algorithms.MergeModels      THIS IS TESTING REDEPLOY WITHOUT RESTARTING VIRGO 
+[2022-04-18 16:03:50.123] INFO  http-bio-9000-exec-23        org.apromore.toolbox.similaritySearch.algorithms.MergeModels      THIS IS TESTING REDEPLOY WITHOUT RESTARTING VIRGO 
+[2022-04-18 16:03:50.123] INFO  http-bio-9000-exec-23        org.apromore.toolbox.similaritySearch.algorithms.MergeModels      THIS IS TESTING REDEPLOY WITHOUT RESTARTING VIRGO 
+[2022-04-18 16:03:50.123] INFO  http-bio-9000-exec-23        org.apromore.toolbox.similaritySearch.algorithms.MergeModels      THIS IS TESTING REDEPLOY WITHOUT RESTARTING VIRGO 
+[2022-04-18 16:03:50.123] INFO  http-bio-9000-exec-23        org.apromore.toolbox.similaritySearch.algorithms.MergeModels      THIS IS TESTING REDEPLOY WITHOUT RESTARTING VIRGO 
+[2022-04-18 16:03:50.123] INFO  http-bio-9000-exec-23        org.apromore.toolbox.similaritySearch.algorithms.MergeModels      THIS IS TESTING REDEPLOY WITHOUT RESTARTING VIRGO 
+[2022-04-18 16:03:50.123] INFO  http-bio-9000-exec-23        org.apromore.toolbox.similaritySearch.algorithms.MergeModels      THIS IS TESTING REDEPLOY WITHOUT RESTARTING VIRGO 
+[2022-04-18 16:03:50.123] INFO  http-bio-9000-exec-23        org.apromore.toolbox.similaritySearch.algorithms.MergeModels      THIS IS TESTING REDEPLOY WITHOUT RESTARTING VIRGO 
+[2022-04-18 16:03:50.123] INFO  http-bio-9000-exec-23        org.apromore.toolbox.similaritySearch.algorithms.MergeModels      THIS IS TESTING REDEPLOY WITHOUT RESTARTING VIRGO 
+[2022-04-18 16:03:50.125] INFO  http-bio-9000-exec-23        111                                                               2310400ms 
+[2022-04-18 16:07:21.915] INFO  http-bio-9000-exec-14        111                                                               1259700ms 
+[2022-04-18 16:07:21.919] INFO  http-bio-9000-exec-14        111                                                               2612800ms 
+[2022-04-18 16:07:35.677] WARN  http-bio-9000-exec-14        5                                                                 327500ns 
+[2022-04-18 16:07:35.678] WARN  http-bio-9000-exec-14        5                                                                 200200ns 
+[2022-04-18 16:08:58.159] INFO  http-bio-9000-exec-25        111                                                               500500ms 
+[2022-04-18 16:09:08.766] WARN  http-bio-9000-exec-25        5                                                                 192200ns 
+[2022-04-18 16:09:08.767] WARN  http-bio-9000-exec-25        5                                                                 337800ns 
+[2022-04-18 16:10:19.469] INFO  http-bio-9000-exec-26        111                                                               724700ms 
+[2022-04-18 16:10:30.066] WARN  http-bio-9000-exec-26        5                                                                 353400ns 
+[2022-04-18 16:10:30.067] WARN  http-bio-9000-exec-26        5                                                                 288100ns 
