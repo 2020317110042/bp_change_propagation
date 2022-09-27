@@ -27,6 +27,11 @@ ant stop-virgo
             e.printStackTrace();
         }
 
+------------------------------------------------------------------------------------
+The above is not important！！！！！！！！！！！！
+
+PS. Unzip this before starting:
+Apromore\Apromore-Assembly\virgo-tomcat-server-3.6.2.RELEASE\work.rar
 
 
 Apromore Build Instructions with Eclipse Virgo
